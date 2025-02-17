@@ -29,11 +29,3 @@ This project analyzes historical sales data to extract actionable business insig
 │── 📁 DataScience # Data preprocessing, Machine Learning
 │── 📁 Testing # Automated test scripts 
 │── 📄 README.md # Project documentation
-
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/your-username/sales-analysis.git
-cd sales-analysis
