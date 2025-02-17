@@ -1,0 +1,1177 @@
+,Month,Product Category,Sales,Location
+0,2022-01-01,Cigarettes,422,winona
+1,2022-01-01,Other Tobacco,281,winona
+2,2022-01-01,Beer,387,winona
+3,2022-01-01,Wine,94,winona
+4,2022-01-01,Packaged Beverages-nonalcoh,224,winona
+5,2022-01-01,Candy,108,winona
+6,2022-01-01,Fluid Milk Products,259,winona
+7,2022-01-01,Other Dairy Deli,172,winona
+8,2022-01-01,Pkg Sand Other Products,301,winona
+9,2022-01-01,Packaged Ice Cream Novelty,213,winona
+10,2022-01-01,Frozen Foods,458,winona
+11,2022-01-01,Packaged Bread Comm Bakery,442,winona
+12,2022-01-01,Salty Snacks,152,winona
+13,2022-01-01,Packaged Sweet Snacks,229,winona
+14,2022-01-01,Alternative Snacks,411,winona
+15,2022-01-01,Fresh Foods - Perish Groc,459,winona
+16,2022-01-01,Edible Grocery,285,winona
+17,2022-01-01,Non-edible Grocery,263,winona
+18,2022-01-01,Health And Beauty Care,228,winona
+19,2022-01-01,General Merchandise,121,winona
+20,2022-01-01,Publications,170,winona
+21,2022-01-01,Automotive Products,204,winona
+22,2022-01-01,Store Services Fee Income,414,winona
+23,2022-01-01,Store Services Fee Inc Tax,423,winona
+24,2022-01-01,Ice Bags,473,winona
+25,2022-01-01,Hot Dispensed Beverages,68,winona
+26,2022-01-01,Cold Dispensed Beverages,441,winona
+27,2022-01-01,Frozen Dispensed Beverages,240,winona
+28,2022-01-01,Car Wash Sls,155,winona
+29,2022-01-01,Car Wash Vending Sales,54,winona
+30,2022-01-01,Chilled Bev Fee,487,winona
+31,2022-01-01,Coupons,218,winona
+32,2022-01-01,Cravins To Order,477,winona
+33,2022-01-01,CTO Ing Shelf Stable,339,winona
+34,2022-01-01,Fe Gift Cards Radiant,298,winona
+35,2022-01-01,Floral,382,winona
+36,2022-01-01,Fresh Bakery,333,winona
+37,2022-01-01,Gen Merch Scan Data Sales,212,winona
+38,2022-01-01,JW European Cafe,492,winona
+39,2022-01-01,Lottery Instant Tickets,174,winona
+40,2022-01-01,Lottery ITVM Instant Tickets,50,winona
+41,2022-01-01,Lottery Online Sales,322,winona
+42,2022-01-01,Manual Fuel Radiant,457,winona
+43,2022-01-01,Money Orders Radiant,53,winona
+44,2022-01-01,Money Transfers,236,winona
+45,2022-01-01,No Scan Merch Radiant,435,winona
+46,2022-01-01,Novelty,437,winona
+47,2022-01-01,Phone Card Fee,457,winona
+48,2022-01-01,Supplies-retail,391,winona
+49,2022-02-01,Cigarettes,368,winona
+50,2022-02-01,Other Tobacco,245,winona
+51,2022-02-01,Beer,144,winona
+52,2022-02-01,Wine,334,winona
+53,2022-02-01,Packaged Beverages-nonalcoh,330,winona
+54,2022-02-01,Candy,67,winona
+55,2022-02-01,Fluid Milk Products,367,winona
+56,2022-02-01,Other Dairy Deli,126,winona
+57,2022-02-01,Pkg Sand Other Products,477,winona
+58,2022-02-01,Packaged Ice Cream Novelty,307,winona
+59,2022-02-01,Frozen Foods,266,winona
+60,2022-02-01,Packaged Bread Comm Bakery,461,winona
+61,2022-02-01,Salty Snacks,433,winona
+62,2022-02-01,Packaged Sweet Snacks,305,winona
+63,2022-02-01,Alternative Snacks,240,winona
+64,2022-02-01,Fresh Foods - Perish Groc,437,winona
+65,2022-02-01,Edible Grocery,159,winona
+66,2022-02-01,Non-edible Grocery,287,winona
+67,2022-02-01,Health And Beauty Care,58,winona
+68,2022-02-01,General Merchandise,62,winona
+69,2022-02-01,Publications,366,winona
+70,2022-02-01,Automotive Products,167,winona
+71,2022-02-01,Store Services Fee Income,464,winona
+72,2022-02-01,Store Services Fee Inc Tax,304,winona
+73,2022-02-01,Ice Bags,475,winona
+74,2022-02-01,Hot Dispensed Beverages,241,winona
+75,2022-02-01,Cold Dispensed Beverages,435,winona
+76,2022-02-01,Frozen Dispensed Beverages,344,winona
+77,2022-02-01,Car Wash Sls,313,winona
+78,2022-02-01,Car Wash Vending Sales,160,winona
+79,2022-02-01,Chilled Bev Fee,405,winona
+80,2022-02-01,Coupons,145,winona
+81,2022-02-01,Cravins To Order,219,winona
+82,2022-02-01,CTO Ing Shelf Stable,271,winona
+83,2022-02-01,Fe Gift Cards Radiant,416,winona
+84,2022-02-01,Floral,151,winona
+85,2022-02-01,Fresh Bakery,473,winona
+86,2022-02-01,Gen Merch Scan Data Sales,444,winona
+87,2022-02-01,JW European Cafe,217,winona
+88,2022-02-01,Lottery Instant Tickets,498,winona
+89,2022-02-01,Lottery ITVM Instant Tickets,472,winona
+90,2022-02-01,Lottery Online Sales,129,winona
+91,2022-02-01,Manual Fuel Radiant,52,winona
+92,2022-02-01,Money Orders Radiant,65,winona
+93,2022-02-01,Money Transfers,268,winona
+94,2022-02-01,No Scan Merch Radiant,252,winona
+95,2022-02-01,Novelty,425,winona
+96,2022-02-01,Phone Card Fee,147,winona
+97,2022-02-01,Supplies-retail,308,winona
+98,2022-03-01,Cigarettes,198,winona
+99,2022-03-01,Other Tobacco,277,winona
+100,2022-03-01,Beer,304,winona
+101,2022-03-01,Wine,67,winona
+102,2022-03-01,Packaged Beverages-nonalcoh,337,winona
+103,2022-03-01,Candy,374,winona
+104,2022-03-01,Fluid Milk Products,270,winona
+105,2022-03-01,Other Dairy Deli,233,winona
+106,2022-03-01,Pkg Sand Other Products,115,winona
+107,2022-03-01,Packaged Ice Cream Novelty,353,winona
+108,2022-03-01,Frozen Foods,220,winona
+109,2022-03-01,Packaged Bread Comm Bakery,203,winona
+110,2022-03-01,Salty Snacks,342,winona
+111,2022-03-01,Packaged Sweet Snacks,115,winona
+112,2022-03-01,Alternative Snacks,374,winona
+113,2022-03-01,Fresh Foods - Perish Groc,441,winona
+114,2022-03-01,Edible Grocery,192,winona
+115,2022-03-01,Non-edible Grocery,368,winona
+116,2022-03-01,Health And Beauty Care,456,winona
+117,2022-03-01,General Merchandise,485,winona
+118,2022-03-01,Publications,314,winona
+119,2022-03-01,Automotive Products,62,winona
+120,2022-03-01,Store Services Fee Income,387,winona
+121,2022-03-01,Store Services Fee Inc Tax,140,winona
+122,2022-03-01,Ice Bags,494,winona
+123,2022-03-01,Hot Dispensed Beverages,98,winona
+124,2022-03-01,Cold Dispensed Beverages,50,winona
+125,2022-03-01,Frozen Dispensed Beverages,402,winona
+126,2022-03-01,Car Wash Sls,402,winona
+127,2022-03-01,Car Wash Vending Sales,147,winona
+128,2022-03-01,Chilled Bev Fee,361,winona
+129,2022-03-01,Coupons,149,winona
+130,2022-03-01,Cravins To Order,213,winona
+131,2022-03-01,CTO Ing Shelf Stable,61,winona
+132,2022-03-01,Fe Gift Cards Radiant,62,winona
+133,2022-03-01,Floral,449,winona
+134,2022-03-01,Fresh Bakery,492,winona
+135,2022-03-01,Gen Merch Scan Data Sales,378,winona
+136,2022-03-01,JW European Cafe,141,winona
+137,2022-03-01,Lottery Instant Tickets,406,winona
+138,2022-03-01,Lottery ITVM Instant Tickets,297,winona
+139,2022-03-01,Lottery Online Sales,99,winona
+140,2022-03-01,Manual Fuel Radiant,123,winona
+141,2022-03-01,Money Orders Radiant,202,winona
+142,2022-03-01,Money Transfers,403,winona
+143,2022-03-01,No Scan Merch Radiant,305,winona
+144,2022-03-01,Novelty,187,winona
+145,2022-03-01,Phone Card Fee,350,winona
+146,2022-03-01,Supplies-retail,367,winona
+147,2022-04-01,Cigarettes,407,winona
+148,2022-04-01,Other Tobacco,53,winona
+149,2022-04-01,Beer,106,winona
+150,2022-04-01,Wine,278,winona
+151,2022-04-01,Packaged Beverages-nonalcoh,92,winona
+152,2022-04-01,Candy,210,winona
+153,2022-04-01,Fluid Milk Products,193,winona
+154,2022-04-01,Other Dairy Deli,77,winona
+155,2022-04-01,Pkg Sand Other Products,322,winona
+156,2022-04-01,Packaged Ice Cream Novelty,70,winona
+157,2022-04-01,Frozen Foods,455,winona
+158,2022-04-01,Packaged Bread Comm Bakery,337,winona
+159,2022-04-01,Salty Snacks,420,winona
+160,2022-04-01,Packaged Sweet Snacks,346,winona
+161,2022-04-01,Alternative Snacks,462,winona
+162,2022-04-01,Fresh Foods - Perish Groc,366,winona
+163,2022-04-01,Edible Grocery,76,winona
+164,2022-04-01,Non-edible Grocery,148,winona
+165,2022-04-01,Health And Beauty Care,410,winona
+166,2022-04-01,General Merchandise,458,winona
+167,2022-04-01,Publications,479,winona
+168,2022-04-01,Automotive Products,257,winona
+169,2022-04-01,Store Services Fee Income,305,winona
+170,2022-04-01,Store Services Fee Inc Tax,433,winona
+171,2022-04-01,Ice Bags,444,winona
+172,2022-04-01,Hot Dispensed Beverages,253,winona
+173,2022-04-01,Cold Dispensed Beverages,76,winona
+174,2022-04-01,Frozen Dispensed Beverages,128,winona
+175,2022-04-01,Car Wash Sls,145,winona
+176,2022-04-01,Car Wash Vending Sales,358,winona
+177,2022-04-01,Chilled Bev Fee,100,winona
+178,2022-04-01,Coupons,50,winona
+179,2022-04-01,Cravins To Order,359,winona
+180,2022-04-01,CTO Ing Shelf Stable,125,winona
+181,2022-04-01,Fe Gift Cards Radiant,106,winona
+182,2022-04-01,Floral,76,winona
+183,2022-04-01,Fresh Bakery,362,winona
+184,2022-04-01,Gen Merch Scan Data Sales,245,winona
+185,2022-04-01,JW European Cafe,148,winona
+186,2022-04-01,Lottery Instant Tickets,374,winona
+187,2022-04-01,Lottery ITVM Instant Tickets,207,winona
+188,2022-04-01,Lottery Online Sales,104,winona
+189,2022-04-01,Manual Fuel Radiant,213,winona
+190,2022-04-01,Money Orders Radiant,110,winona
+191,2022-04-01,Money Transfers,429,winona
+192,2022-04-01,No Scan Merch Radiant,285,winona
+193,2022-04-01,Novelty,208,winona
+194,2022-04-01,Phone Card Fee,92,winona
+195,2022-04-01,Supplies-retail,113,winona
+196,2022-05-01,Cigarettes,343,winona
+197,2022-05-01,Other Tobacco,275,winona
+198,2022-05-01,Beer,349,winona
+199,2022-05-01,Wine,235,winona
+200,2022-05-01,Packaged Beverages-nonalcoh,200,winona
+201,2022-05-01,Candy,131,winona
+202,2022-05-01,Fluid Milk Products,472,winona
+203,2022-05-01,Other Dairy Deli,214,winona
+204,2022-05-01,Pkg Sand Other Products,368,winona
+205,2022-05-01,Packaged Ice Cream Novelty,254,winona
+206,2022-05-01,Frozen Foods,204,winona
+207,2022-05-01,Packaged Bread Comm Bakery,145,winona
+208,2022-05-01,Salty Snacks,319,winona
+209,2022-05-01,Packaged Sweet Snacks,340,winona
+210,2022-05-01,Alternative Snacks,497,winona
+211,2022-05-01,Fresh Foods - Perish Groc,346,winona
+212,2022-05-01,Edible Grocery,250,winona
+213,2022-05-01,Non-edible Grocery,156,winona
+214,2022-05-01,Health And Beauty Care,471,winona
+215,2022-05-01,General Merchandise,334,winona
+216,2022-05-01,Publications,135,winona
+217,2022-05-01,Automotive Products,230,winona
+218,2022-05-01,Store Services Fee Income,435,winona
+219,2022-05-01,Store Services Fee Inc Tax,453,winona
+220,2022-05-01,Ice Bags,443,winona
+221,2022-05-01,Hot Dispensed Beverages,270,winona
+222,2022-05-01,Cold Dispensed Beverages,231,winona
+223,2022-05-01,Frozen Dispensed Beverages,210,winona
+224,2022-05-01,Car Wash Sls,487,winona
+225,2022-05-01,Car Wash Vending Sales,65,winona
+226,2022-05-01,Chilled Bev Fee,497,winona
+227,2022-05-01,Coupons,405,winona
+228,2022-05-01,Cravins To Order,346,winona
+229,2022-05-01,CTO Ing Shelf Stable,348,winona
+230,2022-05-01,Fe Gift Cards Radiant,179,winona
+231,2022-05-01,Floral,292,winona
+232,2022-05-01,Fresh Bakery,131,winona
+233,2022-05-01,Gen Merch Scan Data Sales,394,winona
+234,2022-05-01,JW European Cafe,110,winona
+235,2022-05-01,Lottery Instant Tickets,55,winona
+236,2022-05-01,Lottery ITVM Instant Tickets,50,winona
+237,2022-05-01,Lottery Online Sales,167,winona
+238,2022-05-01,Manual Fuel Radiant,338,winona
+239,2022-05-01,Money Orders Radiant,319,winona
+240,2022-05-01,Money Transfers,477,winona
+241,2022-05-01,No Scan Merch Radiant,477,winona
+242,2022-05-01,Novelty,483,winona
+243,2022-05-01,Phone Card Fee,412,winona
+244,2022-05-01,Supplies-retail,260,winona
+245,2022-06-01,Cigarettes,155,winona
+246,2022-06-01,Other Tobacco,361,winona
+247,2022-06-01,Beer,131,winona
+248,2022-06-01,Wine,330,winona
+249,2022-06-01,Packaged Beverages-nonalcoh,345,winona
+250,2022-06-01,Candy,416,winona
+251,2022-06-01,Fluid Milk Products,432,winona
+252,2022-06-01,Other Dairy Deli,368,winona
+253,2022-06-01,Pkg Sand Other Products,50,winona
+254,2022-06-01,Packaged Ice Cream Novelty,140,winona
+255,2022-06-01,Frozen Foods,498,winona
+256,2022-06-01,Packaged Bread Comm Bakery,150,winona
+257,2022-06-01,Salty Snacks,182,winona
+258,2022-06-01,Packaged Sweet Snacks,89,winona
+259,2022-06-01,Alternative Snacks,399,winona
+260,2022-06-01,Fresh Foods - Perish Groc,388,winona
+261,2022-06-01,Edible Grocery,84,winona
+262,2022-06-01,Non-edible Grocery,52,winona
+263,2022-06-01,Health And Beauty Care,245,winona
+264,2022-06-01,General Merchandise,328,winona
+265,2022-06-01,Publications,138,winona
+266,2022-06-01,Automotive Products,448,winona
+267,2022-06-01,Store Services Fee Income,200,winona
+268,2022-06-01,Store Services Fee Inc Tax,403,winona
+269,2022-06-01,Ice Bags,97,winona
+270,2022-06-01,Hot Dispensed Beverages,453,winona
+271,2022-06-01,Cold Dispensed Beverages,464,winona
+272,2022-06-01,Frozen Dispensed Beverages,175,winona
+273,2022-06-01,Car Wash Sls,395,winona
+274,2022-06-01,Car Wash Vending Sales,289,winona
+275,2022-06-01,Chilled Bev Fee,144,winona
+276,2022-06-01,Coupons,309,winona
+277,2022-06-01,Cravins To Order,107,winona
+278,2022-06-01,CTO Ing Shelf Stable,463,winona
+279,2022-06-01,Fe Gift Cards Radiant,210,winona
+280,2022-06-01,Floral,199,winona
+281,2022-06-01,Fresh Bakery,198,winona
+282,2022-06-01,Gen Merch Scan Data Sales,425,winona
+283,2022-06-01,JW European Cafe,86,winona
+284,2022-06-01,Lottery Instant Tickets,126,winona
+285,2022-06-01,Lottery ITVM Instant Tickets,309,winona
+286,2022-06-01,Lottery Online Sales,375,winona
+287,2022-06-01,Manual Fuel Radiant,175,winona
+288,2022-06-01,Money Orders Radiant,175,winona
+289,2022-06-01,Money Transfers,173,winona
+290,2022-06-01,No Scan Merch Radiant,390,winona
+291,2022-06-01,Novelty,242,winona
+292,2022-06-01,Phone Card Fee,100,winona
+293,2022-06-01,Supplies-retail,181,winona
+294,2022-07-01,Cigarettes,417,winona
+295,2022-07-01,Other Tobacco,171,winona
+296,2022-07-01,Beer,489,winona
+297,2022-07-01,Wine,89,winona
+298,2022-07-01,Packaged Beverages-nonalcoh,492,winona
+299,2022-07-01,Candy,287,winona
+300,2022-07-01,Fluid Milk Products,360,winona
+301,2022-07-01,Other Dairy Deli,451,winona
+302,2022-07-01,Pkg Sand Other Products,425,winona
+303,2022-07-01,Packaged Ice Cream Novelty,146,winona
+304,2022-07-01,Frozen Foods,198,winona
+305,2022-07-01,Packaged Bread Comm Bakery,103,winona
+306,2022-07-01,Salty Snacks,415,winona
+307,2022-07-01,Packaged Sweet Snacks,68,winona
+308,2022-07-01,Alternative Snacks,145,winona
+309,2022-07-01,Fresh Foods - Perish Groc,267,winona
+310,2022-07-01,Edible Grocery,423,winona
+311,2022-07-01,Non-edible Grocery,238,winona
+312,2022-07-01,Health And Beauty Care,246,winona
+313,2022-07-01,General Merchandise,80,winona
+314,2022-07-01,Publications,98,winona
+315,2022-07-01,Automotive Products,490,winona
+316,2022-07-01,Store Services Fee Income,438,winona
+317,2022-07-01,Store Services Fee Inc Tax,139,winona
+318,2022-07-01,Ice Bags,377,winona
+319,2022-07-01,Hot Dispensed Beverages,121,winona
+320,2022-07-01,Cold Dispensed Beverages,144,winona
+321,2022-07-01,Frozen Dispensed Beverages,429,winona
+322,2022-07-01,Car Wash Sls,322,winona
+323,2022-07-01,Car Wash Vending Sales,458,winona
+324,2022-07-01,Chilled Bev Fee,90,winona
+325,2022-07-01,Coupons,57,winona
+326,2022-07-01,Cravins To Order,251,winona
+327,2022-07-01,CTO Ing Shelf Stable,225,winona
+328,2022-07-01,Fe Gift Cards Radiant,81,winona
+329,2022-07-01,Floral,286,winona
+330,2022-07-01,Fresh Bakery,205,winona
+331,2022-07-01,Gen Merch Scan Data Sales,304,winona
+332,2022-07-01,JW European Cafe,268,winona
+333,2022-07-01,Lottery Instant Tickets,238,winona
+334,2022-07-01,Lottery ITVM Instant Tickets,469,winona
+335,2022-07-01,Lottery Online Sales,472,winona
+336,2022-07-01,Manual Fuel Radiant,295,winona
+337,2022-07-01,Money Orders Radiant,300,winona
+338,2022-07-01,Money Transfers,124,winona
+339,2022-07-01,No Scan Merch Radiant,209,winona
+340,2022-07-01,Novelty,146,winona
+341,2022-07-01,Phone Card Fee,369,winona
+342,2022-07-01,Supplies-retail,176,winona
+343,2022-08-01,Cigarettes,325,winona
+344,2022-08-01,Other Tobacco,198,winona
+345,2022-08-01,Beer,338,winona
+346,2022-08-01,Wine,90,winona
+347,2022-08-01,Packaged Beverages-nonalcoh,495,winona
+348,2022-08-01,Candy,206,winona
+349,2022-08-01,Fluid Milk Products,402,winona
+350,2022-08-01,Other Dairy Deli,424,winona
+351,2022-08-01,Pkg Sand Other Products,400,winona
+352,2022-08-01,Packaged Ice Cream Novelty,143,winona
+353,2022-08-01,Frozen Foods,402,winona
+354,2022-08-01,Packaged Bread Comm Bakery,396,winona
+355,2022-08-01,Salty Snacks,298,winona
+356,2022-08-01,Packaged Sweet Snacks,451,winona
+357,2022-08-01,Alternative Snacks,469,winona
+358,2022-08-01,Fresh Foods - Perish Groc,280,winona
+359,2022-08-01,Edible Grocery,429,winona
+360,2022-08-01,Non-edible Grocery,436,winona
+361,2022-08-01,Health And Beauty Care,435,winona
+362,2022-08-01,General Merchandise,214,winona
+363,2022-08-01,Publications,317,winona
+364,2022-08-01,Automotive Products,295,winona
+365,2022-08-01,Store Services Fee Income,187,winona
+366,2022-08-01,Store Services Fee Inc Tax,99,winona
+367,2022-08-01,Ice Bags,413,winona
+368,2022-08-01,Hot Dispensed Beverages,466,winona
+369,2022-08-01,Cold Dispensed Beverages,111,winona
+370,2022-08-01,Frozen Dispensed Beverages,154,winona
+371,2022-08-01,Car Wash Sls,147,winona
+372,2022-08-01,Car Wash Vending Sales,247,winona
+373,2022-08-01,Chilled Bev Fee,139,winona
+374,2022-08-01,Coupons,160,winona
+375,2022-08-01,Cravins To Order,409,winona
+376,2022-08-01,CTO Ing Shelf Stable,475,winona
+377,2022-08-01,Fe Gift Cards Radiant,226,winona
+378,2022-08-01,Floral,106,winona
+379,2022-08-01,Fresh Bakery,176,winona
+380,2022-08-01,Gen Merch Scan Data Sales,225,winona
+381,2022-08-01,JW European Cafe,388,winona
+382,2022-08-01,Lottery Instant Tickets,155,winona
+383,2022-08-01,Lottery ITVM Instant Tickets,251,winona
+384,2022-08-01,Lottery Online Sales,51,winona
+385,2022-08-01,Manual Fuel Radiant,289,winona
+386,2022-08-01,Money Orders Radiant,452,winona
+387,2022-08-01,Money Transfers,471,winona
+388,2022-08-01,No Scan Merch Radiant,199,winona
+389,2022-08-01,Novelty,211,winona
+390,2022-08-01,Phone Card Fee,391,winona
+391,2022-08-01,Supplies-retail,85,winona
+392,2022-09-01,Cigarettes,215,winona
+393,2022-09-01,Other Tobacco,83,winona
+394,2022-09-01,Beer,124,winona
+395,2022-09-01,Wine,428,winona
+396,2022-09-01,Packaged Beverages-nonalcoh,443,winona
+397,2022-09-01,Candy,331,winona
+398,2022-09-01,Fluid Milk Products,491,winona
+399,2022-09-01,Other Dairy Deli,441,winona
+400,2022-09-01,Pkg Sand Other Products,275,winona
+401,2022-09-01,Packaged Ice Cream Novelty,93,winona
+402,2022-09-01,Frozen Foods,411,winona
+403,2022-09-01,Packaged Bread Comm Bakery,97,winona
+404,2022-09-01,Salty Snacks,136,winona
+405,2022-09-01,Packaged Sweet Snacks,322,winona
+406,2022-09-01,Alternative Snacks,273,winona
+407,2022-09-01,Fresh Foods - Perish Groc,50,winona
+408,2022-09-01,Edible Grocery,165,winona
+409,2022-09-01,Non-edible Grocery,290,winona
+410,2022-09-01,Health And Beauty Care,312,winona
+411,2022-09-01,General Merchandise,462,winona
+412,2022-09-01,Publications,314,winona
+413,2022-09-01,Automotive Products,310,winona
+414,2022-09-01,Store Services Fee Income,334,winona
+415,2022-09-01,Store Services Fee Inc Tax,282,winona
+416,2022-09-01,Ice Bags,334,winona
+417,2022-09-01,Hot Dispensed Beverages,416,winona
+418,2022-09-01,Cold Dispensed Beverages,133,winona
+419,2022-09-01,Frozen Dispensed Beverages,247,winona
+420,2022-09-01,Car Wash Sls,124,winona
+421,2022-09-01,Car Wash Vending Sales,314,winona
+422,2022-09-01,Chilled Bev Fee,116,winona
+423,2022-09-01,Coupons,66,winona
+424,2022-09-01,Cravins To Order,133,winona
+425,2022-09-01,CTO Ing Shelf Stable,379,winona
+426,2022-09-01,Fe Gift Cards Radiant,268,winona
+427,2022-09-01,Floral,111,winona
+428,2022-09-01,Fresh Bakery,381,winona
+429,2022-09-01,Gen Merch Scan Data Sales,158,winona
+430,2022-09-01,JW European Cafe,345,winona
+431,2022-09-01,Lottery Instant Tickets,176,winona
+432,2022-09-01,Lottery ITVM Instant Tickets,167,winona
+433,2022-09-01,Lottery Online Sales,362,winona
+434,2022-09-01,Manual Fuel Radiant,447,winona
+435,2022-09-01,Money Orders Radiant,358,winona
+436,2022-09-01,Money Transfers,214,winona
+437,2022-09-01,No Scan Merch Radiant,190,winona
+438,2022-09-01,Novelty,327,winona
+439,2022-09-01,Phone Card Fee,461,winona
+440,2022-09-01,Supplies-retail,88,winona
+441,2022-10-01,Cigarettes,167,winona
+442,2022-10-01,Other Tobacco,391,winona
+443,2022-10-01,Beer,117,winona
+444,2022-10-01,Wine,72,winona
+445,2022-10-01,Packaged Beverages-nonalcoh,257,winona
+446,2022-10-01,Candy,307,winona
+447,2022-10-01,Fluid Milk Products,214,winona
+448,2022-10-01,Other Dairy Deli,399,winona
+449,2022-10-01,Pkg Sand Other Products,492,winona
+450,2022-10-01,Packaged Ice Cream Novelty,350,winona
+451,2022-10-01,Frozen Foods,193,winona
+452,2022-10-01,Packaged Bread Comm Bakery,176,winona
+453,2022-10-01,Salty Snacks,370,winona
+454,2022-10-01,Packaged Sweet Snacks,177,winona
+455,2022-10-01,Alternative Snacks,469,winona
+456,2022-10-01,Fresh Foods - Perish Groc,182,winona
+457,2022-10-01,Edible Grocery,379,winona
+458,2022-10-01,Non-edible Grocery,217,winona
+459,2022-10-01,Health And Beauty Care,372,winona
+460,2022-10-01,General Merchandise,383,winona
+461,2022-10-01,Publications,122,winona
+462,2022-10-01,Automotive Products,131,winona
+463,2022-10-01,Store Services Fee Income,197,winona
+464,2022-10-01,Store Services Fee Inc Tax,180,winona
+465,2022-10-01,Ice Bags,436,winona
+466,2022-10-01,Hot Dispensed Beverages,212,winona
+467,2022-10-01,Cold Dispensed Beverages,346,winona
+468,2022-10-01,Frozen Dispensed Beverages,113,winona
+469,2022-10-01,Car Wash Sls,97,winona
+470,2022-10-01,Car Wash Vending Sales,411,winona
+471,2022-10-01,Chilled Bev Fee,316,winona
+472,2022-10-01,Coupons,219,winona
+473,2022-10-01,Cravins To Order,380,winona
+474,2022-10-01,CTO Ing Shelf Stable,316,winona
+475,2022-10-01,Fe Gift Cards Radiant,179,winona
+476,2022-10-01,Floral,351,winona
+477,2022-10-01,Fresh Bakery,60,winona
+478,2022-10-01,Gen Merch Scan Data Sales,475,winona
+479,2022-10-01,JW European Cafe,236,winona
+480,2022-10-01,Lottery Instant Tickets,72,winona
+481,2022-10-01,Lottery ITVM Instant Tickets,106,winona
+482,2022-10-01,Lottery Online Sales,396,winona
+483,2022-10-01,Manual Fuel Radiant,257,winona
+484,2022-10-01,Money Orders Radiant,269,winona
+485,2022-10-01,Money Transfers,334,winona
+486,2022-10-01,No Scan Merch Radiant,399,winona
+487,2022-10-01,Novelty,331,winona
+488,2022-10-01,Phone Card Fee,104,winona
+489,2022-10-01,Supplies-retail,296,winona
+490,2022-11-01,Cigarettes,435,winona
+491,2022-11-01,Other Tobacco,273,winona
+492,2022-11-01,Beer,394,winona
+493,2022-11-01,Wine,380,winona
+494,2022-11-01,Packaged Beverages-nonalcoh,107,winona
+495,2022-11-01,Candy,295,winona
+496,2022-11-01,Fluid Milk Products,103,winona
+497,2022-11-01,Other Dairy Deli,237,winona
+498,2022-11-01,Pkg Sand Other Products,164,winona
+499,2022-11-01,Packaged Ice Cream Novelty,248,winona
+500,2022-11-01,Frozen Foods,208,winona
+501,2022-11-01,Packaged Bread Comm Bakery,84,winona
+502,2022-11-01,Salty Snacks,86,winona
+503,2022-11-01,Packaged Sweet Snacks,470,winona
+504,2022-11-01,Alternative Snacks,172,winona
+505,2022-11-01,Fresh Foods - Perish Groc,302,winona
+506,2022-11-01,Edible Grocery,363,winona
+507,2022-11-01,Non-edible Grocery,60,winona
+508,2022-11-01,Health And Beauty Care,148,winona
+509,2022-11-01,General Merchandise,115,winona
+510,2022-11-01,Publications,444,winona
+511,2022-11-01,Automotive Products,463,winona
+512,2022-11-01,Store Services Fee Income,65,winona
+513,2022-11-01,Store Services Fee Inc Tax,408,winona
+514,2022-11-01,Ice Bags,297,winona
+515,2022-11-01,Hot Dispensed Beverages,383,winona
+516,2022-11-01,Cold Dispensed Beverages,272,winona
+517,2022-11-01,Frozen Dispensed Beverages,120,winona
+518,2022-11-01,Car Wash Sls,162,winona
+519,2022-11-01,Car Wash Vending Sales,280,winona
+520,2022-11-01,Chilled Bev Fee,107,winona
+521,2022-11-01,Coupons,253,winona
+522,2022-11-01,Cravins To Order,106,winona
+523,2022-11-01,CTO Ing Shelf Stable,151,winona
+524,2022-11-01,Fe Gift Cards Radiant,394,winona
+525,2022-11-01,Floral,356,winona
+526,2022-11-01,Fresh Bakery,197,winona
+527,2022-11-01,Gen Merch Scan Data Sales,367,winona
+528,2022-11-01,JW European Cafe,218,winona
+529,2022-11-01,Lottery Instant Tickets,387,winona
+530,2022-11-01,Lottery ITVM Instant Tickets,82,winona
+531,2022-11-01,Lottery Online Sales,182,winona
+532,2022-11-01,Manual Fuel Radiant,472,winona
+533,2022-11-01,Money Orders Radiant,452,winona
+534,2022-11-01,Money Transfers,348,winona
+535,2022-11-01,No Scan Merch Radiant,428,winona
+536,2022-11-01,Novelty,300,winona
+537,2022-11-01,Phone Card Fee,489,winona
+538,2022-11-01,Supplies-retail,159,winona
+539,2022-12-01,Cigarettes,484,winona
+540,2022-12-01,Other Tobacco,419,winona
+541,2022-12-01,Beer,254,winona
+542,2022-12-01,Wine,493,winona
+543,2022-12-01,Packaged Beverages-nonalcoh,309,winona
+544,2022-12-01,Candy,223,winona
+545,2022-12-01,Fluid Milk Products,252,winona
+546,2022-12-01,Other Dairy Deli,401,winona
+547,2022-12-01,Pkg Sand Other Products,119,winona
+548,2022-12-01,Packaged Ice Cream Novelty,330,winona
+549,2022-12-01,Frozen Foods,304,winona
+550,2022-12-01,Packaged Bread Comm Bakery,231,winona
+551,2022-12-01,Salty Snacks,415,winona
+552,2022-12-01,Packaged Sweet Snacks,120,winona
+553,2022-12-01,Alternative Snacks,272,winona
+554,2022-12-01,Fresh Foods - Perish Groc,487,winona
+555,2022-12-01,Edible Grocery,319,winona
+556,2022-12-01,Non-edible Grocery,258,winona
+557,2022-12-01,Health And Beauty Care,409,winona
+558,2022-12-01,General Merchandise,438,winona
+559,2022-12-01,Publications,154,winona
+560,2022-12-01,Automotive Products,365,winona
+561,2022-12-01,Store Services Fee Income,351,winona
+562,2022-12-01,Store Services Fee Inc Tax,222,winona
+563,2022-12-01,Ice Bags,492,winona
+564,2022-12-01,Hot Dispensed Beverages,176,winona
+565,2022-12-01,Cold Dispensed Beverages,202,winona
+566,2022-12-01,Frozen Dispensed Beverages,222,winona
+567,2022-12-01,Car Wash Sls,95,winona
+568,2022-12-01,Car Wash Vending Sales,242,winona
+569,2022-12-01,Chilled Bev Fee,262,winona
+570,2022-12-01,Coupons,472,winona
+571,2022-12-01,Cravins To Order,155,winona
+572,2022-12-01,CTO Ing Shelf Stable,350,winona
+573,2022-12-01,Fe Gift Cards Radiant,195,winona
+574,2022-12-01,Floral,383,winona
+575,2022-12-01,Fresh Bakery,211,winona
+576,2022-12-01,Gen Merch Scan Data Sales,86,winona
+577,2022-12-01,JW European Cafe,188,winona
+578,2022-12-01,Lottery Instant Tickets,349,winona
+579,2022-12-01,Lottery ITVM Instant Tickets,262,winona
+580,2022-12-01,Lottery Online Sales,147,winona
+581,2022-12-01,Manual Fuel Radiant,115,winona
+582,2022-12-01,Money Orders Radiant,170,winona
+583,2022-12-01,Money Transfers,464,winona
+584,2022-12-01,No Scan Merch Radiant,215,winona
+585,2022-12-01,Novelty,237,winona
+586,2022-12-01,Phone Card Fee,205,winona
+587,2022-12-01,Supplies-retail,482,winona
+588,2023-01-01,Cigarettes,317,winona
+589,2023-01-01,Other Tobacco,137,winona
+590,2023-01-01,Beer,412,winona
+591,2023-01-01,Wine,231,winona
+592,2023-01-01,Packaged Beverages-nonalcoh,318,winona
+593,2023-01-01,Candy,250,winona
+594,2023-01-01,Fluid Milk Products,372,winona
+595,2023-01-01,Other Dairy Deli,332,winona
+596,2023-01-01,Pkg Sand Other Products,460,winona
+597,2023-01-01,Packaged Ice Cream Novelty,109,winona
+598,2023-01-01,Frozen Foods,439,winona
+599,2023-01-01,Packaged Bread Comm Bakery,162,winona
+600,2023-01-01,Salty Snacks,473,winona
+601,2023-01-01,Packaged Sweet Snacks,434,winona
+602,2023-01-01,Alternative Snacks,419,winona
+603,2023-01-01,Fresh Foods - Perish Groc,443,winona
+604,2023-01-01,Edible Grocery,148,winona
+605,2023-01-01,Non-edible Grocery,293,winona
+606,2023-01-01,Health And Beauty Care,328,winona
+607,2023-01-01,General Merchandise,166,winona
+608,2023-01-01,Publications,362,winona
+609,2023-01-01,Automotive Products,471,winona
+610,2023-01-01,Store Services Fee Income,353,winona
+611,2023-01-01,Store Services Fee Inc Tax,275,winona
+612,2023-01-01,Ice Bags,326,winona
+613,2023-01-01,Hot Dispensed Beverages,355,winona
+614,2023-01-01,Cold Dispensed Beverages,384,winona
+615,2023-01-01,Frozen Dispensed Beverages,464,winona
+616,2023-01-01,Car Wash Sls,451,winona
+617,2023-01-01,Car Wash Vending Sales,262,winona
+618,2023-01-01,Chilled Bev Fee,413,winona
+619,2023-01-01,Coupons,477,winona
+620,2023-01-01,Cravins To Order,180,winona
+621,2023-01-01,CTO Ing Shelf Stable,412,winona
+622,2023-01-01,Fe Gift Cards Radiant,143,winona
+623,2023-01-01,Floral,322,winona
+624,2023-01-01,Fresh Bakery,462,winona
+625,2023-01-01,Gen Merch Scan Data Sales,159,winona
+626,2023-01-01,JW European Cafe,107,winona
+627,2023-01-01,Lottery Instant Tickets,144,winona
+628,2023-01-01,Lottery ITVM Instant Tickets,210,winona
+629,2023-01-01,Lottery Online Sales,430,winona
+630,2023-01-01,Manual Fuel Radiant,225,winona
+631,2023-01-01,Money Orders Radiant,105,winona
+632,2023-01-01,Money Transfers,272,winona
+633,2023-01-01,No Scan Merch Radiant,128,winona
+634,2023-01-01,Novelty,483,winona
+635,2023-01-01,Phone Card Fee,288,winona
+636,2023-01-01,Supplies-retail,148,winona
+637,2023-02-01,Cigarettes,257,winona
+638,2023-02-01,Other Tobacco,498,winona
+639,2023-02-01,Beer,294,winona
+640,2023-02-01,Wine,485,winona
+641,2023-02-01,Packaged Beverages-nonalcoh,461,winona
+642,2023-02-01,Candy,488,winona
+643,2023-02-01,Fluid Milk Products,66,winona
+644,2023-02-01,Other Dairy Deli,145,winona
+645,2023-02-01,Pkg Sand Other Products,68,winona
+646,2023-02-01,Packaged Ice Cream Novelty,57,winona
+647,2023-02-01,Frozen Foods,315,winona
+648,2023-02-01,Packaged Bread Comm Bakery,118,winona
+649,2023-02-01,Salty Snacks,441,winona
+650,2023-02-01,Packaged Sweet Snacks,315,winona
+651,2023-02-01,Alternative Snacks,203,winona
+652,2023-02-01,Fresh Foods - Perish Groc,423,winona
+653,2023-02-01,Edible Grocery,431,winona
+654,2023-02-01,Non-edible Grocery,382,winona
+655,2023-02-01,Health And Beauty Care,420,winona
+656,2023-02-01,General Merchandise,104,winona
+657,2023-02-01,Publications,243,winona
+658,2023-02-01,Automotive Products,432,winona
+659,2023-02-01,Store Services Fee Income,419,winona
+660,2023-02-01,Store Services Fee Inc Tax,273,winona
+661,2023-02-01,Ice Bags,250,winona
+662,2023-02-01,Hot Dispensed Beverages,257,winona
+663,2023-02-01,Cold Dispensed Beverages,219,winona
+664,2023-02-01,Frozen Dispensed Beverages,90,winona
+665,2023-02-01,Car Wash Sls,440,winona
+666,2023-02-01,Car Wash Vending Sales,350,winona
+667,2023-02-01,Chilled Bev Fee,116,winona
+668,2023-02-01,Coupons,492,winona
+669,2023-02-01,Cravins To Order,334,winona
+670,2023-02-01,CTO Ing Shelf Stable,359,winona
+671,2023-02-01,Fe Gift Cards Radiant,76,winona
+672,2023-02-01,Floral,437,winona
+673,2023-02-01,Fresh Bakery,428,winona
+674,2023-02-01,Gen Merch Scan Data Sales,498,winona
+675,2023-02-01,JW European Cafe,345,winona
+676,2023-02-01,Lottery Instant Tickets,101,winona
+677,2023-02-01,Lottery ITVM Instant Tickets,320,winona
+678,2023-02-01,Lottery Online Sales,499,winona
+679,2023-02-01,Manual Fuel Radiant,423,winona
+680,2023-02-01,Money Orders Radiant,298,winona
+681,2023-02-01,Money Transfers,130,winona
+682,2023-02-01,No Scan Merch Radiant,199,winona
+683,2023-02-01,Novelty,194,winona
+684,2023-02-01,Phone Card Fee,358,winona
+685,2023-02-01,Supplies-retail,156,winona
+686,2023-03-01,Cigarettes,234,winona
+687,2023-03-01,Other Tobacco,255,winona
+688,2023-03-01,Beer,245,winona
+689,2023-03-01,Wine,459,winona
+690,2023-03-01,Packaged Beverages-nonalcoh,268,winona
+691,2023-03-01,Candy,125,winona
+692,2023-03-01,Fluid Milk Products,325,winona
+693,2023-03-01,Other Dairy Deli,207,winona
+694,2023-03-01,Pkg Sand Other Products,137,winona
+695,2023-03-01,Packaged Ice Cream Novelty,391,winona
+696,2023-03-01,Frozen Foods,273,winona
+697,2023-03-01,Packaged Bread Comm Bakery,462,winona
+698,2023-03-01,Salty Snacks,488,winona
+699,2023-03-01,Packaged Sweet Snacks,232,winona
+700,2023-03-01,Alternative Snacks,330,winona
+701,2023-03-01,Fresh Foods - Perish Groc,65,winona
+702,2023-03-01,Edible Grocery,415,winona
+703,2023-03-01,Non-edible Grocery,462,winona
+704,2023-03-01,Health And Beauty Care,76,winona
+705,2023-03-01,General Merchandise,212,winona
+706,2023-03-01,Publications,314,winona
+707,2023-03-01,Automotive Products,292,winona
+708,2023-03-01,Store Services Fee Income,124,winona
+709,2023-03-01,Store Services Fee Inc Tax,460,winona
+710,2023-03-01,Ice Bags,421,winona
+711,2023-03-01,Hot Dispensed Beverages,287,winona
+712,2023-03-01,Cold Dispensed Beverages,231,winona
+713,2023-03-01,Frozen Dispensed Beverages,383,winona
+714,2023-03-01,Car Wash Sls,479,winona
+715,2023-03-01,Car Wash Vending Sales,448,winona
+716,2023-03-01,Chilled Bev Fee,317,winona
+717,2023-03-01,Coupons,223,winona
+718,2023-03-01,Cravins To Order,231,winona
+719,2023-03-01,CTO Ing Shelf Stable,402,winona
+720,2023-03-01,Fe Gift Cards Radiant,324,winona
+721,2023-03-01,Floral,194,winona
+722,2023-03-01,Fresh Bakery,202,winona
+723,2023-03-01,Gen Merch Scan Data Sales,243,winona
+724,2023-03-01,JW European Cafe,293,winona
+725,2023-03-01,Lottery Instant Tickets,487,winona
+726,2023-03-01,Lottery ITVM Instant Tickets,298,winona
+727,2023-03-01,Lottery Online Sales,243,winona
+728,2023-03-01,Manual Fuel Radiant,254,winona
+729,2023-03-01,Money Orders Radiant,273,winona
+730,2023-03-01,Money Transfers,63,winona
+731,2023-03-01,No Scan Merch Radiant,371,winona
+732,2023-03-01,Novelty,170,winona
+733,2023-03-01,Phone Card Fee,445,winona
+734,2023-03-01,Supplies-retail,236,winona
+735,2023-04-01,Cigarettes,309,winona
+736,2023-04-01,Other Tobacco,328,winona
+737,2023-04-01,Beer,59,winona
+738,2023-04-01,Wine,261,winona
+739,2023-04-01,Packaged Beverages-nonalcoh,458,winona
+740,2023-04-01,Candy,344,winona
+741,2023-04-01,Fluid Milk Products,315,winona
+742,2023-04-01,Other Dairy Deli,278,winona
+743,2023-04-01,Pkg Sand Other Products,286,winona
+744,2023-04-01,Packaged Ice Cream Novelty,338,winona
+745,2023-04-01,Frozen Foods,454,winona
+746,2023-04-01,Packaged Bread Comm Bakery,407,winona
+747,2023-04-01,Salty Snacks,186,winona
+748,2023-04-01,Packaged Sweet Snacks,166,winona
+749,2023-04-01,Alternative Snacks,53,winona
+750,2023-04-01,Fresh Foods - Perish Groc,123,winona
+751,2023-04-01,Edible Grocery,286,winona
+752,2023-04-01,Non-edible Grocery,230,winona
+753,2023-04-01,Health And Beauty Care,178,winona
+754,2023-04-01,General Merchandise,286,winona
+755,2023-04-01,Publications,158,winona
+756,2023-04-01,Automotive Products,66,winona
+757,2023-04-01,Store Services Fee Income,378,winona
+758,2023-04-01,Store Services Fee Inc Tax,128,winona
+759,2023-04-01,Ice Bags,452,winona
+760,2023-04-01,Hot Dispensed Beverages,338,winona
+761,2023-04-01,Cold Dispensed Beverages,198,winona
+762,2023-04-01,Frozen Dispensed Beverages,123,winona
+763,2023-04-01,Car Wash Sls,234,winona
+764,2023-04-01,Car Wash Vending Sales,333,winona
+765,2023-04-01,Chilled Bev Fee,272,winona
+766,2023-04-01,Coupons,439,winona
+767,2023-04-01,Cravins To Order,440,winona
+768,2023-04-01,CTO Ing Shelf Stable,473,winona
+769,2023-04-01,Fe Gift Cards Radiant,214,winona
+770,2023-04-01,Floral,82,winona
+771,2023-04-01,Fresh Bakery,133,winona
+772,2023-04-01,Gen Merch Scan Data Sales,78,winona
+773,2023-04-01,JW European Cafe,240,winona
+774,2023-04-01,Lottery Instant Tickets,91,winona
+775,2023-04-01,Lottery ITVM Instant Tickets,128,winona
+776,2023-04-01,Lottery Online Sales,131,winona
+777,2023-04-01,Manual Fuel Radiant,487,winona
+778,2023-04-01,Money Orders Radiant,219,winona
+779,2023-04-01,Money Transfers,289,winona
+780,2023-04-01,No Scan Merch Radiant,228,winona
+781,2023-04-01,Novelty,196,winona
+782,2023-04-01,Phone Card Fee,401,winona
+783,2023-04-01,Supplies-retail,309,winona
+784,2023-05-01,Cigarettes,341,winona
+785,2023-05-01,Other Tobacco,191,winona
+786,2023-05-01,Beer,307,winona
+787,2023-05-01,Wine,494,winona
+788,2023-05-01,Packaged Beverages-nonalcoh,267,winona
+789,2023-05-01,Candy,114,winona
+790,2023-05-01,Fluid Milk Products,457,winona
+791,2023-05-01,Other Dairy Deli,92,winona
+792,2023-05-01,Pkg Sand Other Products,218,winona
+793,2023-05-01,Packaged Ice Cream Novelty,282,winona
+794,2023-05-01,Frozen Foods,179,winona
+795,2023-05-01,Packaged Bread Comm Bakery,257,winona
+796,2023-05-01,Salty Snacks,338,winona
+797,2023-05-01,Packaged Sweet Snacks,170,winona
+798,2023-05-01,Alternative Snacks,146,winona
+799,2023-05-01,Fresh Foods - Perish Groc,390,winona
+800,2023-05-01,Edible Grocery,495,winona
+801,2023-05-01,Non-edible Grocery,466,winona
+802,2023-05-01,Health And Beauty Care,498,winona
+803,2023-05-01,General Merchandise,242,winona
+804,2023-05-01,Publications,373,winona
+805,2023-05-01,Automotive Products,252,winona
+806,2023-05-01,Store Services Fee Income,74,winona
+807,2023-05-01,Store Services Fee Inc Tax,346,winona
+808,2023-05-01,Ice Bags,489,winona
+809,2023-05-01,Hot Dispensed Beverages,317,winona
+810,2023-05-01,Cold Dispensed Beverages,261,winona
+811,2023-05-01,Frozen Dispensed Beverages,418,winona
+812,2023-05-01,Car Wash Sls,287,winona
+813,2023-05-01,Car Wash Vending Sales,226,winona
+814,2023-05-01,Chilled Bev Fee,159,winona
+815,2023-05-01,Coupons,300,winona
+816,2023-05-01,Cravins To Order,241,winona
+817,2023-05-01,CTO Ing Shelf Stable,223,winona
+818,2023-05-01,Fe Gift Cards Radiant,369,winona
+819,2023-05-01,Floral,194,winona
+820,2023-05-01,Fresh Bakery,450,winona
+821,2023-05-01,Gen Merch Scan Data Sales,374,winona
+822,2023-05-01,JW European Cafe,417,winona
+823,2023-05-01,Lottery Instant Tickets,490,winona
+824,2023-05-01,Lottery ITVM Instant Tickets,227,winona
+825,2023-05-01,Lottery Online Sales,246,winona
+826,2023-05-01,Manual Fuel Radiant,171,winona
+827,2023-05-01,Money Orders Radiant,59,winona
+828,2023-05-01,Money Transfers,300,winona
+829,2023-05-01,No Scan Merch Radiant,411,winona
+830,2023-05-01,Novelty,303,winona
+831,2023-05-01,Phone Card Fee,467,winona
+832,2023-05-01,Supplies-retail,186,winona
+833,2023-06-01,Cigarettes,492,winona
+834,2023-06-01,Other Tobacco,51,winona
+835,2023-06-01,Beer,243,winona
+836,2023-06-01,Wine,487,winona
+837,2023-06-01,Packaged Beverages-nonalcoh,79,winona
+838,2023-06-01,Candy,96,winona
+839,2023-06-01,Fluid Milk Products,201,winona
+840,2023-06-01,Other Dairy Deli,149,winona
+841,2023-06-01,Pkg Sand Other Products,453,winona
+842,2023-06-01,Packaged Ice Cream Novelty,380,winona
+843,2023-06-01,Frozen Foods,328,winona
+844,2023-06-01,Packaged Bread Comm Bakery,444,winona
+845,2023-06-01,Salty Snacks,306,winona
+846,2023-06-01,Packaged Sweet Snacks,115,winona
+847,2023-06-01,Alternative Snacks,442,winona
+848,2023-06-01,Fresh Foods - Perish Groc,284,winona
+849,2023-06-01,Edible Grocery,159,winona
+850,2023-06-01,Non-edible Grocery,382,winona
+851,2023-06-01,Health And Beauty Care,120,winona
+852,2023-06-01,General Merchandise,170,winona
+853,2023-06-01,Publications,283,winona
+854,2023-06-01,Automotive Products,287,winona
+855,2023-06-01,Store Services Fee Income,327,winona
+856,2023-06-01,Store Services Fee Inc Tax,118,winona
+857,2023-06-01,Ice Bags,329,winona
+858,2023-06-01,Hot Dispensed Beverages,171,winona
+859,2023-06-01,Cold Dispensed Beverages,464,winona
+860,2023-06-01,Frozen Dispensed Beverages,87,winona
+861,2023-06-01,Car Wash Sls,394,winona
+862,2023-06-01,Car Wash Vending Sales,373,winona
+863,2023-06-01,Chilled Bev Fee,343,winona
+864,2023-06-01,Coupons,190,winona
+865,2023-06-01,Cravins To Order,348,winona
+866,2023-06-01,CTO Ing Shelf Stable,305,winona
+867,2023-06-01,Fe Gift Cards Radiant,88,winona
+868,2023-06-01,Floral,157,winona
+869,2023-06-01,Fresh Bakery,108,winona
+870,2023-06-01,Gen Merch Scan Data Sales,116,winona
+871,2023-06-01,JW European Cafe,273,winona
+872,2023-06-01,Lottery Instant Tickets,387,winona
+873,2023-06-01,Lottery ITVM Instant Tickets,315,winona
+874,2023-06-01,Lottery Online Sales,477,winona
+875,2023-06-01,Manual Fuel Radiant,113,winona
+876,2023-06-01,Money Orders Radiant,335,winona
+877,2023-06-01,Money Transfers,273,winona
+878,2023-06-01,No Scan Merch Radiant,158,winona
+879,2023-06-01,Novelty,386,winona
+880,2023-06-01,Phone Card Fee,133,winona
+881,2023-06-01,Supplies-retail,372,winona
+882,2023-07-01,Cigarettes,444,winona
+883,2023-07-01,Other Tobacco,495,winona
+884,2023-07-01,Beer,181,winona
+885,2023-07-01,Wine,51,winona
+886,2023-07-01,Packaged Beverages-nonalcoh,370,winona
+887,2023-07-01,Candy,493,winona
+888,2023-07-01,Fluid Milk Products,471,winona
+889,2023-07-01,Other Dairy Deli,436,winona
+890,2023-07-01,Pkg Sand Other Products,225,winona
+891,2023-07-01,Packaged Ice Cream Novelty,165,winona
+892,2023-07-01,Frozen Foods,246,winona
+893,2023-07-01,Packaged Bread Comm Bakery,491,winona
+894,2023-07-01,Salty Snacks,478,winona
+895,2023-07-01,Packaged Sweet Snacks,264,winona
+896,2023-07-01,Alternative Snacks,170,winona
+897,2023-07-01,Fresh Foods - Perish Groc,92,winona
+898,2023-07-01,Edible Grocery,153,winona
+899,2023-07-01,Non-edible Grocery,382,winona
+900,2023-07-01,Health And Beauty Care,219,winona
+901,2023-07-01,General Merchandise,271,winona
+902,2023-07-01,Publications,353,winona
+903,2023-07-01,Automotive Products,218,winona
+904,2023-07-01,Store Services Fee Income,148,winona
+905,2023-07-01,Store Services Fee Inc Tax,304,winona
+906,2023-07-01,Ice Bags,118,winona
+907,2023-07-01,Hot Dispensed Beverages,269,winona
+908,2023-07-01,Cold Dispensed Beverages,471,winona
+909,2023-07-01,Frozen Dispensed Beverages,339,winona
+910,2023-07-01,Car Wash Sls,205,winona
+911,2023-07-01,Car Wash Vending Sales,118,winona
+912,2023-07-01,Chilled Bev Fee,194,winona
+913,2023-07-01,Coupons,99,winona
+914,2023-07-01,Cravins To Order,132,winona
+915,2023-07-01,CTO Ing Shelf Stable,386,winona
+916,2023-07-01,Fe Gift Cards Radiant,349,winona
+917,2023-07-01,Floral,102,winona
+918,2023-07-01,Fresh Bakery,305,winona
+919,2023-07-01,Gen Merch Scan Data Sales,191,winona
+920,2023-07-01,JW European Cafe,239,winona
+921,2023-07-01,Lottery Instant Tickets,335,winona
+922,2023-07-01,Lottery ITVM Instant Tickets,293,winona
+923,2023-07-01,Lottery Online Sales,129,winona
+924,2023-07-01,Manual Fuel Radiant,139,winona
+925,2023-07-01,Money Orders Radiant,62,winona
+926,2023-07-01,Money Transfers,348,winona
+927,2023-07-01,No Scan Merch Radiant,382,winona
+928,2023-07-01,Novelty,434,winona
+929,2023-07-01,Phone Card Fee,406,winona
+930,2023-07-01,Supplies-retail,107,winona
+931,2023-08-01,Cigarettes,233,winona
+932,2023-08-01,Other Tobacco,51,winona
+933,2023-08-01,Beer,201,winona
+934,2023-08-01,Wine,390,winona
+935,2023-08-01,Packaged Beverages-nonalcoh,431,winona
+936,2023-08-01,Candy,111,winona
+937,2023-08-01,Fluid Milk Products,88,winona
+938,2023-08-01,Other Dairy Deli,450,winona
+939,2023-08-01,Pkg Sand Other Products,123,winona
+940,2023-08-01,Packaged Ice Cream Novelty,135,winona
+941,2023-08-01,Frozen Foods,166,winona
+942,2023-08-01,Packaged Bread Comm Bakery,248,winona
+943,2023-08-01,Salty Snacks,158,winona
+944,2023-08-01,Packaged Sweet Snacks,316,winona
+945,2023-08-01,Alternative Snacks,131,winona
+946,2023-08-01,Fresh Foods - Perish Groc,424,winona
+947,2023-08-01,Edible Grocery,73,winona
+948,2023-08-01,Non-edible Grocery,336,winona
+949,2023-08-01,Health And Beauty Care,111,winona
+950,2023-08-01,General Merchandise,334,winona
+951,2023-08-01,Publications,255,winona
+952,2023-08-01,Automotive Products,106,winona
+953,2023-08-01,Store Services Fee Income,294,winona
+954,2023-08-01,Store Services Fee Inc Tax,257,winona
+955,2023-08-01,Ice Bags,113,winona
+956,2023-08-01,Hot Dispensed Beverages,86,winona
+957,2023-08-01,Cold Dispensed Beverages,278,winona
+958,2023-08-01,Frozen Dispensed Beverages,183,winona
+959,2023-08-01,Car Wash Sls,265,winona
+960,2023-08-01,Car Wash Vending Sales,300,winona
+961,2023-08-01,Chilled Bev Fee,211,winona
+962,2023-08-01,Coupons,467,winona
+963,2023-08-01,Cravins To Order,492,winona
+964,2023-08-01,CTO Ing Shelf Stable,312,winona
+965,2023-08-01,Fe Gift Cards Radiant,484,winona
+966,2023-08-01,Floral,393,winona
+967,2023-08-01,Fresh Bakery,421,winona
+968,2023-08-01,Gen Merch Scan Data Sales,430,winona
+969,2023-08-01,JW European Cafe,94,winona
+970,2023-08-01,Lottery Instant Tickets,417,winona
+971,2023-08-01,Lottery ITVM Instant Tickets,137,winona
+972,2023-08-01,Lottery Online Sales,361,winona
+973,2023-08-01,Manual Fuel Radiant,360,winona
+974,2023-08-01,Money Orders Radiant,236,winona
+975,2023-08-01,Money Transfers,351,winona
+976,2023-08-01,No Scan Merch Radiant,304,winona
+977,2023-08-01,Novelty,406,winona
+978,2023-08-01,Phone Card Fee,158,winona
+979,2023-08-01,Supplies-retail,98,winona
+980,2023-09-01,Cigarettes,393,winona
+981,2023-09-01,Other Tobacco,313,winona
+982,2023-09-01,Beer,131,winona
+983,2023-09-01,Wine,264,winona
+984,2023-09-01,Packaged Beverages-nonalcoh,415,winona
+985,2023-09-01,Candy,135,winona
+986,2023-09-01,Fluid Milk Products,478,winona
+987,2023-09-01,Other Dairy Deli,216,winona
+988,2023-09-01,Pkg Sand Other Products,464,winona
+989,2023-09-01,Packaged Ice Cream Novelty,342,winona
+990,2023-09-01,Frozen Foods,56,winona
+991,2023-09-01,Packaged Bread Comm Bakery,211,winona
+992,2023-09-01,Salty Snacks,141,winona
+993,2023-09-01,Packaged Sweet Snacks,251,winona
+994,2023-09-01,Alternative Snacks,78,winona
+995,2023-09-01,Fresh Foods - Perish Groc,429,winona
+996,2023-09-01,Edible Grocery,286,winona
+997,2023-09-01,Non-edible Grocery,496,winona
+998,2023-09-01,Health And Beauty Care,467,winona
+999,2023-09-01,General Merchandise,306,winona
+1000,2023-09-01,Publications,310,winona
+1001,2023-09-01,Automotive Products,310,winona
+1002,2023-09-01,Store Services Fee Income,176,winona
+1003,2023-09-01,Store Services Fee Inc Tax,186,winona
+1004,2023-09-01,Ice Bags,187,winona
+1005,2023-09-01,Hot Dispensed Beverages,442,winona
+1006,2023-09-01,Cold Dispensed Beverages,61,winona
+1007,2023-09-01,Frozen Dispensed Beverages,348,winona
+1008,2023-09-01,Car Wash Sls,144,winona
+1009,2023-09-01,Car Wash Vending Sales,469,winona
+1010,2023-09-01,Chilled Bev Fee,50,winona
+1011,2023-09-01,Coupons,221,winona
+1012,2023-09-01,Cravins To Order,127,winona
+1013,2023-09-01,CTO Ing Shelf Stable,150,winona
+1014,2023-09-01,Fe Gift Cards Radiant,244,winona
+1015,2023-09-01,Floral,449,winona
+1016,2023-09-01,Fresh Bakery,210,winona
+1017,2023-09-01,Gen Merch Scan Data Sales,365,winona
+1018,2023-09-01,JW European Cafe,495,winona
+1019,2023-09-01,Lottery Instant Tickets,268,winona
+1020,2023-09-01,Lottery ITVM Instant Tickets,263,winona
+1021,2023-09-01,Lottery Online Sales,308,winona
+1022,2023-09-01,Manual Fuel Radiant,466,winona
+1023,2023-09-01,Money Orders Radiant,367,winona
+1024,2023-09-01,Money Transfers,336,winona
+1025,2023-09-01,No Scan Merch Radiant,158,winona
+1026,2023-09-01,Novelty,113,winona
+1027,2023-09-01,Phone Card Fee,78,winona
+1028,2023-09-01,Supplies-retail,162,winona
+1029,2023-10-01,Cigarettes,365,winona
+1030,2023-10-01,Other Tobacco,215,winona
+1031,2023-10-01,Beer,405,winona
+1032,2023-10-01,Wine,187,winona
+1033,2023-10-01,Packaged Beverages-nonalcoh,211,winona
+1034,2023-10-01,Candy,266,winona
+1035,2023-10-01,Fluid Milk Products,483,winona
+1036,2023-10-01,Other Dairy Deli,102,winona
+1037,2023-10-01,Pkg Sand Other Products,480,winona
+1038,2023-10-01,Packaged Ice Cream Novelty,307,winona
+1039,2023-10-01,Frozen Foods,142,winona
+1040,2023-10-01,Packaged Bread Comm Bakery,69,winona
+1041,2023-10-01,Salty Snacks,115,winona
+1042,2023-10-01,Packaged Sweet Snacks,182,winona
+1043,2023-10-01,Alternative Snacks,154,winona
+1044,2023-10-01,Fresh Foods - Perish Groc,436,winona
+1045,2023-10-01,Edible Grocery,293,winona
+1046,2023-10-01,Non-edible Grocery,359,winona
+1047,2023-10-01,Health And Beauty Care,302,winona
+1048,2023-10-01,General Merchandise,313,winona
+1049,2023-10-01,Publications,321,winona
+1050,2023-10-01,Automotive Products,425,winona
+1051,2023-10-01,Store Services Fee Income,295,winona
+1052,2023-10-01,Store Services Fee Inc Tax,243,winona
+1053,2023-10-01,Ice Bags,301,winona
+1054,2023-10-01,Hot Dispensed Beverages,498,winona
+1055,2023-10-01,Cold Dispensed Beverages,383,winona
+1056,2023-10-01,Frozen Dispensed Beverages,334,winona
+1057,2023-10-01,Car Wash Sls,180,winona
+1058,2023-10-01,Car Wash Vending Sales,185,winona
+1059,2023-10-01,Chilled Bev Fee,129,winona
+1060,2023-10-01,Coupons,135,winona
+1061,2023-10-01,Cravins To Order,432,winona
+1062,2023-10-01,CTO Ing Shelf Stable,323,winona
+1063,2023-10-01,Fe Gift Cards Radiant,386,winona
+1064,2023-10-01,Floral,104,winona
+1065,2023-10-01,Fresh Bakery,144,winona
+1066,2023-10-01,Gen Merch Scan Data Sales,391,winona
+1067,2023-10-01,JW European Cafe,260,winona
+1068,2023-10-01,Lottery Instant Tickets,459,winona
+1069,2023-10-01,Lottery ITVM Instant Tickets,221,winona
+1070,2023-10-01,Lottery Online Sales,362,winona
+1071,2023-10-01,Manual Fuel Radiant,273,winona
+1072,2023-10-01,Money Orders Radiant,154,winona
+1073,2023-10-01,Money Transfers,338,winona
+1074,2023-10-01,No Scan Merch Radiant,136,winona
+1075,2023-10-01,Novelty,484,winona
+1076,2023-10-01,Phone Card Fee,289,winona
+1077,2023-10-01,Supplies-retail,229,winona
+1078,2023-11-01,Cigarettes,149,winona
+1079,2023-11-01,Other Tobacco,320,winona
+1080,2023-11-01,Beer,233,winona
+1081,2023-11-01,Wine,323,winona
+1082,2023-11-01,Packaged Beverages-nonalcoh,172,winona
+1083,2023-11-01,Candy,326,winona
+1084,2023-11-01,Fluid Milk Products,168,winona
+1085,2023-11-01,Other Dairy Deli,93,winona
+1086,2023-11-01,Pkg Sand Other Products,382,winona
+1087,2023-11-01,Packaged Ice Cream Novelty,80,winona
+1088,2023-11-01,Frozen Foods,450,winona
+1089,2023-11-01,Packaged Bread Comm Bakery,448,winona
+1090,2023-11-01,Salty Snacks,441,winona
+1091,2023-11-01,Packaged Sweet Snacks,325,winona
+1092,2023-11-01,Alternative Snacks,480,winona
+1093,2023-11-01,Fresh Foods - Perish Groc,353,winona
+1094,2023-11-01,Edible Grocery,483,winona
+1095,2023-11-01,Non-edible Grocery,71,winona
+1096,2023-11-01,Health And Beauty Care,173,winona
+1097,2023-11-01,General Merchandise,363,winona
+1098,2023-11-01,Publications,315,winona
+1099,2023-11-01,Automotive Products,283,winona
+1100,2023-11-01,Store Services Fee Income,117,winona
+1101,2023-11-01,Store Services Fee Inc Tax,495,winona
+1102,2023-11-01,Ice Bags,197,winona
+1103,2023-11-01,Hot Dispensed Beverages,83,winona
+1104,2023-11-01,Cold Dispensed Beverages,203,winona
+1105,2023-11-01,Frozen Dispensed Beverages,322,winona
+1106,2023-11-01,Car Wash Sls,454,winona
+1107,2023-11-01,Car Wash Vending Sales,132,winona
+1108,2023-11-01,Chilled Bev Fee,160,winona
+1109,2023-11-01,Coupons,424,winona
+1110,2023-11-01,Cravins To Order,474,winona
+1111,2023-11-01,CTO Ing Shelf Stable,314,winona
+1112,2023-11-01,Fe Gift Cards Radiant,366,winona
+1113,2023-11-01,Floral,486,winona
+1114,2023-11-01,Fresh Bakery,115,winona
+1115,2023-11-01,Gen Merch Scan Data Sales,440,winona
+1116,2023-11-01,JW European Cafe,214,winona
+1117,2023-11-01,Lottery Instant Tickets,158,winona
+1118,2023-11-01,Lottery ITVM Instant Tickets,59,winona
+1119,2023-11-01,Lottery Online Sales,309,winona
+1120,2023-11-01,Manual Fuel Radiant,492,winona
+1121,2023-11-01,Money Orders Radiant,115,winona
+1122,2023-11-01,Money Transfers,468,winona
+1123,2023-11-01,No Scan Merch Radiant,197,winona
+1124,2023-11-01,Novelty,277,winona
+1125,2023-11-01,Phone Card Fee,312,winona
+1126,2023-11-01,Supplies-retail,328,winona
+1127,2023-12-01,Cigarettes,206,winona
+1128,2023-12-01,Other Tobacco,175,winona
+1129,2023-12-01,Beer,83,winona
+1130,2023-12-01,Wine,247,winona
+1131,2023-12-01,Packaged Beverages-nonalcoh,267,winona
+1132,2023-12-01,Candy,218,winona
+1133,2023-12-01,Fluid Milk Products,417,winona
+1134,2023-12-01,Other Dairy Deli,361,winona
+1135,2023-12-01,Pkg Sand Other Products,179,winona
+1136,2023-12-01,Packaged Ice Cream Novelty,372,winona
+1137,2023-12-01,Frozen Foods,355,winona
+1138,2023-12-01,Packaged Bread Comm Bakery,177,winona
+1139,2023-12-01,Salty Snacks,212,winona
+1140,2023-12-01,Packaged Sweet Snacks,402,winona
+1141,2023-12-01,Alternative Snacks,362,winona
+1142,2023-12-01,Fresh Foods - Perish Groc,344,winona
+1143,2023-12-01,Edible Grocery,151,winona
+1144,2023-12-01,Non-edible Grocery,234,winona
+1145,2023-12-01,Health And Beauty Care,491,winona
+1146,2023-12-01,General Merchandise,338,winona
+1147,2023-12-01,Publications,344,winona
+1148,2023-12-01,Automotive Products,64,winona
+1149,2023-12-01,Store Services Fee Income,313,winona
+1150,2023-12-01,Store Services Fee Inc Tax,58,winona
+1151,2023-12-01,Ice Bags,330,winona
+1152,2023-12-01,Hot Dispensed Beverages,151,winona
+1153,2023-12-01,Cold Dispensed Beverages,100,winona
+1154,2023-12-01,Frozen Dispensed Beverages,474,winona
+1155,2023-12-01,Car Wash Sls,342,winona
+1156,2023-12-01,Car Wash Vending Sales,313,winona
+1157,2023-12-01,Chilled Bev Fee,236,winona
+1158,2023-12-01,Coupons,167,winona
+1159,2023-12-01,Cravins To Order,331,winona
+1160,2023-12-01,CTO Ing Shelf Stable,410,winona
+1161,2023-12-01,Fe Gift Cards Radiant,416,winona
+1162,2023-12-01,Floral,424,winona
+1163,2023-12-01,Fresh Bakery,302,winona
+1164,2023-12-01,Gen Merch Scan Data Sales,342,winona
+1165,2023-12-01,JW European Cafe,318,winona
+1166,2023-12-01,Lottery Instant Tickets,298,winona
+1167,2023-12-01,Lottery ITVM Instant Tickets,475,winona
+1168,2023-12-01,Lottery Online Sales,335,winona
+1169,2023-12-01,Manual Fuel Radiant,111,winona
+1170,2023-12-01,Money Orders Radiant,479,winona
+1171,2023-12-01,Money Transfers,311,winona
+1172,2023-12-01,No Scan Merch Radiant,356,winona
+1173,2023-12-01,Novelty,414,winona
+1174,2023-12-01,Phone Card Fee,393,winona
+1175,2023-12-01,Supplies-retail,114,winona

@@ -1,0 +1,1177 @@
+,Month,Product Category,Sales,Location
+0,2022-01-01,Cigarettes,144,rolling_prairie
+1,2022-01-01,Other Tobacco,84,rolling_prairie
+2,2022-01-01,Beer,351,rolling_prairie
+3,2022-01-01,Wine,87,rolling_prairie
+4,2022-01-01,Packaged Beverages-nonalcoh,357,rolling_prairie
+5,2022-01-01,Candy,294,rolling_prairie
+6,2022-01-01,Fluid Milk Products,410,rolling_prairie
+7,2022-01-01,Other Dairy Deli,88,rolling_prairie
+8,2022-01-01,Pkg Sand Other Products,376,rolling_prairie
+9,2022-01-01,Packaged Ice Cream Novelty,138,rolling_prairie
+10,2022-01-01,Frozen Foods,156,rolling_prairie
+11,2022-01-01,Packaged Bread Comm Bakery,298,rolling_prairie
+12,2022-01-01,Salty Snacks,376,rolling_prairie
+13,2022-01-01,Packaged Sweet Snacks,215,rolling_prairie
+14,2022-01-01,Alternative Snacks,297,rolling_prairie
+15,2022-01-01,Fresh Foods - Perish Groc,332,rolling_prairie
+16,2022-01-01,Edible Grocery,401,rolling_prairie
+17,2022-01-01,Non-edible Grocery,63,rolling_prairie
+18,2022-01-01,Health And Beauty Care,439,rolling_prairie
+19,2022-01-01,General Merchandise,355,rolling_prairie
+20,2022-01-01,Publications,169,rolling_prairie
+21,2022-01-01,Automotive Products,437,rolling_prairie
+22,2022-01-01,Store Services Fee Income,98,rolling_prairie
+23,2022-01-01,Store Services Fee Inc Tax,121,rolling_prairie
+24,2022-01-01,Ice Bags,228,rolling_prairie
+25,2022-01-01,Hot Dispensed Beverages,216,rolling_prairie
+26,2022-01-01,Cold Dispensed Beverages,97,rolling_prairie
+27,2022-01-01,Frozen Dispensed Beverages,351,rolling_prairie
+28,2022-01-01,Car Wash Sls,335,rolling_prairie
+29,2022-01-01,Car Wash Vending Sales,101,rolling_prairie
+30,2022-01-01,Chilled Bev Fee,183,rolling_prairie
+31,2022-01-01,Coupons,416,rolling_prairie
+32,2022-01-01,Cravins To Order,391,rolling_prairie
+33,2022-01-01,CTO Ing Shelf Stable,326,rolling_prairie
+34,2022-01-01,Fe Gift Cards Radiant,466,rolling_prairie
+35,2022-01-01,Floral,483,rolling_prairie
+36,2022-01-01,Fresh Bakery,387,rolling_prairie
+37,2022-01-01,Gen Merch Scan Data Sales,267,rolling_prairie
+38,2022-01-01,JW European Cafe,461,rolling_prairie
+39,2022-01-01,Lottery Instant Tickets,447,rolling_prairie
+40,2022-01-01,Lottery ITVM Instant Tickets,360,rolling_prairie
+41,2022-01-01,Lottery Online Sales,242,rolling_prairie
+42,2022-01-01,Manual Fuel Radiant,474,rolling_prairie
+43,2022-01-01,Money Orders Radiant,327,rolling_prairie
+44,2022-01-01,Money Transfers,250,rolling_prairie
+45,2022-01-01,No Scan Merch Radiant,448,rolling_prairie
+46,2022-01-01,Novelty,287,rolling_prairie
+47,2022-01-01,Phone Card Fee,118,rolling_prairie
+48,2022-01-01,Supplies-retail,157,rolling_prairie
+49,2022-02-01,Cigarettes,114,rolling_prairie
+50,2022-02-01,Other Tobacco,367,rolling_prairie
+51,2022-02-01,Beer,231,rolling_prairie
+52,2022-02-01,Wine,61,rolling_prairie
+53,2022-02-01,Packaged Beverages-nonalcoh,172,rolling_prairie
+54,2022-02-01,Candy,374,rolling_prairie
+55,2022-02-01,Fluid Milk Products,227,rolling_prairie
+56,2022-02-01,Other Dairy Deli,450,rolling_prairie
+57,2022-02-01,Pkg Sand Other Products,91,rolling_prairie
+58,2022-02-01,Packaged Ice Cream Novelty,300,rolling_prairie
+59,2022-02-01,Frozen Foods,369,rolling_prairie
+60,2022-02-01,Packaged Bread Comm Bakery,383,rolling_prairie
+61,2022-02-01,Salty Snacks,422,rolling_prairie
+62,2022-02-01,Packaged Sweet Snacks,460,rolling_prairie
+63,2022-02-01,Alternative Snacks,357,rolling_prairie
+64,2022-02-01,Fresh Foods - Perish Groc,400,rolling_prairie
+65,2022-02-01,Edible Grocery,301,rolling_prairie
+66,2022-02-01,Non-edible Grocery,483,rolling_prairie
+67,2022-02-01,Health And Beauty Care,428,rolling_prairie
+68,2022-02-01,General Merchandise,212,rolling_prairie
+69,2022-02-01,Publications,216,rolling_prairie
+70,2022-02-01,Automotive Products,146,rolling_prairie
+71,2022-02-01,Store Services Fee Income,238,rolling_prairie
+72,2022-02-01,Store Services Fee Inc Tax,182,rolling_prairie
+73,2022-02-01,Ice Bags,253,rolling_prairie
+74,2022-02-01,Hot Dispensed Beverages,445,rolling_prairie
+75,2022-02-01,Cold Dispensed Beverages,226,rolling_prairie
+76,2022-02-01,Frozen Dispensed Beverages,456,rolling_prairie
+77,2022-02-01,Car Wash Sls,457,rolling_prairie
+78,2022-02-01,Car Wash Vending Sales,345,rolling_prairie
+79,2022-02-01,Chilled Bev Fee,104,rolling_prairie
+80,2022-02-01,Coupons,66,rolling_prairie
+81,2022-02-01,Cravins To Order,327,rolling_prairie
+82,2022-02-01,CTO Ing Shelf Stable,311,rolling_prairie
+83,2022-02-01,Fe Gift Cards Radiant,150,rolling_prairie
+84,2022-02-01,Floral,492,rolling_prairie
+85,2022-02-01,Fresh Bakery,257,rolling_prairie
+86,2022-02-01,Gen Merch Scan Data Sales,130,rolling_prairie
+87,2022-02-01,JW European Cafe,433,rolling_prairie
+88,2022-02-01,Lottery Instant Tickets,339,rolling_prairie
+89,2022-02-01,Lottery ITVM Instant Tickets,72,rolling_prairie
+90,2022-02-01,Lottery Online Sales,310,rolling_prairie
+91,2022-02-01,Manual Fuel Radiant,376,rolling_prairie
+92,2022-02-01,Money Orders Radiant,240,rolling_prairie
+93,2022-02-01,Money Transfers,51,rolling_prairie
+94,2022-02-01,No Scan Merch Radiant,191,rolling_prairie
+95,2022-02-01,Novelty,471,rolling_prairie
+96,2022-02-01,Phone Card Fee,358,rolling_prairie
+97,2022-02-01,Supplies-retail,180,rolling_prairie
+98,2022-03-01,Cigarettes,153,rolling_prairie
+99,2022-03-01,Other Tobacco,410,rolling_prairie
+100,2022-03-01,Beer,383,rolling_prairie
+101,2022-03-01,Wine,213,rolling_prairie
+102,2022-03-01,Packaged Beverages-nonalcoh,180,rolling_prairie
+103,2022-03-01,Candy,52,rolling_prairie
+104,2022-03-01,Fluid Milk Products,247,rolling_prairie
+105,2022-03-01,Other Dairy Deli,385,rolling_prairie
+106,2022-03-01,Pkg Sand Other Products,442,rolling_prairie
+107,2022-03-01,Packaged Ice Cream Novelty,401,rolling_prairie
+108,2022-03-01,Frozen Foods,293,rolling_prairie
+109,2022-03-01,Packaged Bread Comm Bakery,423,rolling_prairie
+110,2022-03-01,Salty Snacks,281,rolling_prairie
+111,2022-03-01,Packaged Sweet Snacks,246,rolling_prairie
+112,2022-03-01,Alternative Snacks,397,rolling_prairie
+113,2022-03-01,Fresh Foods - Perish Groc,394,rolling_prairie
+114,2022-03-01,Edible Grocery,430,rolling_prairie
+115,2022-03-01,Non-edible Grocery,201,rolling_prairie
+116,2022-03-01,Health And Beauty Care,495,rolling_prairie
+117,2022-03-01,General Merchandise,440,rolling_prairie
+118,2022-03-01,Publications,484,rolling_prairie
+119,2022-03-01,Automotive Products,429,rolling_prairie
+120,2022-03-01,Store Services Fee Income,182,rolling_prairie
+121,2022-03-01,Store Services Fee Inc Tax,194,rolling_prairie
+122,2022-03-01,Ice Bags,281,rolling_prairie
+123,2022-03-01,Hot Dispensed Beverages,156,rolling_prairie
+124,2022-03-01,Cold Dispensed Beverages,114,rolling_prairie
+125,2022-03-01,Frozen Dispensed Beverages,468,rolling_prairie
+126,2022-03-01,Car Wash Sls,307,rolling_prairie
+127,2022-03-01,Car Wash Vending Sales,428,rolling_prairie
+128,2022-03-01,Chilled Bev Fee,94,rolling_prairie
+129,2022-03-01,Coupons,247,rolling_prairie
+130,2022-03-01,Cravins To Order,405,rolling_prairie
+131,2022-03-01,CTO Ing Shelf Stable,263,rolling_prairie
+132,2022-03-01,Fe Gift Cards Radiant,82,rolling_prairie
+133,2022-03-01,Floral,361,rolling_prairie
+134,2022-03-01,Fresh Bakery,402,rolling_prairie
+135,2022-03-01,Gen Merch Scan Data Sales,91,rolling_prairie
+136,2022-03-01,JW European Cafe,124,rolling_prairie
+137,2022-03-01,Lottery Instant Tickets,260,rolling_prairie
+138,2022-03-01,Lottery ITVM Instant Tickets,67,rolling_prairie
+139,2022-03-01,Lottery Online Sales,63,rolling_prairie
+140,2022-03-01,Manual Fuel Radiant,369,rolling_prairie
+141,2022-03-01,Money Orders Radiant,195,rolling_prairie
+142,2022-03-01,Money Transfers,265,rolling_prairie
+143,2022-03-01,No Scan Merch Radiant,284,rolling_prairie
+144,2022-03-01,Novelty,92,rolling_prairie
+145,2022-03-01,Phone Card Fee,95,rolling_prairie
+146,2022-03-01,Supplies-retail,301,rolling_prairie
+147,2022-04-01,Cigarettes,204,rolling_prairie
+148,2022-04-01,Other Tobacco,212,rolling_prairie
+149,2022-04-01,Beer,164,rolling_prairie
+150,2022-04-01,Wine,256,rolling_prairie
+151,2022-04-01,Packaged Beverages-nonalcoh,215,rolling_prairie
+152,2022-04-01,Candy,54,rolling_prairie
+153,2022-04-01,Fluid Milk Products,394,rolling_prairie
+154,2022-04-01,Other Dairy Deli,50,rolling_prairie
+155,2022-04-01,Pkg Sand Other Products,453,rolling_prairie
+156,2022-04-01,Packaged Ice Cream Novelty,177,rolling_prairie
+157,2022-04-01,Frozen Foods,422,rolling_prairie
+158,2022-04-01,Packaged Bread Comm Bakery,267,rolling_prairie
+159,2022-04-01,Salty Snacks,234,rolling_prairie
+160,2022-04-01,Packaged Sweet Snacks,242,rolling_prairie
+161,2022-04-01,Alternative Snacks,357,rolling_prairie
+162,2022-04-01,Fresh Foods - Perish Groc,97,rolling_prairie
+163,2022-04-01,Edible Grocery,457,rolling_prairie
+164,2022-04-01,Non-edible Grocery,223,rolling_prairie
+165,2022-04-01,Health And Beauty Care,164,rolling_prairie
+166,2022-04-01,General Merchandise,143,rolling_prairie
+167,2022-04-01,Publications,372,rolling_prairie
+168,2022-04-01,Automotive Products,106,rolling_prairie
+169,2022-04-01,Store Services Fee Income,104,rolling_prairie
+170,2022-04-01,Store Services Fee Inc Tax,312,rolling_prairie
+171,2022-04-01,Ice Bags,71,rolling_prairie
+172,2022-04-01,Hot Dispensed Beverages,487,rolling_prairie
+173,2022-04-01,Cold Dispensed Beverages,57,rolling_prairie
+174,2022-04-01,Frozen Dispensed Beverages,446,rolling_prairie
+175,2022-04-01,Car Wash Sls,365,rolling_prairie
+176,2022-04-01,Car Wash Vending Sales,199,rolling_prairie
+177,2022-04-01,Chilled Bev Fee,168,rolling_prairie
+178,2022-04-01,Coupons,170,rolling_prairie
+179,2022-04-01,Cravins To Order,410,rolling_prairie
+180,2022-04-01,CTO Ing Shelf Stable,415,rolling_prairie
+181,2022-04-01,Fe Gift Cards Radiant,343,rolling_prairie
+182,2022-04-01,Floral,245,rolling_prairie
+183,2022-04-01,Fresh Bakery,397,rolling_prairie
+184,2022-04-01,Gen Merch Scan Data Sales,96,rolling_prairie
+185,2022-04-01,JW European Cafe,464,rolling_prairie
+186,2022-04-01,Lottery Instant Tickets,265,rolling_prairie
+187,2022-04-01,Lottery ITVM Instant Tickets,469,rolling_prairie
+188,2022-04-01,Lottery Online Sales,88,rolling_prairie
+189,2022-04-01,Manual Fuel Radiant,319,rolling_prairie
+190,2022-04-01,Money Orders Radiant,55,rolling_prairie
+191,2022-04-01,Money Transfers,442,rolling_prairie
+192,2022-04-01,No Scan Merch Radiant,157,rolling_prairie
+193,2022-04-01,Novelty,343,rolling_prairie
+194,2022-04-01,Phone Card Fee,174,rolling_prairie
+195,2022-04-01,Supplies-retail,449,rolling_prairie
+196,2022-05-01,Cigarettes,336,rolling_prairie
+197,2022-05-01,Other Tobacco,393,rolling_prairie
+198,2022-05-01,Beer,72,rolling_prairie
+199,2022-05-01,Wine,498,rolling_prairie
+200,2022-05-01,Packaged Beverages-nonalcoh,182,rolling_prairie
+201,2022-05-01,Candy,397,rolling_prairie
+202,2022-05-01,Fluid Milk Products,439,rolling_prairie
+203,2022-05-01,Other Dairy Deli,114,rolling_prairie
+204,2022-05-01,Pkg Sand Other Products,330,rolling_prairie
+205,2022-05-01,Packaged Ice Cream Novelty,324,rolling_prairie
+206,2022-05-01,Frozen Foods,116,rolling_prairie
+207,2022-05-01,Packaged Bread Comm Bakery,285,rolling_prairie
+208,2022-05-01,Salty Snacks,404,rolling_prairie
+209,2022-05-01,Packaged Sweet Snacks,164,rolling_prairie
+210,2022-05-01,Alternative Snacks,339,rolling_prairie
+211,2022-05-01,Fresh Foods - Perish Groc,155,rolling_prairie
+212,2022-05-01,Edible Grocery,297,rolling_prairie
+213,2022-05-01,Non-edible Grocery,360,rolling_prairie
+214,2022-05-01,Health And Beauty Care,116,rolling_prairie
+215,2022-05-01,General Merchandise,438,rolling_prairie
+216,2022-05-01,Publications,319,rolling_prairie
+217,2022-05-01,Automotive Products,194,rolling_prairie
+218,2022-05-01,Store Services Fee Income,77,rolling_prairie
+219,2022-05-01,Store Services Fee Inc Tax,248,rolling_prairie
+220,2022-05-01,Ice Bags,160,rolling_prairie
+221,2022-05-01,Hot Dispensed Beverages,449,rolling_prairie
+222,2022-05-01,Cold Dispensed Beverages,366,rolling_prairie
+223,2022-05-01,Frozen Dispensed Beverages,168,rolling_prairie
+224,2022-05-01,Car Wash Sls,54,rolling_prairie
+225,2022-05-01,Car Wash Vending Sales,97,rolling_prairie
+226,2022-05-01,Chilled Bev Fee,56,rolling_prairie
+227,2022-05-01,Coupons,217,rolling_prairie
+228,2022-05-01,Cravins To Order,295,rolling_prairie
+229,2022-05-01,CTO Ing Shelf Stable,488,rolling_prairie
+230,2022-05-01,Fe Gift Cards Radiant,417,rolling_prairie
+231,2022-05-01,Floral,270,rolling_prairie
+232,2022-05-01,Fresh Bakery,71,rolling_prairie
+233,2022-05-01,Gen Merch Scan Data Sales,203,rolling_prairie
+234,2022-05-01,JW European Cafe,171,rolling_prairie
+235,2022-05-01,Lottery Instant Tickets,322,rolling_prairie
+236,2022-05-01,Lottery ITVM Instant Tickets,135,rolling_prairie
+237,2022-05-01,Lottery Online Sales,310,rolling_prairie
+238,2022-05-01,Manual Fuel Radiant,134,rolling_prairie
+239,2022-05-01,Money Orders Radiant,301,rolling_prairie
+240,2022-05-01,Money Transfers,359,rolling_prairie
+241,2022-05-01,No Scan Merch Radiant,77,rolling_prairie
+242,2022-05-01,Novelty,195,rolling_prairie
+243,2022-05-01,Phone Card Fee,179,rolling_prairie
+244,2022-05-01,Supplies-retail,96,rolling_prairie
+245,2022-06-01,Cigarettes,361,rolling_prairie
+246,2022-06-01,Other Tobacco,403,rolling_prairie
+247,2022-06-01,Beer,297,rolling_prairie
+248,2022-06-01,Wine,480,rolling_prairie
+249,2022-06-01,Packaged Beverages-nonalcoh,391,rolling_prairie
+250,2022-06-01,Candy,187,rolling_prairie
+251,2022-06-01,Fluid Milk Products,354,rolling_prairie
+252,2022-06-01,Other Dairy Deli,233,rolling_prairie
+253,2022-06-01,Pkg Sand Other Products,253,rolling_prairie
+254,2022-06-01,Packaged Ice Cream Novelty,409,rolling_prairie
+255,2022-06-01,Frozen Foods,420,rolling_prairie
+256,2022-06-01,Packaged Bread Comm Bakery,313,rolling_prairie
+257,2022-06-01,Salty Snacks,496,rolling_prairie
+258,2022-06-01,Packaged Sweet Snacks,430,rolling_prairie
+259,2022-06-01,Alternative Snacks,374,rolling_prairie
+260,2022-06-01,Fresh Foods - Perish Groc,476,rolling_prairie
+261,2022-06-01,Edible Grocery,116,rolling_prairie
+262,2022-06-01,Non-edible Grocery,170,rolling_prairie
+263,2022-06-01,Health And Beauty Care,256,rolling_prairie
+264,2022-06-01,General Merchandise,115,rolling_prairie
+265,2022-06-01,Publications,385,rolling_prairie
+266,2022-06-01,Automotive Products,170,rolling_prairie
+267,2022-06-01,Store Services Fee Income,53,rolling_prairie
+268,2022-06-01,Store Services Fee Inc Tax,276,rolling_prairie
+269,2022-06-01,Ice Bags,474,rolling_prairie
+270,2022-06-01,Hot Dispensed Beverages,181,rolling_prairie
+271,2022-06-01,Cold Dispensed Beverages,415,rolling_prairie
+272,2022-06-01,Frozen Dispensed Beverages,458,rolling_prairie
+273,2022-06-01,Car Wash Sls,209,rolling_prairie
+274,2022-06-01,Car Wash Vending Sales,490,rolling_prairie
+275,2022-06-01,Chilled Bev Fee,224,rolling_prairie
+276,2022-06-01,Coupons,110,rolling_prairie
+277,2022-06-01,Cravins To Order,60,rolling_prairie
+278,2022-06-01,CTO Ing Shelf Stable,192,rolling_prairie
+279,2022-06-01,Fe Gift Cards Radiant,335,rolling_prairie
+280,2022-06-01,Floral,340,rolling_prairie
+281,2022-06-01,Fresh Bakery,193,rolling_prairie
+282,2022-06-01,Gen Merch Scan Data Sales,477,rolling_prairie
+283,2022-06-01,JW European Cafe,416,rolling_prairie
+284,2022-06-01,Lottery Instant Tickets,405,rolling_prairie
+285,2022-06-01,Lottery ITVM Instant Tickets,148,rolling_prairie
+286,2022-06-01,Lottery Online Sales,394,rolling_prairie
+287,2022-06-01,Manual Fuel Radiant,358,rolling_prairie
+288,2022-06-01,Money Orders Radiant,378,rolling_prairie
+289,2022-06-01,Money Transfers,254,rolling_prairie
+290,2022-06-01,No Scan Merch Radiant,366,rolling_prairie
+291,2022-06-01,Novelty,118,rolling_prairie
+292,2022-06-01,Phone Card Fee,222,rolling_prairie
+293,2022-06-01,Supplies-retail,312,rolling_prairie
+294,2022-07-01,Cigarettes,313,rolling_prairie
+295,2022-07-01,Other Tobacco,191,rolling_prairie
+296,2022-07-01,Beer,211,rolling_prairie
+297,2022-07-01,Wine,212,rolling_prairie
+298,2022-07-01,Packaged Beverages-nonalcoh,375,rolling_prairie
+299,2022-07-01,Candy,300,rolling_prairie
+300,2022-07-01,Fluid Milk Products,101,rolling_prairie
+301,2022-07-01,Other Dairy Deli,144,rolling_prairie
+302,2022-07-01,Pkg Sand Other Products,448,rolling_prairie
+303,2022-07-01,Packaged Ice Cream Novelty,454,rolling_prairie
+304,2022-07-01,Frozen Foods,200,rolling_prairie
+305,2022-07-01,Packaged Bread Comm Bakery,187,rolling_prairie
+306,2022-07-01,Salty Snacks,93,rolling_prairie
+307,2022-07-01,Packaged Sweet Snacks,130,rolling_prairie
+308,2022-07-01,Alternative Snacks,183,rolling_prairie
+309,2022-07-01,Fresh Foods - Perish Groc,354,rolling_prairie
+310,2022-07-01,Edible Grocery,342,rolling_prairie
+311,2022-07-01,Non-edible Grocery,475,rolling_prairie
+312,2022-07-01,Health And Beauty Care,243,rolling_prairie
+313,2022-07-01,General Merchandise,452,rolling_prairie
+314,2022-07-01,Publications,91,rolling_prairie
+315,2022-07-01,Automotive Products,305,rolling_prairie
+316,2022-07-01,Store Services Fee Income,210,rolling_prairie
+317,2022-07-01,Store Services Fee Inc Tax,429,rolling_prairie
+318,2022-07-01,Ice Bags,283,rolling_prairie
+319,2022-07-01,Hot Dispensed Beverages,167,rolling_prairie
+320,2022-07-01,Cold Dispensed Beverages,254,rolling_prairie
+321,2022-07-01,Frozen Dispensed Beverages,324,rolling_prairie
+322,2022-07-01,Car Wash Sls,395,rolling_prairie
+323,2022-07-01,Car Wash Vending Sales,180,rolling_prairie
+324,2022-07-01,Chilled Bev Fee,359,rolling_prairie
+325,2022-07-01,Coupons,105,rolling_prairie
+326,2022-07-01,Cravins To Order,208,rolling_prairie
+327,2022-07-01,CTO Ing Shelf Stable,330,rolling_prairie
+328,2022-07-01,Fe Gift Cards Radiant,365,rolling_prairie
+329,2022-07-01,Floral,227,rolling_prairie
+330,2022-07-01,Fresh Bakery,132,rolling_prairie
+331,2022-07-01,Gen Merch Scan Data Sales,108,rolling_prairie
+332,2022-07-01,JW European Cafe,292,rolling_prairie
+333,2022-07-01,Lottery Instant Tickets,183,rolling_prairie
+334,2022-07-01,Lottery ITVM Instant Tickets,419,rolling_prairie
+335,2022-07-01,Lottery Online Sales,414,rolling_prairie
+336,2022-07-01,Manual Fuel Radiant,462,rolling_prairie
+337,2022-07-01,Money Orders Radiant,406,rolling_prairie
+338,2022-07-01,Money Transfers,455,rolling_prairie
+339,2022-07-01,No Scan Merch Radiant,483,rolling_prairie
+340,2022-07-01,Novelty,167,rolling_prairie
+341,2022-07-01,Phone Card Fee,420,rolling_prairie
+342,2022-07-01,Supplies-retail,323,rolling_prairie
+343,2022-08-01,Cigarettes,442,rolling_prairie
+344,2022-08-01,Other Tobacco,362,rolling_prairie
+345,2022-08-01,Beer,467,rolling_prairie
+346,2022-08-01,Wine,457,rolling_prairie
+347,2022-08-01,Packaged Beverages-nonalcoh,375,rolling_prairie
+348,2022-08-01,Candy,87,rolling_prairie
+349,2022-08-01,Fluid Milk Products,402,rolling_prairie
+350,2022-08-01,Other Dairy Deli,394,rolling_prairie
+351,2022-08-01,Pkg Sand Other Products,480,rolling_prairie
+352,2022-08-01,Packaged Ice Cream Novelty,343,rolling_prairie
+353,2022-08-01,Frozen Foods,66,rolling_prairie
+354,2022-08-01,Packaged Bread Comm Bakery,448,rolling_prairie
+355,2022-08-01,Salty Snacks,136,rolling_prairie
+356,2022-08-01,Packaged Sweet Snacks,416,rolling_prairie
+357,2022-08-01,Alternative Snacks,143,rolling_prairie
+358,2022-08-01,Fresh Foods - Perish Groc,159,rolling_prairie
+359,2022-08-01,Edible Grocery,400,rolling_prairie
+360,2022-08-01,Non-edible Grocery,327,rolling_prairie
+361,2022-08-01,Health And Beauty Care,310,rolling_prairie
+362,2022-08-01,General Merchandise,204,rolling_prairie
+363,2022-08-01,Publications,202,rolling_prairie
+364,2022-08-01,Automotive Products,331,rolling_prairie
+365,2022-08-01,Store Services Fee Income,430,rolling_prairie
+366,2022-08-01,Store Services Fee Inc Tax,399,rolling_prairie
+367,2022-08-01,Ice Bags,311,rolling_prairie
+368,2022-08-01,Hot Dispensed Beverages,428,rolling_prairie
+369,2022-08-01,Cold Dispensed Beverages,250,rolling_prairie
+370,2022-08-01,Frozen Dispensed Beverages,106,rolling_prairie
+371,2022-08-01,Car Wash Sls,361,rolling_prairie
+372,2022-08-01,Car Wash Vending Sales,77,rolling_prairie
+373,2022-08-01,Chilled Bev Fee,237,rolling_prairie
+374,2022-08-01,Coupons,92,rolling_prairie
+375,2022-08-01,Cravins To Order,420,rolling_prairie
+376,2022-08-01,CTO Ing Shelf Stable,238,rolling_prairie
+377,2022-08-01,Fe Gift Cards Radiant,51,rolling_prairie
+378,2022-08-01,Floral,78,rolling_prairie
+379,2022-08-01,Fresh Bakery,96,rolling_prairie
+380,2022-08-01,Gen Merch Scan Data Sales,344,rolling_prairie
+381,2022-08-01,JW European Cafe,116,rolling_prairie
+382,2022-08-01,Lottery Instant Tickets,275,rolling_prairie
+383,2022-08-01,Lottery ITVM Instant Tickets,344,rolling_prairie
+384,2022-08-01,Lottery Online Sales,271,rolling_prairie
+385,2022-08-01,Manual Fuel Radiant,386,rolling_prairie
+386,2022-08-01,Money Orders Radiant,364,rolling_prairie
+387,2022-08-01,Money Transfers,223,rolling_prairie
+388,2022-08-01,No Scan Merch Radiant,230,rolling_prairie
+389,2022-08-01,Novelty,397,rolling_prairie
+390,2022-08-01,Phone Card Fee,169,rolling_prairie
+391,2022-08-01,Supplies-retail,204,rolling_prairie
+392,2022-09-01,Cigarettes,137,rolling_prairie
+393,2022-09-01,Other Tobacco,113,rolling_prairie
+394,2022-09-01,Beer,139,rolling_prairie
+395,2022-09-01,Wine,254,rolling_prairie
+396,2022-09-01,Packaged Beverages-nonalcoh,268,rolling_prairie
+397,2022-09-01,Candy,420,rolling_prairie
+398,2022-09-01,Fluid Milk Products,197,rolling_prairie
+399,2022-09-01,Other Dairy Deli,399,rolling_prairie
+400,2022-09-01,Pkg Sand Other Products,286,rolling_prairie
+401,2022-09-01,Packaged Ice Cream Novelty,195,rolling_prairie
+402,2022-09-01,Frozen Foods,153,rolling_prairie
+403,2022-09-01,Packaged Bread Comm Bakery,105,rolling_prairie
+404,2022-09-01,Salty Snacks,404,rolling_prairie
+405,2022-09-01,Packaged Sweet Snacks,179,rolling_prairie
+406,2022-09-01,Alternative Snacks,237,rolling_prairie
+407,2022-09-01,Fresh Foods - Perish Groc,470,rolling_prairie
+408,2022-09-01,Edible Grocery,161,rolling_prairie
+409,2022-09-01,Non-edible Grocery,332,rolling_prairie
+410,2022-09-01,Health And Beauty Care,269,rolling_prairie
+411,2022-09-01,General Merchandise,258,rolling_prairie
+412,2022-09-01,Publications,201,rolling_prairie
+413,2022-09-01,Automotive Products,272,rolling_prairie
+414,2022-09-01,Store Services Fee Income,245,rolling_prairie
+415,2022-09-01,Store Services Fee Inc Tax,114,rolling_prairie
+416,2022-09-01,Ice Bags,173,rolling_prairie
+417,2022-09-01,Hot Dispensed Beverages,95,rolling_prairie
+418,2022-09-01,Cold Dispensed Beverages,248,rolling_prairie
+419,2022-09-01,Frozen Dispensed Beverages,80,rolling_prairie
+420,2022-09-01,Car Wash Sls,274,rolling_prairie
+421,2022-09-01,Car Wash Vending Sales,349,rolling_prairie
+422,2022-09-01,Chilled Bev Fee,179,rolling_prairie
+423,2022-09-01,Coupons,222,rolling_prairie
+424,2022-09-01,Cravins To Order,235,rolling_prairie
+425,2022-09-01,CTO Ing Shelf Stable,406,rolling_prairie
+426,2022-09-01,Fe Gift Cards Radiant,99,rolling_prairie
+427,2022-09-01,Floral,54,rolling_prairie
+428,2022-09-01,Fresh Bakery,413,rolling_prairie
+429,2022-09-01,Gen Merch Scan Data Sales,366,rolling_prairie
+430,2022-09-01,JW European Cafe,455,rolling_prairie
+431,2022-09-01,Lottery Instant Tickets,405,rolling_prairie
+432,2022-09-01,Lottery ITVM Instant Tickets,126,rolling_prairie
+433,2022-09-01,Lottery Online Sales,182,rolling_prairie
+434,2022-09-01,Manual Fuel Radiant,419,rolling_prairie
+435,2022-09-01,Money Orders Radiant,443,rolling_prairie
+436,2022-09-01,Money Transfers,269,rolling_prairie
+437,2022-09-01,No Scan Merch Radiant,449,rolling_prairie
+438,2022-09-01,Novelty,369,rolling_prairie
+439,2022-09-01,Phone Card Fee,320,rolling_prairie
+440,2022-09-01,Supplies-retail,333,rolling_prairie
+441,2022-10-01,Cigarettes,175,rolling_prairie
+442,2022-10-01,Other Tobacco,308,rolling_prairie
+443,2022-10-01,Beer,156,rolling_prairie
+444,2022-10-01,Wine,457,rolling_prairie
+445,2022-10-01,Packaged Beverages-nonalcoh,265,rolling_prairie
+446,2022-10-01,Candy,283,rolling_prairie
+447,2022-10-01,Fluid Milk Products,271,rolling_prairie
+448,2022-10-01,Other Dairy Deli,134,rolling_prairie
+449,2022-10-01,Pkg Sand Other Products,106,rolling_prairie
+450,2022-10-01,Packaged Ice Cream Novelty,174,rolling_prairie
+451,2022-10-01,Frozen Foods,481,rolling_prairie
+452,2022-10-01,Packaged Bread Comm Bakery,457,rolling_prairie
+453,2022-10-01,Salty Snacks,183,rolling_prairie
+454,2022-10-01,Packaged Sweet Snacks,499,rolling_prairie
+455,2022-10-01,Alternative Snacks,210,rolling_prairie
+456,2022-10-01,Fresh Foods - Perish Groc,102,rolling_prairie
+457,2022-10-01,Edible Grocery,396,rolling_prairie
+458,2022-10-01,Non-edible Grocery,393,rolling_prairie
+459,2022-10-01,Health And Beauty Care,334,rolling_prairie
+460,2022-10-01,General Merchandise,363,rolling_prairie
+461,2022-10-01,Publications,190,rolling_prairie
+462,2022-10-01,Automotive Products,390,rolling_prairie
+463,2022-10-01,Store Services Fee Income,346,rolling_prairie
+464,2022-10-01,Store Services Fee Inc Tax,397,rolling_prairie
+465,2022-10-01,Ice Bags,61,rolling_prairie
+466,2022-10-01,Hot Dispensed Beverages,139,rolling_prairie
+467,2022-10-01,Cold Dispensed Beverages,303,rolling_prairie
+468,2022-10-01,Frozen Dispensed Beverages,479,rolling_prairie
+469,2022-10-01,Car Wash Sls,353,rolling_prairie
+470,2022-10-01,Car Wash Vending Sales,348,rolling_prairie
+471,2022-10-01,Chilled Bev Fee,460,rolling_prairie
+472,2022-10-01,Coupons,455,rolling_prairie
+473,2022-10-01,Cravins To Order,147,rolling_prairie
+474,2022-10-01,CTO Ing Shelf Stable,51,rolling_prairie
+475,2022-10-01,Fe Gift Cards Radiant,138,rolling_prairie
+476,2022-10-01,Floral,116,rolling_prairie
+477,2022-10-01,Fresh Bakery,470,rolling_prairie
+478,2022-10-01,Gen Merch Scan Data Sales,407,rolling_prairie
+479,2022-10-01,JW European Cafe,282,rolling_prairie
+480,2022-10-01,Lottery Instant Tickets,436,rolling_prairie
+481,2022-10-01,Lottery ITVM Instant Tickets,125,rolling_prairie
+482,2022-10-01,Lottery Online Sales,212,rolling_prairie
+483,2022-10-01,Manual Fuel Radiant,265,rolling_prairie
+484,2022-10-01,Money Orders Radiant,167,rolling_prairie
+485,2022-10-01,Money Transfers,101,rolling_prairie
+486,2022-10-01,No Scan Merch Radiant,390,rolling_prairie
+487,2022-10-01,Novelty,276,rolling_prairie
+488,2022-10-01,Phone Card Fee,227,rolling_prairie
+489,2022-10-01,Supplies-retail,475,rolling_prairie
+490,2022-11-01,Cigarettes,100,rolling_prairie
+491,2022-11-01,Other Tobacco,75,rolling_prairie
+492,2022-11-01,Beer,476,rolling_prairie
+493,2022-11-01,Wine,257,rolling_prairie
+494,2022-11-01,Packaged Beverages-nonalcoh,196,rolling_prairie
+495,2022-11-01,Candy,120,rolling_prairie
+496,2022-11-01,Fluid Milk Products,249,rolling_prairie
+497,2022-11-01,Other Dairy Deli,470,rolling_prairie
+498,2022-11-01,Pkg Sand Other Products,294,rolling_prairie
+499,2022-11-01,Packaged Ice Cream Novelty,157,rolling_prairie
+500,2022-11-01,Frozen Foods,309,rolling_prairie
+501,2022-11-01,Packaged Bread Comm Bakery,75,rolling_prairie
+502,2022-11-01,Salty Snacks,452,rolling_prairie
+503,2022-11-01,Packaged Sweet Snacks,162,rolling_prairie
+504,2022-11-01,Alternative Snacks,369,rolling_prairie
+505,2022-11-01,Fresh Foods - Perish Groc,108,rolling_prairie
+506,2022-11-01,Edible Grocery,293,rolling_prairie
+507,2022-11-01,Non-edible Grocery,160,rolling_prairie
+508,2022-11-01,Health And Beauty Care,430,rolling_prairie
+509,2022-11-01,General Merchandise,192,rolling_prairie
+510,2022-11-01,Publications,350,rolling_prairie
+511,2022-11-01,Automotive Products,79,rolling_prairie
+512,2022-11-01,Store Services Fee Income,61,rolling_prairie
+513,2022-11-01,Store Services Fee Inc Tax,168,rolling_prairie
+514,2022-11-01,Ice Bags,137,rolling_prairie
+515,2022-11-01,Hot Dispensed Beverages,90,rolling_prairie
+516,2022-11-01,Cold Dispensed Beverages,355,rolling_prairie
+517,2022-11-01,Frozen Dispensed Beverages,337,rolling_prairie
+518,2022-11-01,Car Wash Sls,92,rolling_prairie
+519,2022-11-01,Car Wash Vending Sales,226,rolling_prairie
+520,2022-11-01,Chilled Bev Fee,433,rolling_prairie
+521,2022-11-01,Coupons,173,rolling_prairie
+522,2022-11-01,Cravins To Order,71,rolling_prairie
+523,2022-11-01,CTO Ing Shelf Stable,302,rolling_prairie
+524,2022-11-01,Fe Gift Cards Radiant,329,rolling_prairie
+525,2022-11-01,Floral,349,rolling_prairie
+526,2022-11-01,Fresh Bakery,430,rolling_prairie
+527,2022-11-01,Gen Merch Scan Data Sales,349,rolling_prairie
+528,2022-11-01,JW European Cafe,97,rolling_prairie
+529,2022-11-01,Lottery Instant Tickets,476,rolling_prairie
+530,2022-11-01,Lottery ITVM Instant Tickets,422,rolling_prairie
+531,2022-11-01,Lottery Online Sales,130,rolling_prairie
+532,2022-11-01,Manual Fuel Radiant,76,rolling_prairie
+533,2022-11-01,Money Orders Radiant,202,rolling_prairie
+534,2022-11-01,Money Transfers,493,rolling_prairie
+535,2022-11-01,No Scan Merch Radiant,269,rolling_prairie
+536,2022-11-01,Novelty,393,rolling_prairie
+537,2022-11-01,Phone Card Fee,221,rolling_prairie
+538,2022-11-01,Supplies-retail,247,rolling_prairie
+539,2022-12-01,Cigarettes,486,rolling_prairie
+540,2022-12-01,Other Tobacco,56,rolling_prairie
+541,2022-12-01,Beer,392,rolling_prairie
+542,2022-12-01,Wine,213,rolling_prairie
+543,2022-12-01,Packaged Beverages-nonalcoh,425,rolling_prairie
+544,2022-12-01,Candy,484,rolling_prairie
+545,2022-12-01,Fluid Milk Products,237,rolling_prairie
+546,2022-12-01,Other Dairy Deli,482,rolling_prairie
+547,2022-12-01,Pkg Sand Other Products,404,rolling_prairie
+548,2022-12-01,Packaged Ice Cream Novelty,207,rolling_prairie
+549,2022-12-01,Frozen Foods,366,rolling_prairie
+550,2022-12-01,Packaged Bread Comm Bakery,364,rolling_prairie
+551,2022-12-01,Salty Snacks,68,rolling_prairie
+552,2022-12-01,Packaged Sweet Snacks,237,rolling_prairie
+553,2022-12-01,Alternative Snacks,336,rolling_prairie
+554,2022-12-01,Fresh Foods - Perish Groc,109,rolling_prairie
+555,2022-12-01,Edible Grocery,270,rolling_prairie
+556,2022-12-01,Non-edible Grocery,466,rolling_prairie
+557,2022-12-01,Health And Beauty Care,153,rolling_prairie
+558,2022-12-01,General Merchandise,285,rolling_prairie
+559,2022-12-01,Publications,392,rolling_prairie
+560,2022-12-01,Automotive Products,434,rolling_prairie
+561,2022-12-01,Store Services Fee Income,479,rolling_prairie
+562,2022-12-01,Store Services Fee Inc Tax,290,rolling_prairie
+563,2022-12-01,Ice Bags,353,rolling_prairie
+564,2022-12-01,Hot Dispensed Beverages,187,rolling_prairie
+565,2022-12-01,Cold Dispensed Beverages,326,rolling_prairie
+566,2022-12-01,Frozen Dispensed Beverages,483,rolling_prairie
+567,2022-12-01,Car Wash Sls,282,rolling_prairie
+568,2022-12-01,Car Wash Vending Sales,158,rolling_prairie
+569,2022-12-01,Chilled Bev Fee,365,rolling_prairie
+570,2022-12-01,Coupons,157,rolling_prairie
+571,2022-12-01,Cravins To Order,397,rolling_prairie
+572,2022-12-01,CTO Ing Shelf Stable,256,rolling_prairie
+573,2022-12-01,Fe Gift Cards Radiant,425,rolling_prairie
+574,2022-12-01,Floral,202,rolling_prairie
+575,2022-12-01,Fresh Bakery,436,rolling_prairie
+576,2022-12-01,Gen Merch Scan Data Sales,446,rolling_prairie
+577,2022-12-01,JW European Cafe,206,rolling_prairie
+578,2022-12-01,Lottery Instant Tickets,244,rolling_prairie
+579,2022-12-01,Lottery ITVM Instant Tickets,324,rolling_prairie
+580,2022-12-01,Lottery Online Sales,304,rolling_prairie
+581,2022-12-01,Manual Fuel Radiant,102,rolling_prairie
+582,2022-12-01,Money Orders Radiant,457,rolling_prairie
+583,2022-12-01,Money Transfers,215,rolling_prairie
+584,2022-12-01,No Scan Merch Radiant,301,rolling_prairie
+585,2022-12-01,Novelty,56,rolling_prairie
+586,2022-12-01,Phone Card Fee,66,rolling_prairie
+587,2022-12-01,Supplies-retail,443,rolling_prairie
+588,2023-01-01,Cigarettes,234,rolling_prairie
+589,2023-01-01,Other Tobacco,104,rolling_prairie
+590,2023-01-01,Beer,164,rolling_prairie
+591,2023-01-01,Wine,471,rolling_prairie
+592,2023-01-01,Packaged Beverages-nonalcoh,106,rolling_prairie
+593,2023-01-01,Candy,285,rolling_prairie
+594,2023-01-01,Fluid Milk Products,374,rolling_prairie
+595,2023-01-01,Other Dairy Deli,117,rolling_prairie
+596,2023-01-01,Pkg Sand Other Products,421,rolling_prairie
+597,2023-01-01,Packaged Ice Cream Novelty,196,rolling_prairie
+598,2023-01-01,Frozen Foods,253,rolling_prairie
+599,2023-01-01,Packaged Bread Comm Bakery,468,rolling_prairie
+600,2023-01-01,Salty Snacks,171,rolling_prairie
+601,2023-01-01,Packaged Sweet Snacks,424,rolling_prairie
+602,2023-01-01,Alternative Snacks,447,rolling_prairie
+603,2023-01-01,Fresh Foods - Perish Groc,417,rolling_prairie
+604,2023-01-01,Edible Grocery,431,rolling_prairie
+605,2023-01-01,Non-edible Grocery,269,rolling_prairie
+606,2023-01-01,Health And Beauty Care,152,rolling_prairie
+607,2023-01-01,General Merchandise,202,rolling_prairie
+608,2023-01-01,Publications,144,rolling_prairie
+609,2023-01-01,Automotive Products,485,rolling_prairie
+610,2023-01-01,Store Services Fee Income,384,rolling_prairie
+611,2023-01-01,Store Services Fee Inc Tax,79,rolling_prairie
+612,2023-01-01,Ice Bags,397,rolling_prairie
+613,2023-01-01,Hot Dispensed Beverages,305,rolling_prairie
+614,2023-01-01,Cold Dispensed Beverages,422,rolling_prairie
+615,2023-01-01,Frozen Dispensed Beverages,109,rolling_prairie
+616,2023-01-01,Car Wash Sls,256,rolling_prairie
+617,2023-01-01,Car Wash Vending Sales,277,rolling_prairie
+618,2023-01-01,Chilled Bev Fee,473,rolling_prairie
+619,2023-01-01,Coupons,431,rolling_prairie
+620,2023-01-01,Cravins To Order,312,rolling_prairie
+621,2023-01-01,CTO Ing Shelf Stable,266,rolling_prairie
+622,2023-01-01,Fe Gift Cards Radiant,270,rolling_prairie
+623,2023-01-01,Floral,204,rolling_prairie
+624,2023-01-01,Fresh Bakery,462,rolling_prairie
+625,2023-01-01,Gen Merch Scan Data Sales,271,rolling_prairie
+626,2023-01-01,JW European Cafe,312,rolling_prairie
+627,2023-01-01,Lottery Instant Tickets,73,rolling_prairie
+628,2023-01-01,Lottery ITVM Instant Tickets,140,rolling_prairie
+629,2023-01-01,Lottery Online Sales,438,rolling_prairie
+630,2023-01-01,Manual Fuel Radiant,399,rolling_prairie
+631,2023-01-01,Money Orders Radiant,489,rolling_prairie
+632,2023-01-01,Money Transfers,456,rolling_prairie
+633,2023-01-01,No Scan Merch Radiant,231,rolling_prairie
+634,2023-01-01,Novelty,335,rolling_prairie
+635,2023-01-01,Phone Card Fee,435,rolling_prairie
+636,2023-01-01,Supplies-retail,441,rolling_prairie
+637,2023-02-01,Cigarettes,104,rolling_prairie
+638,2023-02-01,Other Tobacco,409,rolling_prairie
+639,2023-02-01,Beer,282,rolling_prairie
+640,2023-02-01,Wine,133,rolling_prairie
+641,2023-02-01,Packaged Beverages-nonalcoh,429,rolling_prairie
+642,2023-02-01,Candy,427,rolling_prairie
+643,2023-02-01,Fluid Milk Products,297,rolling_prairie
+644,2023-02-01,Other Dairy Deli,271,rolling_prairie
+645,2023-02-01,Pkg Sand Other Products,312,rolling_prairie
+646,2023-02-01,Packaged Ice Cream Novelty,364,rolling_prairie
+647,2023-02-01,Frozen Foods,327,rolling_prairie
+648,2023-02-01,Packaged Bread Comm Bakery,152,rolling_prairie
+649,2023-02-01,Salty Snacks,289,rolling_prairie
+650,2023-02-01,Packaged Sweet Snacks,412,rolling_prairie
+651,2023-02-01,Alternative Snacks,368,rolling_prairie
+652,2023-02-01,Fresh Foods - Perish Groc,447,rolling_prairie
+653,2023-02-01,Edible Grocery,50,rolling_prairie
+654,2023-02-01,Non-edible Grocery,370,rolling_prairie
+655,2023-02-01,Health And Beauty Care,75,rolling_prairie
+656,2023-02-01,General Merchandise,254,rolling_prairie
+657,2023-02-01,Publications,234,rolling_prairie
+658,2023-02-01,Automotive Products,131,rolling_prairie
+659,2023-02-01,Store Services Fee Income,312,rolling_prairie
+660,2023-02-01,Store Services Fee Inc Tax,354,rolling_prairie
+661,2023-02-01,Ice Bags,169,rolling_prairie
+662,2023-02-01,Hot Dispensed Beverages,82,rolling_prairie
+663,2023-02-01,Cold Dispensed Beverages,109,rolling_prairie
+664,2023-02-01,Frozen Dispensed Beverages,218,rolling_prairie
+665,2023-02-01,Car Wash Sls,317,rolling_prairie
+666,2023-02-01,Car Wash Vending Sales,477,rolling_prairie
+667,2023-02-01,Chilled Bev Fee,99,rolling_prairie
+668,2023-02-01,Coupons,332,rolling_prairie
+669,2023-02-01,Cravins To Order,222,rolling_prairie
+670,2023-02-01,CTO Ing Shelf Stable,164,rolling_prairie
+671,2023-02-01,Fe Gift Cards Radiant,271,rolling_prairie
+672,2023-02-01,Floral,423,rolling_prairie
+673,2023-02-01,Fresh Bakery,79,rolling_prairie
+674,2023-02-01,Gen Merch Scan Data Sales,198,rolling_prairie
+675,2023-02-01,JW European Cafe,286,rolling_prairie
+676,2023-02-01,Lottery Instant Tickets,221,rolling_prairie
+677,2023-02-01,Lottery ITVM Instant Tickets,460,rolling_prairie
+678,2023-02-01,Lottery Online Sales,286,rolling_prairie
+679,2023-02-01,Manual Fuel Radiant,128,rolling_prairie
+680,2023-02-01,Money Orders Radiant,247,rolling_prairie
+681,2023-02-01,Money Transfers,161,rolling_prairie
+682,2023-02-01,No Scan Merch Radiant,66,rolling_prairie
+683,2023-02-01,Novelty,425,rolling_prairie
+684,2023-02-01,Phone Card Fee,208,rolling_prairie
+685,2023-02-01,Supplies-retail,365,rolling_prairie
+686,2023-03-01,Cigarettes,70,rolling_prairie
+687,2023-03-01,Other Tobacco,326,rolling_prairie
+688,2023-03-01,Beer,499,rolling_prairie
+689,2023-03-01,Wine,408,rolling_prairie
+690,2023-03-01,Packaged Beverages-nonalcoh,129,rolling_prairie
+691,2023-03-01,Candy,228,rolling_prairie
+692,2023-03-01,Fluid Milk Products,413,rolling_prairie
+693,2023-03-01,Other Dairy Deli,193,rolling_prairie
+694,2023-03-01,Pkg Sand Other Products,343,rolling_prairie
+695,2023-03-01,Packaged Ice Cream Novelty,422,rolling_prairie
+696,2023-03-01,Frozen Foods,206,rolling_prairie
+697,2023-03-01,Packaged Bread Comm Bakery,336,rolling_prairie
+698,2023-03-01,Salty Snacks,299,rolling_prairie
+699,2023-03-01,Packaged Sweet Snacks,380,rolling_prairie
+700,2023-03-01,Alternative Snacks,302,rolling_prairie
+701,2023-03-01,Fresh Foods - Perish Groc,132,rolling_prairie
+702,2023-03-01,Edible Grocery,292,rolling_prairie
+703,2023-03-01,Non-edible Grocery,238,rolling_prairie
+704,2023-03-01,Health And Beauty Care,348,rolling_prairie
+705,2023-03-01,General Merchandise,64,rolling_prairie
+706,2023-03-01,Publications,497,rolling_prairie
+707,2023-03-01,Automotive Products,299,rolling_prairie
+708,2023-03-01,Store Services Fee Income,53,rolling_prairie
+709,2023-03-01,Store Services Fee Inc Tax,384,rolling_prairie
+710,2023-03-01,Ice Bags,67,rolling_prairie
+711,2023-03-01,Hot Dispensed Beverages,275,rolling_prairie
+712,2023-03-01,Cold Dispensed Beverages,196,rolling_prairie
+713,2023-03-01,Frozen Dispensed Beverages,331,rolling_prairie
+714,2023-03-01,Car Wash Sls,359,rolling_prairie
+715,2023-03-01,Car Wash Vending Sales,236,rolling_prairie
+716,2023-03-01,Chilled Bev Fee,164,rolling_prairie
+717,2023-03-01,Coupons,175,rolling_prairie
+718,2023-03-01,Cravins To Order,164,rolling_prairie
+719,2023-03-01,CTO Ing Shelf Stable,200,rolling_prairie
+720,2023-03-01,Fe Gift Cards Radiant,331,rolling_prairie
+721,2023-03-01,Floral,497,rolling_prairie
+722,2023-03-01,Fresh Bakery,310,rolling_prairie
+723,2023-03-01,Gen Merch Scan Data Sales,231,rolling_prairie
+724,2023-03-01,JW European Cafe,348,rolling_prairie
+725,2023-03-01,Lottery Instant Tickets,137,rolling_prairie
+726,2023-03-01,Lottery ITVM Instant Tickets,300,rolling_prairie
+727,2023-03-01,Lottery Online Sales,397,rolling_prairie
+728,2023-03-01,Manual Fuel Radiant,187,rolling_prairie
+729,2023-03-01,Money Orders Radiant,160,rolling_prairie
+730,2023-03-01,Money Transfers,435,rolling_prairie
+731,2023-03-01,No Scan Merch Radiant,213,rolling_prairie
+732,2023-03-01,Novelty,312,rolling_prairie
+733,2023-03-01,Phone Card Fee,232,rolling_prairie
+734,2023-03-01,Supplies-retail,307,rolling_prairie
+735,2023-04-01,Cigarettes,196,rolling_prairie
+736,2023-04-01,Other Tobacco,285,rolling_prairie
+737,2023-04-01,Beer,256,rolling_prairie
+738,2023-04-01,Wine,390,rolling_prairie
+739,2023-04-01,Packaged Beverages-nonalcoh,275,rolling_prairie
+740,2023-04-01,Candy,70,rolling_prairie
+741,2023-04-01,Fluid Milk Products,323,rolling_prairie
+742,2023-04-01,Other Dairy Deli,327,rolling_prairie
+743,2023-04-01,Pkg Sand Other Products,112,rolling_prairie
+744,2023-04-01,Packaged Ice Cream Novelty,327,rolling_prairie
+745,2023-04-01,Frozen Foods,71,rolling_prairie
+746,2023-04-01,Packaged Bread Comm Bakery,411,rolling_prairie
+747,2023-04-01,Salty Snacks,307,rolling_prairie
+748,2023-04-01,Packaged Sweet Snacks,111,rolling_prairie
+749,2023-04-01,Alternative Snacks,331,rolling_prairie
+750,2023-04-01,Fresh Foods - Perish Groc,419,rolling_prairie
+751,2023-04-01,Edible Grocery,227,rolling_prairie
+752,2023-04-01,Non-edible Grocery,370,rolling_prairie
+753,2023-04-01,Health And Beauty Care,90,rolling_prairie
+754,2023-04-01,General Merchandise,201,rolling_prairie
+755,2023-04-01,Publications,89,rolling_prairie
+756,2023-04-01,Automotive Products,201,rolling_prairie
+757,2023-04-01,Store Services Fee Income,288,rolling_prairie
+758,2023-04-01,Store Services Fee Inc Tax,462,rolling_prairie
+759,2023-04-01,Ice Bags,334,rolling_prairie
+760,2023-04-01,Hot Dispensed Beverages,387,rolling_prairie
+761,2023-04-01,Cold Dispensed Beverages,86,rolling_prairie
+762,2023-04-01,Frozen Dispensed Beverages,330,rolling_prairie
+763,2023-04-01,Car Wash Sls,279,rolling_prairie
+764,2023-04-01,Car Wash Vending Sales,260,rolling_prairie
+765,2023-04-01,Chilled Bev Fee,155,rolling_prairie
+766,2023-04-01,Coupons,484,rolling_prairie
+767,2023-04-01,Cravins To Order,131,rolling_prairie
+768,2023-04-01,CTO Ing Shelf Stable,76,rolling_prairie
+769,2023-04-01,Fe Gift Cards Radiant,287,rolling_prairie
+770,2023-04-01,Floral,119,rolling_prairie
+771,2023-04-01,Fresh Bakery,385,rolling_prairie
+772,2023-04-01,Gen Merch Scan Data Sales,74,rolling_prairie
+773,2023-04-01,JW European Cafe,105,rolling_prairie
+774,2023-04-01,Lottery Instant Tickets,93,rolling_prairie
+775,2023-04-01,Lottery ITVM Instant Tickets,143,rolling_prairie
+776,2023-04-01,Lottery Online Sales,261,rolling_prairie
+777,2023-04-01,Manual Fuel Radiant,168,rolling_prairie
+778,2023-04-01,Money Orders Radiant,497,rolling_prairie
+779,2023-04-01,Money Transfers,399,rolling_prairie
+780,2023-04-01,No Scan Merch Radiant,242,rolling_prairie
+781,2023-04-01,Novelty,383,rolling_prairie
+782,2023-04-01,Phone Card Fee,433,rolling_prairie
+783,2023-04-01,Supplies-retail,397,rolling_prairie
+784,2023-05-01,Cigarettes,435,rolling_prairie
+785,2023-05-01,Other Tobacco,431,rolling_prairie
+786,2023-05-01,Beer,418,rolling_prairie
+787,2023-05-01,Wine,368,rolling_prairie
+788,2023-05-01,Packaged Beverages-nonalcoh,199,rolling_prairie
+789,2023-05-01,Candy,378,rolling_prairie
+790,2023-05-01,Fluid Milk Products,51,rolling_prairie
+791,2023-05-01,Other Dairy Deli,160,rolling_prairie
+792,2023-05-01,Pkg Sand Other Products,385,rolling_prairie
+793,2023-05-01,Packaged Ice Cream Novelty,106,rolling_prairie
+794,2023-05-01,Frozen Foods,99,rolling_prairie
+795,2023-05-01,Packaged Bread Comm Bakery,381,rolling_prairie
+796,2023-05-01,Salty Snacks,58,rolling_prairie
+797,2023-05-01,Packaged Sweet Snacks,326,rolling_prairie
+798,2023-05-01,Alternative Snacks,461,rolling_prairie
+799,2023-05-01,Fresh Foods - Perish Groc,94,rolling_prairie
+800,2023-05-01,Edible Grocery,94,rolling_prairie
+801,2023-05-01,Non-edible Grocery,207,rolling_prairie
+802,2023-05-01,Health And Beauty Care,447,rolling_prairie
+803,2023-05-01,General Merchandise,183,rolling_prairie
+804,2023-05-01,Publications,377,rolling_prairie
+805,2023-05-01,Automotive Products,60,rolling_prairie
+806,2023-05-01,Store Services Fee Income,484,rolling_prairie
+807,2023-05-01,Store Services Fee Inc Tax,410,rolling_prairie
+808,2023-05-01,Ice Bags,269,rolling_prairie
+809,2023-05-01,Hot Dispensed Beverages,324,rolling_prairie
+810,2023-05-01,Cold Dispensed Beverages,406,rolling_prairie
+811,2023-05-01,Frozen Dispensed Beverages,284,rolling_prairie
+812,2023-05-01,Car Wash Sls,322,rolling_prairie
+813,2023-05-01,Car Wash Vending Sales,82,rolling_prairie
+814,2023-05-01,Chilled Bev Fee,280,rolling_prairie
+815,2023-05-01,Coupons,147,rolling_prairie
+816,2023-05-01,Cravins To Order,474,rolling_prairie
+817,2023-05-01,CTO Ing Shelf Stable,194,rolling_prairie
+818,2023-05-01,Fe Gift Cards Radiant,320,rolling_prairie
+819,2023-05-01,Floral,431,rolling_prairie
+820,2023-05-01,Fresh Bakery,337,rolling_prairie
+821,2023-05-01,Gen Merch Scan Data Sales,280,rolling_prairie
+822,2023-05-01,JW European Cafe,404,rolling_prairie
+823,2023-05-01,Lottery Instant Tickets,141,rolling_prairie
+824,2023-05-01,Lottery ITVM Instant Tickets,122,rolling_prairie
+825,2023-05-01,Lottery Online Sales,304,rolling_prairie
+826,2023-05-01,Manual Fuel Radiant,80,rolling_prairie
+827,2023-05-01,Money Orders Radiant,471,rolling_prairie
+828,2023-05-01,Money Transfers,387,rolling_prairie
+829,2023-05-01,No Scan Merch Radiant,117,rolling_prairie
+830,2023-05-01,Novelty,215,rolling_prairie
+831,2023-05-01,Phone Card Fee,489,rolling_prairie
+832,2023-05-01,Supplies-retail,328,rolling_prairie
+833,2023-06-01,Cigarettes,274,rolling_prairie
+834,2023-06-01,Other Tobacco,330,rolling_prairie
+835,2023-06-01,Beer,120,rolling_prairie
+836,2023-06-01,Wine,403,rolling_prairie
+837,2023-06-01,Packaged Beverages-nonalcoh,325,rolling_prairie
+838,2023-06-01,Candy,76,rolling_prairie
+839,2023-06-01,Fluid Milk Products,305,rolling_prairie
+840,2023-06-01,Other Dairy Deli,248,rolling_prairie
+841,2023-06-01,Pkg Sand Other Products,446,rolling_prairie
+842,2023-06-01,Packaged Ice Cream Novelty,274,rolling_prairie
+843,2023-06-01,Frozen Foods,401,rolling_prairie
+844,2023-06-01,Packaged Bread Comm Bakery,200,rolling_prairie
+845,2023-06-01,Salty Snacks,158,rolling_prairie
+846,2023-06-01,Packaged Sweet Snacks,321,rolling_prairie
+847,2023-06-01,Alternative Snacks,395,rolling_prairie
+848,2023-06-01,Fresh Foods - Perish Groc,100,rolling_prairie
+849,2023-06-01,Edible Grocery,242,rolling_prairie
+850,2023-06-01,Non-edible Grocery,195,rolling_prairie
+851,2023-06-01,Health And Beauty Care,186,rolling_prairie
+852,2023-06-01,General Merchandise,433,rolling_prairie
+853,2023-06-01,Publications,226,rolling_prairie
+854,2023-06-01,Automotive Products,473,rolling_prairie
+855,2023-06-01,Store Services Fee Income,332,rolling_prairie
+856,2023-06-01,Store Services Fee Inc Tax,401,rolling_prairie
+857,2023-06-01,Ice Bags,278,rolling_prairie
+858,2023-06-01,Hot Dispensed Beverages,288,rolling_prairie
+859,2023-06-01,Cold Dispensed Beverages,239,rolling_prairie
+860,2023-06-01,Frozen Dispensed Beverages,149,rolling_prairie
+861,2023-06-01,Car Wash Sls,336,rolling_prairie
+862,2023-06-01,Car Wash Vending Sales,123,rolling_prairie
+863,2023-06-01,Chilled Bev Fee,378,rolling_prairie
+864,2023-06-01,Coupons,398,rolling_prairie
+865,2023-06-01,Cravins To Order,341,rolling_prairie
+866,2023-06-01,CTO Ing Shelf Stable,113,rolling_prairie
+867,2023-06-01,Fe Gift Cards Radiant,55,rolling_prairie
+868,2023-06-01,Floral,385,rolling_prairie
+869,2023-06-01,Fresh Bakery,290,rolling_prairie
+870,2023-06-01,Gen Merch Scan Data Sales,147,rolling_prairie
+871,2023-06-01,JW European Cafe,319,rolling_prairie
+872,2023-06-01,Lottery Instant Tickets,101,rolling_prairie
+873,2023-06-01,Lottery ITVM Instant Tickets,341,rolling_prairie
+874,2023-06-01,Lottery Online Sales,210,rolling_prairie
+875,2023-06-01,Manual Fuel Radiant,342,rolling_prairie
+876,2023-06-01,Money Orders Radiant,351,rolling_prairie
+877,2023-06-01,Money Transfers,443,rolling_prairie
+878,2023-06-01,No Scan Merch Radiant,227,rolling_prairie
+879,2023-06-01,Novelty,473,rolling_prairie
+880,2023-06-01,Phone Card Fee,196,rolling_prairie
+881,2023-06-01,Supplies-retail,309,rolling_prairie
+882,2023-07-01,Cigarettes,59,rolling_prairie
+883,2023-07-01,Other Tobacco,300,rolling_prairie
+884,2023-07-01,Beer,211,rolling_prairie
+885,2023-07-01,Wine,63,rolling_prairie
+886,2023-07-01,Packaged Beverages-nonalcoh,161,rolling_prairie
+887,2023-07-01,Candy,234,rolling_prairie
+888,2023-07-01,Fluid Milk Products,326,rolling_prairie
+889,2023-07-01,Other Dairy Deli,180,rolling_prairie
+890,2023-07-01,Pkg Sand Other Products,285,rolling_prairie
+891,2023-07-01,Packaged Ice Cream Novelty,446,rolling_prairie
+892,2023-07-01,Frozen Foods,388,rolling_prairie
+893,2023-07-01,Packaged Bread Comm Bakery,77,rolling_prairie
+894,2023-07-01,Salty Snacks,92,rolling_prairie
+895,2023-07-01,Packaged Sweet Snacks,126,rolling_prairie
+896,2023-07-01,Alternative Snacks,411,rolling_prairie
+897,2023-07-01,Fresh Foods - Perish Groc,379,rolling_prairie
+898,2023-07-01,Edible Grocery,406,rolling_prairie
+899,2023-07-01,Non-edible Grocery,168,rolling_prairie
+900,2023-07-01,Health And Beauty Care,468,rolling_prairie
+901,2023-07-01,General Merchandise,259,rolling_prairie
+902,2023-07-01,Publications,315,rolling_prairie
+903,2023-07-01,Automotive Products,182,rolling_prairie
+904,2023-07-01,Store Services Fee Income,468,rolling_prairie
+905,2023-07-01,Store Services Fee Inc Tax,285,rolling_prairie
+906,2023-07-01,Ice Bags,251,rolling_prairie
+907,2023-07-01,Hot Dispensed Beverages,194,rolling_prairie
+908,2023-07-01,Cold Dispensed Beverages,492,rolling_prairie
+909,2023-07-01,Frozen Dispensed Beverages,473,rolling_prairie
+910,2023-07-01,Car Wash Sls,384,rolling_prairie
+911,2023-07-01,Car Wash Vending Sales,75,rolling_prairie
+912,2023-07-01,Chilled Bev Fee,140,rolling_prairie
+913,2023-07-01,Coupons,103,rolling_prairie
+914,2023-07-01,Cravins To Order,244,rolling_prairie
+915,2023-07-01,CTO Ing Shelf Stable,154,rolling_prairie
+916,2023-07-01,Fe Gift Cards Radiant,459,rolling_prairie
+917,2023-07-01,Floral,414,rolling_prairie
+918,2023-07-01,Fresh Bakery,389,rolling_prairie
+919,2023-07-01,Gen Merch Scan Data Sales,152,rolling_prairie
+920,2023-07-01,JW European Cafe,234,rolling_prairie
+921,2023-07-01,Lottery Instant Tickets,254,rolling_prairie
+922,2023-07-01,Lottery ITVM Instant Tickets,489,rolling_prairie
+923,2023-07-01,Lottery Online Sales,360,rolling_prairie
+924,2023-07-01,Manual Fuel Radiant,399,rolling_prairie
+925,2023-07-01,Money Orders Radiant,146,rolling_prairie
+926,2023-07-01,Money Transfers,401,rolling_prairie
+927,2023-07-01,No Scan Merch Radiant,139,rolling_prairie
+928,2023-07-01,Novelty,480,rolling_prairie
+929,2023-07-01,Phone Card Fee,265,rolling_prairie
+930,2023-07-01,Supplies-retail,309,rolling_prairie
+931,2023-08-01,Cigarettes,176,rolling_prairie
+932,2023-08-01,Other Tobacco,242,rolling_prairie
+933,2023-08-01,Beer,62,rolling_prairie
+934,2023-08-01,Wine,124,rolling_prairie
+935,2023-08-01,Packaged Beverages-nonalcoh,437,rolling_prairie
+936,2023-08-01,Candy,189,rolling_prairie
+937,2023-08-01,Fluid Milk Products,70,rolling_prairie
+938,2023-08-01,Other Dairy Deli,167,rolling_prairie
+939,2023-08-01,Pkg Sand Other Products,445,rolling_prairie
+940,2023-08-01,Packaged Ice Cream Novelty,96,rolling_prairie
+941,2023-08-01,Frozen Foods,493,rolling_prairie
+942,2023-08-01,Packaged Bread Comm Bakery,408,rolling_prairie
+943,2023-08-01,Salty Snacks,187,rolling_prairie
+944,2023-08-01,Packaged Sweet Snacks,432,rolling_prairie
+945,2023-08-01,Alternative Snacks,173,rolling_prairie
+946,2023-08-01,Fresh Foods - Perish Groc,157,rolling_prairie
+947,2023-08-01,Edible Grocery,201,rolling_prairie
+948,2023-08-01,Non-edible Grocery,355,rolling_prairie
+949,2023-08-01,Health And Beauty Care,82,rolling_prairie
+950,2023-08-01,General Merchandise,375,rolling_prairie
+951,2023-08-01,Publications,395,rolling_prairie
+952,2023-08-01,Automotive Products,252,rolling_prairie
+953,2023-08-01,Store Services Fee Income,384,rolling_prairie
+954,2023-08-01,Store Services Fee Inc Tax,62,rolling_prairie
+955,2023-08-01,Ice Bags,159,rolling_prairie
+956,2023-08-01,Hot Dispensed Beverages,333,rolling_prairie
+957,2023-08-01,Cold Dispensed Beverages,220,rolling_prairie
+958,2023-08-01,Frozen Dispensed Beverages,460,rolling_prairie
+959,2023-08-01,Car Wash Sls,110,rolling_prairie
+960,2023-08-01,Car Wash Vending Sales,185,rolling_prairie
+961,2023-08-01,Chilled Bev Fee,263,rolling_prairie
+962,2023-08-01,Coupons,263,rolling_prairie
+963,2023-08-01,Cravins To Order,210,rolling_prairie
+964,2023-08-01,CTO Ing Shelf Stable,354,rolling_prairie
+965,2023-08-01,Fe Gift Cards Radiant,213,rolling_prairie
+966,2023-08-01,Floral,245,rolling_prairie
+967,2023-08-01,Fresh Bakery,411,rolling_prairie
+968,2023-08-01,Gen Merch Scan Data Sales,491,rolling_prairie
+969,2023-08-01,JW European Cafe,121,rolling_prairie
+970,2023-08-01,Lottery Instant Tickets,152,rolling_prairie
+971,2023-08-01,Lottery ITVM Instant Tickets,107,rolling_prairie
+972,2023-08-01,Lottery Online Sales,275,rolling_prairie
+973,2023-08-01,Manual Fuel Radiant,163,rolling_prairie
+974,2023-08-01,Money Orders Radiant,389,rolling_prairie
+975,2023-08-01,Money Transfers,70,rolling_prairie
+976,2023-08-01,No Scan Merch Radiant,434,rolling_prairie
+977,2023-08-01,Novelty,283,rolling_prairie
+978,2023-08-01,Phone Card Fee,157,rolling_prairie
+979,2023-08-01,Supplies-retail,195,rolling_prairie
+980,2023-09-01,Cigarettes,209,rolling_prairie
+981,2023-09-01,Other Tobacco,263,rolling_prairie
+982,2023-09-01,Beer,196,rolling_prairie
+983,2023-09-01,Wine,81,rolling_prairie
+984,2023-09-01,Packaged Beverages-nonalcoh,431,rolling_prairie
+985,2023-09-01,Candy,477,rolling_prairie
+986,2023-09-01,Fluid Milk Products,270,rolling_prairie
+987,2023-09-01,Other Dairy Deli,229,rolling_prairie
+988,2023-09-01,Pkg Sand Other Products,250,rolling_prairie
+989,2023-09-01,Packaged Ice Cream Novelty,397,rolling_prairie
+990,2023-09-01,Frozen Foods,77,rolling_prairie
+991,2023-09-01,Packaged Bread Comm Bakery,62,rolling_prairie
+992,2023-09-01,Salty Snacks,364,rolling_prairie
+993,2023-09-01,Packaged Sweet Snacks,451,rolling_prairie
+994,2023-09-01,Alternative Snacks,362,rolling_prairie
+995,2023-09-01,Fresh Foods - Perish Groc,265,rolling_prairie
+996,2023-09-01,Edible Grocery,277,rolling_prairie
+997,2023-09-01,Non-edible Grocery,235,rolling_prairie
+998,2023-09-01,Health And Beauty Care,324,rolling_prairie
+999,2023-09-01,General Merchandise,289,rolling_prairie
+1000,2023-09-01,Publications,89,rolling_prairie
+1001,2023-09-01,Automotive Products,395,rolling_prairie
+1002,2023-09-01,Store Services Fee Income,257,rolling_prairie
+1003,2023-09-01,Store Services Fee Inc Tax,388,rolling_prairie
+1004,2023-09-01,Ice Bags,60,rolling_prairie
+1005,2023-09-01,Hot Dispensed Beverages,101,rolling_prairie
+1006,2023-09-01,Cold Dispensed Beverages,298,rolling_prairie
+1007,2023-09-01,Frozen Dispensed Beverages,138,rolling_prairie
+1008,2023-09-01,Car Wash Sls,460,rolling_prairie
+1009,2023-09-01,Car Wash Vending Sales,129,rolling_prairie
+1010,2023-09-01,Chilled Bev Fee,137,rolling_prairie
+1011,2023-09-01,Coupons,231,rolling_prairie
+1012,2023-09-01,Cravins To Order,200,rolling_prairie
+1013,2023-09-01,CTO Ing Shelf Stable,334,rolling_prairie
+1014,2023-09-01,Fe Gift Cards Radiant,432,rolling_prairie
+1015,2023-09-01,Floral,70,rolling_prairie
+1016,2023-09-01,Fresh Bakery,443,rolling_prairie
+1017,2023-09-01,Gen Merch Scan Data Sales,63,rolling_prairie
+1018,2023-09-01,JW European Cafe,250,rolling_prairie
+1019,2023-09-01,Lottery Instant Tickets,293,rolling_prairie
+1020,2023-09-01,Lottery ITVM Instant Tickets,71,rolling_prairie
+1021,2023-09-01,Lottery Online Sales,439,rolling_prairie
+1022,2023-09-01,Manual Fuel Radiant,226,rolling_prairie
+1023,2023-09-01,Money Orders Radiant,421,rolling_prairie
+1024,2023-09-01,Money Transfers,369,rolling_prairie
+1025,2023-09-01,No Scan Merch Radiant,65,rolling_prairie
+1026,2023-09-01,Novelty,113,rolling_prairie
+1027,2023-09-01,Phone Card Fee,397,rolling_prairie
+1028,2023-09-01,Supplies-retail,99,rolling_prairie
+1029,2023-10-01,Cigarettes,281,rolling_prairie
+1030,2023-10-01,Other Tobacco,485,rolling_prairie
+1031,2023-10-01,Beer,114,rolling_prairie
+1032,2023-10-01,Wine,133,rolling_prairie
+1033,2023-10-01,Packaged Beverages-nonalcoh,74,rolling_prairie
+1034,2023-10-01,Candy,188,rolling_prairie
+1035,2023-10-01,Fluid Milk Products,307,rolling_prairie
+1036,2023-10-01,Other Dairy Deli,421,rolling_prairie
+1037,2023-10-01,Pkg Sand Other Products,252,rolling_prairie
+1038,2023-10-01,Packaged Ice Cream Novelty,458,rolling_prairie
+1039,2023-10-01,Frozen Foods,87,rolling_prairie
+1040,2023-10-01,Packaged Bread Comm Bakery,307,rolling_prairie
+1041,2023-10-01,Salty Snacks,338,rolling_prairie
+1042,2023-10-01,Packaged Sweet Snacks,436,rolling_prairie
+1043,2023-10-01,Alternative Snacks,54,rolling_prairie
+1044,2023-10-01,Fresh Foods - Perish Groc,425,rolling_prairie
+1045,2023-10-01,Edible Grocery,177,rolling_prairie
+1046,2023-10-01,Non-edible Grocery,82,rolling_prairie
+1047,2023-10-01,Health And Beauty Care,401,rolling_prairie
+1048,2023-10-01,General Merchandise,328,rolling_prairie
+1049,2023-10-01,Publications,205,rolling_prairie
+1050,2023-10-01,Automotive Products,216,rolling_prairie
+1051,2023-10-01,Store Services Fee Income,171,rolling_prairie
+1052,2023-10-01,Store Services Fee Inc Tax,135,rolling_prairie
+1053,2023-10-01,Ice Bags,124,rolling_prairie
+1054,2023-10-01,Hot Dispensed Beverages,355,rolling_prairie
+1055,2023-10-01,Cold Dispensed Beverages,117,rolling_prairie
+1056,2023-10-01,Frozen Dispensed Beverages,426,rolling_prairie
+1057,2023-10-01,Car Wash Sls,86,rolling_prairie
+1058,2023-10-01,Car Wash Vending Sales,79,rolling_prairie
+1059,2023-10-01,Chilled Bev Fee,250,rolling_prairie
+1060,2023-10-01,Coupons,249,rolling_prairie
+1061,2023-10-01,Cravins To Order,378,rolling_prairie
+1062,2023-10-01,CTO Ing Shelf Stable,74,rolling_prairie
+1063,2023-10-01,Fe Gift Cards Radiant,122,rolling_prairie
+1064,2023-10-01,Floral,197,rolling_prairie
+1065,2023-10-01,Fresh Bakery,327,rolling_prairie
+1066,2023-10-01,Gen Merch Scan Data Sales,357,rolling_prairie
+1067,2023-10-01,JW European Cafe,460,rolling_prairie
+1068,2023-10-01,Lottery Instant Tickets,234,rolling_prairie
+1069,2023-10-01,Lottery ITVM Instant Tickets,384,rolling_prairie
+1070,2023-10-01,Lottery Online Sales,142,rolling_prairie
+1071,2023-10-01,Manual Fuel Radiant,426,rolling_prairie
+1072,2023-10-01,Money Orders Radiant,360,rolling_prairie
+1073,2023-10-01,Money Transfers,483,rolling_prairie
+1074,2023-10-01,No Scan Merch Radiant,315,rolling_prairie
+1075,2023-10-01,Novelty,242,rolling_prairie
+1076,2023-10-01,Phone Card Fee,153,rolling_prairie
+1077,2023-10-01,Supplies-retail,152,rolling_prairie
+1078,2023-11-01,Cigarettes,143,rolling_prairie
+1079,2023-11-01,Other Tobacco,217,rolling_prairie
+1080,2023-11-01,Beer,497,rolling_prairie
+1081,2023-11-01,Wine,447,rolling_prairie
+1082,2023-11-01,Packaged Beverages-nonalcoh,324,rolling_prairie
+1083,2023-11-01,Candy,137,rolling_prairie
+1084,2023-11-01,Fluid Milk Products,433,rolling_prairie
+1085,2023-11-01,Other Dairy Deli,471,rolling_prairie
+1086,2023-11-01,Pkg Sand Other Products,315,rolling_prairie
+1087,2023-11-01,Packaged Ice Cream Novelty,99,rolling_prairie
+1088,2023-11-01,Frozen Foods,208,rolling_prairie
+1089,2023-11-01,Packaged Bread Comm Bakery,452,rolling_prairie
+1090,2023-11-01,Salty Snacks,269,rolling_prairie
+1091,2023-11-01,Packaged Sweet Snacks,241,rolling_prairie
+1092,2023-11-01,Alternative Snacks,238,rolling_prairie
+1093,2023-11-01,Fresh Foods - Perish Groc,108,rolling_prairie
+1094,2023-11-01,Edible Grocery,149,rolling_prairie
+1095,2023-11-01,Non-edible Grocery,489,rolling_prairie
+1096,2023-11-01,Health And Beauty Care,222,rolling_prairie
+1097,2023-11-01,General Merchandise,177,rolling_prairie
+1098,2023-11-01,Publications,318,rolling_prairie
+1099,2023-11-01,Automotive Products,261,rolling_prairie
+1100,2023-11-01,Store Services Fee Income,52,rolling_prairie
+1101,2023-11-01,Store Services Fee Inc Tax,236,rolling_prairie
+1102,2023-11-01,Ice Bags,99,rolling_prairie
+1103,2023-11-01,Hot Dispensed Beverages,212,rolling_prairie
+1104,2023-11-01,Cold Dispensed Beverages,399,rolling_prairie
+1105,2023-11-01,Frozen Dispensed Beverages,485,rolling_prairie
+1106,2023-11-01,Car Wash Sls,276,rolling_prairie
+1107,2023-11-01,Car Wash Vending Sales,332,rolling_prairie
+1108,2023-11-01,Chilled Bev Fee,293,rolling_prairie
+1109,2023-11-01,Coupons,409,rolling_prairie
+1110,2023-11-01,Cravins To Order,136,rolling_prairie
+1111,2023-11-01,CTO Ing Shelf Stable,120,rolling_prairie
+1112,2023-11-01,Fe Gift Cards Radiant,491,rolling_prairie
+1113,2023-11-01,Floral,105,rolling_prairie
+1114,2023-11-01,Fresh Bakery,85,rolling_prairie
+1115,2023-11-01,Gen Merch Scan Data Sales,215,rolling_prairie
+1116,2023-11-01,JW European Cafe,316,rolling_prairie
+1117,2023-11-01,Lottery Instant Tickets,431,rolling_prairie
+1118,2023-11-01,Lottery ITVM Instant Tickets,74,rolling_prairie
+1119,2023-11-01,Lottery Online Sales,344,rolling_prairie
+1120,2023-11-01,Manual Fuel Radiant,51,rolling_prairie
+1121,2023-11-01,Money Orders Radiant,241,rolling_prairie
+1122,2023-11-01,Money Transfers,274,rolling_prairie
+1123,2023-11-01,No Scan Merch Radiant,234,rolling_prairie
+1124,2023-11-01,Novelty,418,rolling_prairie
+1125,2023-11-01,Phone Card Fee,367,rolling_prairie
+1126,2023-11-01,Supplies-retail,372,rolling_prairie
+1127,2023-12-01,Cigarettes,456,rolling_prairie
+1128,2023-12-01,Other Tobacco,146,rolling_prairie
+1129,2023-12-01,Beer,420,rolling_prairie
+1130,2023-12-01,Wine,188,rolling_prairie
+1131,2023-12-01,Packaged Beverages-nonalcoh,192,rolling_prairie
+1132,2023-12-01,Candy,161,rolling_prairie
+1133,2023-12-01,Fluid Milk Products,77,rolling_prairie
+1134,2023-12-01,Other Dairy Deli,103,rolling_prairie
+1135,2023-12-01,Pkg Sand Other Products,145,rolling_prairie
+1136,2023-12-01,Packaged Ice Cream Novelty,119,rolling_prairie
+1137,2023-12-01,Frozen Foods,470,rolling_prairie
+1138,2023-12-01,Packaged Bread Comm Bakery,137,rolling_prairie
+1139,2023-12-01,Salty Snacks,216,rolling_prairie
+1140,2023-12-01,Packaged Sweet Snacks,345,rolling_prairie
+1141,2023-12-01,Alternative Snacks,367,rolling_prairie
+1142,2023-12-01,Fresh Foods - Perish Groc,334,rolling_prairie
+1143,2023-12-01,Edible Grocery,59,rolling_prairie
+1144,2023-12-01,Non-edible Grocery,310,rolling_prairie
+1145,2023-12-01,Health And Beauty Care,312,rolling_prairie
+1146,2023-12-01,General Merchandise,494,rolling_prairie
+1147,2023-12-01,Publications,136,rolling_prairie
+1148,2023-12-01,Automotive Products,288,rolling_prairie
+1149,2023-12-01,Store Services Fee Income,116,rolling_prairie
+1150,2023-12-01,Store Services Fee Inc Tax,122,rolling_prairie
+1151,2023-12-01,Ice Bags,211,rolling_prairie
+1152,2023-12-01,Hot Dispensed Beverages,174,rolling_prairie
+1153,2023-12-01,Cold Dispensed Beverages,67,rolling_prairie
+1154,2023-12-01,Frozen Dispensed Beverages,313,rolling_prairie
+1155,2023-12-01,Car Wash Sls,440,rolling_prairie
+1156,2023-12-01,Car Wash Vending Sales,306,rolling_prairie
+1157,2023-12-01,Chilled Bev Fee,488,rolling_prairie
+1158,2023-12-01,Coupons,67,rolling_prairie
+1159,2023-12-01,Cravins To Order,151,rolling_prairie
+1160,2023-12-01,CTO Ing Shelf Stable,223,rolling_prairie
+1161,2023-12-01,Fe Gift Cards Radiant,204,rolling_prairie
+1162,2023-12-01,Floral,183,rolling_prairie
+1163,2023-12-01,Fresh Bakery,362,rolling_prairie
+1164,2023-12-01,Gen Merch Scan Data Sales,128,rolling_prairie
+1165,2023-12-01,JW European Cafe,342,rolling_prairie
+1166,2023-12-01,Lottery Instant Tickets,267,rolling_prairie
+1167,2023-12-01,Lottery ITVM Instant Tickets,442,rolling_prairie
+1168,2023-12-01,Lottery Online Sales,347,rolling_prairie
+1169,2023-12-01,Manual Fuel Radiant,469,rolling_prairie
+1170,2023-12-01,Money Orders Radiant,242,rolling_prairie
+1171,2023-12-01,Money Transfers,245,rolling_prairie
+1172,2023-12-01,No Scan Merch Radiant,235,rolling_prairie
+1173,2023-12-01,Novelty,263,rolling_prairie
+1174,2023-12-01,Phone Card Fee,251,rolling_prairie
+1175,2023-12-01,Supplies-retail,118,rolling_prairie
