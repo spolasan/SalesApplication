@@ -1,4 +1,4 @@
-,Month,Product Category,Sales,Location
+dd,Month,Product Category,Sales,Location
 0,2022-01-01,Cigarettes,269,fail_road
 1,2022-01-01,Other Tobacco,129,fail_road
 2,2022-01-01,Beer,209,fail_road
