@@ -33,7 +33,7 @@ SalesDataAnalysis/ <br>
 ## Project Architecture Flow
 
 👤 User → 🖥️ Frontend (React + D3.js) ↔ ⚙️ Backend (FastAPI) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 🔑 Login & Authentication   | <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 🤖 ML Predictions           | <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 📊 Data Analysis & Insights | <br>
