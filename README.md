@@ -32,12 +32,8 @@ SalesDataAnalysis/ <br>
 
 ## Project Architecture Flow
 
-👤 User → 🖥️ Frontend (React + D3.js) ↔ ⚙️ Backend (FastAPI) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 🔑 Login & Authentication   | <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 🤖 ML Predictions           | <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               |-- 📊 Data Analysis & Insights | <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                --------------------------------
+![image](https://github.com/user-attachments/assets/0d0e994e-bf54-4f4e-8933-64942943de86)
+
 
 
 This architecture ensures modularity, scalability, and ease of maintenance.
