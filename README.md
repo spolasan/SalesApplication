@@ -29,3 +29,14 @@ SalesDataAnalysis/
 ├── DataScience/    # Data preprocessing, Machine Learning
 ├── Testing/        # Automated test scripts
 └── README.md       # Project documentation
+
+## Project Architecture Flow
+
+User -> Frontend (React with D3.js) <-> Backend (FastAPI)
+        |                              |
+        |---> Login & Authentication   |
+        |---> ML Predictions           |
+        |---> Data Analysis & Insights |
+        --------------------------------
+
+This architecture ensures modularity, scalability, and ease of maintenance.
