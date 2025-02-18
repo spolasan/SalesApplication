@@ -1,0 +1,1177 @@
+Month,Product Category,Sales
+2022-01,Cigarettes,422
+2022-01,Other Tobacco,281
+2022-01,Beer,387
+2022-01,Wine,94
+2022-01,Packaged Beverages-nonalcoh,224
+2022-01,Candy,108
+2022-01,Fluid Milk Products,259
+2022-01,Other Dairy Deli,172
+2022-01,Pkg Sand Other Products,301
+2022-01,Packaged Ice Cream Novelty,213
+2022-01,Frozen Foods,458
+2022-01,Packaged Bread Comm Bakery,442
+2022-01,Salty Snacks,152
+2022-01,Packaged Sweet Snacks,229
+2022-01,Alternative Snacks,411
+2022-01,Fresh Foods - Perish Groc,459
+2022-01,Edible Grocery,285
+2022-01,Non-edible Grocery,263
+2022-01,Health And Beauty Care,228
+2022-01,General Merchandise,121
+2022-01,Publications,170
+2022-01,Automotive Products,204
+2022-01,Store Services Fee Income,414
+2022-01,Store Services Fee Inc Tax,423
+2022-01,Ice Bags,473
+2022-01,Hot Dispensed Beverages,68
+2022-01,Cold Dispensed Beverages,441
+2022-01,Frozen Dispensed Beverages,240
+2022-01,Car Wash Sls,155
+2022-01,Car Wash Vending Sales,54
+2022-01,Chilled Bev Fee,487
+2022-01,Coupons,218
+2022-01,Cravins To Order,477
+2022-01,CTO Ing Shelf Stable,339
+2022-01,Fe Gift Cards Radiant,298
+2022-01,Floral,382
+2022-01,Fresh Bakery,333
+2022-01,Gen Merch Scan Data Sales,212
+2022-01,JW European Cafe,492
+2022-01,Lottery Instant Tickets,174
+2022-01,Lottery ITVM Instant Tickets,50
+2022-01,Lottery Online Sales,322
+2022-01,Manual Fuel Radiant,457
+2022-01,Money Orders Radiant,53
+2022-01,Money Transfers,236
+2022-01,No Scan Merch Radiant,435
+2022-01,Novelty,437
+2022-01,Phone Card Fee,457
+2022-01,Supplies-retail,391
+2022-02,Cigarettes,368
+2022-02,Other Tobacco,245
+2022-02,Beer,144
+2022-02,Wine,334
+2022-02,Packaged Beverages-nonalcoh,330
+2022-02,Candy,67
+2022-02,Fluid Milk Products,367
+2022-02,Other Dairy Deli,126
+2022-02,Pkg Sand Other Products,477
+2022-02,Packaged Ice Cream Novelty,307
+2022-02,Frozen Foods,266
+2022-02,Packaged Bread Comm Bakery,461
+2022-02,Salty Snacks,433
+2022-02,Packaged Sweet Snacks,305
+2022-02,Alternative Snacks,240
+2022-02,Fresh Foods - Perish Groc,437
+2022-02,Edible Grocery,159
+2022-02,Non-edible Grocery,287
+2022-02,Health And Beauty Care,58
+2022-02,General Merchandise,62
+2022-02,Publications,366
+2022-02,Automotive Products,167
+2022-02,Store Services Fee Income,464
+2022-02,Store Services Fee Inc Tax,304
+2022-02,Ice Bags,475
+2022-02,Hot Dispensed Beverages,241
+2022-02,Cold Dispensed Beverages,435
+2022-02,Frozen Dispensed Beverages,344
+2022-02,Car Wash Sls,313
+2022-02,Car Wash Vending Sales,160
+2022-02,Chilled Bev Fee,405
+2022-02,Coupons,145
+2022-02,Cravins To Order,219
+2022-02,CTO Ing Shelf Stable,271
+2022-02,Fe Gift Cards Radiant,416
+2022-02,Floral,151
+2022-02,Fresh Bakery,473
+2022-02,Gen Merch Scan Data Sales,444
+2022-02,JW European Cafe,217
+2022-02,Lottery Instant Tickets,498
+2022-02,Lottery ITVM Instant Tickets,472
+2022-02,Lottery Online Sales,129
+2022-02,Manual Fuel Radiant,52
+2022-02,Money Orders Radiant,65
+2022-02,Money Transfers,268
+2022-02,No Scan Merch Radiant,252
+2022-02,Novelty,425
+2022-02,Phone Card Fee,147
+2022-02,Supplies-retail,308
+2022-03,Cigarettes,198
+2022-03,Other Tobacco,277
+2022-03,Beer,304
+2022-03,Wine,67
+2022-03,Packaged Beverages-nonalcoh,337
+2022-03,Candy,374
+2022-03,Fluid Milk Products,270
+2022-03,Other Dairy Deli,233
+2022-03,Pkg Sand Other Products,115
+2022-03,Packaged Ice Cream Novelty,353
+2022-03,Frozen Foods,220
+2022-03,Packaged Bread Comm Bakery,203
+2022-03,Salty Snacks,342
+2022-03,Packaged Sweet Snacks,115
+2022-03,Alternative Snacks,374
+2022-03,Fresh Foods - Perish Groc,441
+2022-03,Edible Grocery,192
+2022-03,Non-edible Grocery,368
+2022-03,Health And Beauty Care,456
+2022-03,General Merchandise,485
+2022-03,Publications,314
+2022-03,Automotive Products,62
+2022-03,Store Services Fee Income,387
+2022-03,Store Services Fee Inc Tax,140
+2022-03,Ice Bags,494
+2022-03,Hot Dispensed Beverages,98
+2022-03,Cold Dispensed Beverages,50
+2022-03,Frozen Dispensed Beverages,402
+2022-03,Car Wash Sls,402
+2022-03,Car Wash Vending Sales,147
+2022-03,Chilled Bev Fee,361
+2022-03,Coupons,149
+2022-03,Cravins To Order,213
+2022-03,CTO Ing Shelf Stable,61
+2022-03,Fe Gift Cards Radiant,62
+2022-03,Floral,449
+2022-03,Fresh Bakery,492
+2022-03,Gen Merch Scan Data Sales,378
+2022-03,JW European Cafe,141
+2022-03,Lottery Instant Tickets,406
+2022-03,Lottery ITVM Instant Tickets,297
+2022-03,Lottery Online Sales,99
+2022-03,Manual Fuel Radiant,123
+2022-03,Money Orders Radiant,202
+2022-03,Money Transfers,403
+2022-03,No Scan Merch Radiant,305
+2022-03,Novelty,187
+2022-03,Phone Card Fee,350
+2022-03,Supplies-retail,367
+2022-04,Cigarettes,407
+2022-04,Other Tobacco,53
+2022-04,Beer,106
+2022-04,Wine,278
+2022-04,Packaged Beverages-nonalcoh,92
+2022-04,Candy,210
+2022-04,Fluid Milk Products,193
+2022-04,Other Dairy Deli,77
+2022-04,Pkg Sand Other Products,322
+2022-04,Packaged Ice Cream Novelty,70
+2022-04,Frozen Foods,455
+2022-04,Packaged Bread Comm Bakery,337
+2022-04,Salty Snacks,420
+2022-04,Packaged Sweet Snacks,346
+2022-04,Alternative Snacks,462
+2022-04,Fresh Foods - Perish Groc,366
+2022-04,Edible Grocery,76
+2022-04,Non-edible Grocery,148
+2022-04,Health And Beauty Care,410
+2022-04,General Merchandise,458
+2022-04,Publications,479
+2022-04,Automotive Products,257
+2022-04,Store Services Fee Income,305
+2022-04,Store Services Fee Inc Tax,433
+2022-04,Ice Bags,444
+2022-04,Hot Dispensed Beverages,253
+2022-04,Cold Dispensed Beverages,76
+2022-04,Frozen Dispensed Beverages,128
+2022-04,Car Wash Sls,145
+2022-04,Car Wash Vending Sales,358
+2022-04,Chilled Bev Fee,100
+2022-04,Coupons,50
+2022-04,Cravins To Order,359
+2022-04,CTO Ing Shelf Stable,125
+2022-04,Fe Gift Cards Radiant,106
+2022-04,Floral,76
+2022-04,Fresh Bakery,362
+2022-04,Gen Merch Scan Data Sales,245
+2022-04,JW European Cafe,148
+2022-04,Lottery Instant Tickets,374
+2022-04,Lottery ITVM Instant Tickets,207
+2022-04,Lottery Online Sales,104
+2022-04,Manual Fuel Radiant,213
+2022-04,Money Orders Radiant,110
+2022-04,Money Transfers,429
+2022-04,No Scan Merch Radiant,285
+2022-04,Novelty,208
+2022-04,Phone Card Fee,92
+2022-04,Supplies-retail,113
+2022-05,Cigarettes,343
+2022-05,Other Tobacco,275
+2022-05,Beer,349
+2022-05,Wine,235
+2022-05,Packaged Beverages-nonalcoh,200
+2022-05,Candy,131
+2022-05,Fluid Milk Products,472
+2022-05,Other Dairy Deli,214
+2022-05,Pkg Sand Other Products,368
+2022-05,Packaged Ice Cream Novelty,254
+2022-05,Frozen Foods,204
+2022-05,Packaged Bread Comm Bakery,145
+2022-05,Salty Snacks,319
+2022-05,Packaged Sweet Snacks,340
+2022-05,Alternative Snacks,497
+2022-05,Fresh Foods - Perish Groc,346
+2022-05,Edible Grocery,250
+2022-05,Non-edible Grocery,156
+2022-05,Health And Beauty Care,471
+2022-05,General Merchandise,334
+2022-05,Publications,135
+2022-05,Automotive Products,230
+2022-05,Store Services Fee Income,435
+2022-05,Store Services Fee Inc Tax,453
+2022-05,Ice Bags,443
+2022-05,Hot Dispensed Beverages,270
+2022-05,Cold Dispensed Beverages,231
+2022-05,Frozen Dispensed Beverages,210
+2022-05,Car Wash Sls,487
+2022-05,Car Wash Vending Sales,65
+2022-05,Chilled Bev Fee,497
+2022-05,Coupons,405
+2022-05,Cravins To Order,346
+2022-05,CTO Ing Shelf Stable,348
+2022-05,Fe Gift Cards Radiant,179
+2022-05,Floral,292
+2022-05,Fresh Bakery,131
+2022-05,Gen Merch Scan Data Sales,394
+2022-05,JW European Cafe,110
+2022-05,Lottery Instant Tickets,55
+2022-05,Lottery ITVM Instant Tickets,50
+2022-05,Lottery Online Sales,167
+2022-05,Manual Fuel Radiant,338
+2022-05,Money Orders Radiant,319
+2022-05,Money Transfers,477
+2022-05,No Scan Merch Radiant,477
+2022-05,Novelty,483
+2022-05,Phone Card Fee,412
+2022-05,Supplies-retail,260
+2022-06,Cigarettes,155
+2022-06,Other Tobacco,361
+2022-06,Beer,131
+2022-06,Wine,330
+2022-06,Packaged Beverages-nonalcoh,345
+2022-06,Candy,416
+2022-06,Fluid Milk Products,432
+2022-06,Other Dairy Deli,368
+2022-06,Pkg Sand Other Products,50
+2022-06,Packaged Ice Cream Novelty,140
+2022-06,Frozen Foods,498
+2022-06,Packaged Bread Comm Bakery,150
+2022-06,Salty Snacks,182
+2022-06,Packaged Sweet Snacks,89
+2022-06,Alternative Snacks,399
+2022-06,Fresh Foods - Perish Groc,388
+2022-06,Edible Grocery,84
+2022-06,Non-edible Grocery,52
+2022-06,Health And Beauty Care,245
+2022-06,General Merchandise,328
+2022-06,Publications,138
+2022-06,Automotive Products,448
+2022-06,Store Services Fee Income,200
+2022-06,Store Services Fee Inc Tax,403
+2022-06,Ice Bags,97
+2022-06,Hot Dispensed Beverages,453
+2022-06,Cold Dispensed Beverages,464
+2022-06,Frozen Dispensed Beverages,175
+2022-06,Car Wash Sls,395
+2022-06,Car Wash Vending Sales,289
+2022-06,Chilled Bev Fee,144
+2022-06,Coupons,309
+2022-06,Cravins To Order,107
+2022-06,CTO Ing Shelf Stable,463
+2022-06,Fe Gift Cards Radiant,210
+2022-06,Floral,199
+2022-06,Fresh Bakery,198
+2022-06,Gen Merch Scan Data Sales,425
+2022-06,JW European Cafe,86
+2022-06,Lottery Instant Tickets,126
+2022-06,Lottery ITVM Instant Tickets,309
+2022-06,Lottery Online Sales,375
+2022-06,Manual Fuel Radiant,175
+2022-06,Money Orders Radiant,175
+2022-06,Money Transfers,173
+2022-06,No Scan Merch Radiant,390
+2022-06,Novelty,242
+2022-06,Phone Card Fee,100
+2022-06,Supplies-retail,181
+2022-07,Cigarettes,417
+2022-07,Other Tobacco,171
+2022-07,Beer,489
+2022-07,Wine,89
+2022-07,Packaged Beverages-nonalcoh,492
+2022-07,Candy,287
+2022-07,Fluid Milk Products,360
+2022-07,Other Dairy Deli,451
+2022-07,Pkg Sand Other Products,425
+2022-07,Packaged Ice Cream Novelty,146
+2022-07,Frozen Foods,198
+2022-07,Packaged Bread Comm Bakery,103
+2022-07,Salty Snacks,415
+2022-07,Packaged Sweet Snacks,68
+2022-07,Alternative Snacks,145
+2022-07,Fresh Foods - Perish Groc,267
+2022-07,Edible Grocery,423
+2022-07,Non-edible Grocery,238
+2022-07,Health And Beauty Care,246
+2022-07,General Merchandise,80
+2022-07,Publications,98
+2022-07,Automotive Products,490
+2022-07,Store Services Fee Income,438
+2022-07,Store Services Fee Inc Tax,139
+2022-07,Ice Bags,377
+2022-07,Hot Dispensed Beverages,121
+2022-07,Cold Dispensed Beverages,144
+2022-07,Frozen Dispensed Beverages,429
+2022-07,Car Wash Sls,322
+2022-07,Car Wash Vending Sales,458
+2022-07,Chilled Bev Fee,90
+2022-07,Coupons,57
+2022-07,Cravins To Order,251
+2022-07,CTO Ing Shelf Stable,225
+2022-07,Fe Gift Cards Radiant,81
+2022-07,Floral,286
+2022-07,Fresh Bakery,205
+2022-07,Gen Merch Scan Data Sales,304
+2022-07,JW European Cafe,268
+2022-07,Lottery Instant Tickets,238
+2022-07,Lottery ITVM Instant Tickets,469
+2022-07,Lottery Online Sales,472
+2022-07,Manual Fuel Radiant,295
+2022-07,Money Orders Radiant,300
+2022-07,Money Transfers,124
+2022-07,No Scan Merch Radiant,209
+2022-07,Novelty,146
+2022-07,Phone Card Fee,369
+2022-07,Supplies-retail,176
+2022-08,Cigarettes,325
+2022-08,Other Tobacco,198
+2022-08,Beer,338
+2022-08,Wine,90
+2022-08,Packaged Beverages-nonalcoh,495
+2022-08,Candy,206
+2022-08,Fluid Milk Products,402
+2022-08,Other Dairy Deli,424
+2022-08,Pkg Sand Other Products,400
+2022-08,Packaged Ice Cream Novelty,143
+2022-08,Frozen Foods,402
+2022-08,Packaged Bread Comm Bakery,396
+2022-08,Salty Snacks,298
+2022-08,Packaged Sweet Snacks,451
+2022-08,Alternative Snacks,469
+2022-08,Fresh Foods - Perish Groc,280
+2022-08,Edible Grocery,429
+2022-08,Non-edible Grocery,436
+2022-08,Health And Beauty Care,435
+2022-08,General Merchandise,214
+2022-08,Publications,317
+2022-08,Automotive Products,295
+2022-08,Store Services Fee Income,187
+2022-08,Store Services Fee Inc Tax,99
+2022-08,Ice Bags,413
+2022-08,Hot Dispensed Beverages,466
+2022-08,Cold Dispensed Beverages,111
+2022-08,Frozen Dispensed Beverages,154
+2022-08,Car Wash Sls,147
+2022-08,Car Wash Vending Sales,247
+2022-08,Chilled Bev Fee,139
+2022-08,Coupons,160
+2022-08,Cravins To Order,409
+2022-08,CTO Ing Shelf Stable,475
+2022-08,Fe Gift Cards Radiant,226
+2022-08,Floral,106
+2022-08,Fresh Bakery,176
+2022-08,Gen Merch Scan Data Sales,225
+2022-08,JW European Cafe,388
+2022-08,Lottery Instant Tickets,155
+2022-08,Lottery ITVM Instant Tickets,251
+2022-08,Lottery Online Sales,51
+2022-08,Manual Fuel Radiant,289
+2022-08,Money Orders Radiant,452
+2022-08,Money Transfers,471
+2022-08,No Scan Merch Radiant,199
+2022-08,Novelty,211
+2022-08,Phone Card Fee,391
+2022-08,Supplies-retail,85
+2022-09,Cigarettes,215
+2022-09,Other Tobacco,83
+2022-09,Beer,124
+2022-09,Wine,428
+2022-09,Packaged Beverages-nonalcoh,443
+2022-09,Candy,331
+2022-09,Fluid Milk Products,491
+2022-09,Other Dairy Deli,441
+2022-09,Pkg Sand Other Products,275
+2022-09,Packaged Ice Cream Novelty,93
+2022-09,Frozen Foods,411
+2022-09,Packaged Bread Comm Bakery,97
+2022-09,Salty Snacks,136
+2022-09,Packaged Sweet Snacks,322
+2022-09,Alternative Snacks,273
+2022-09,Fresh Foods - Perish Groc,50
+2022-09,Edible Grocery,165
+2022-09,Non-edible Grocery,290
+2022-09,Health And Beauty Care,312
+2022-09,General Merchandise,462
+2022-09,Publications,314
+2022-09,Automotive Products,310
+2022-09,Store Services Fee Income,334
+2022-09,Store Services Fee Inc Tax,282
+2022-09,Ice Bags,334
+2022-09,Hot Dispensed Beverages,416
+2022-09,Cold Dispensed Beverages,133
+2022-09,Frozen Dispensed Beverages,247
+2022-09,Car Wash Sls,124
+2022-09,Car Wash Vending Sales,314
+2022-09,Chilled Bev Fee,116
+2022-09,Coupons,66
+2022-09,Cravins To Order,133
+2022-09,CTO Ing Shelf Stable,379
+2022-09,Fe Gift Cards Radiant,268
+2022-09,Floral,111
+2022-09,Fresh Bakery,381
+2022-09,Gen Merch Scan Data Sales,158
+2022-09,JW European Cafe,345
+2022-09,Lottery Instant Tickets,176
+2022-09,Lottery ITVM Instant Tickets,167
+2022-09,Lottery Online Sales,362
+2022-09,Manual Fuel Radiant,447
+2022-09,Money Orders Radiant,358
+2022-09,Money Transfers,214
+2022-09,No Scan Merch Radiant,190
+2022-09,Novelty,327
+2022-09,Phone Card Fee,461
+2022-09,Supplies-retail,88
+2022-10,Cigarettes,167
+2022-10,Other Tobacco,391
+2022-10,Beer,117
+2022-10,Wine,72
+2022-10,Packaged Beverages-nonalcoh,257
+2022-10,Candy,307
+2022-10,Fluid Milk Products,214
+2022-10,Other Dairy Deli,399
+2022-10,Pkg Sand Other Products,492
+2022-10,Packaged Ice Cream Novelty,350
+2022-10,Frozen Foods,193
+2022-10,Packaged Bread Comm Bakery,176
+2022-10,Salty Snacks,370
+2022-10,Packaged Sweet Snacks,177
+2022-10,Alternative Snacks,469
+2022-10,Fresh Foods - Perish Groc,182
+2022-10,Edible Grocery,379
+2022-10,Non-edible Grocery,217
+2022-10,Health And Beauty Care,372
+2022-10,General Merchandise,383
+2022-10,Publications,122
+2022-10,Automotive Products,131
+2022-10,Store Services Fee Income,197
+2022-10,Store Services Fee Inc Tax,180
+2022-10,Ice Bags,436
+2022-10,Hot Dispensed Beverages,212
+2022-10,Cold Dispensed Beverages,346
+2022-10,Frozen Dispensed Beverages,113
+2022-10,Car Wash Sls,97
+2022-10,Car Wash Vending Sales,411
+2022-10,Chilled Bev Fee,316
+2022-10,Coupons,219
+2022-10,Cravins To Order,380
+2022-10,CTO Ing Shelf Stable,316
+2022-10,Fe Gift Cards Radiant,179
+2022-10,Floral,351
+2022-10,Fresh Bakery,60
+2022-10,Gen Merch Scan Data Sales,475
+2022-10,JW European Cafe,236
+2022-10,Lottery Instant Tickets,72
+2022-10,Lottery ITVM Instant Tickets,106
+2022-10,Lottery Online Sales,396
+2022-10,Manual Fuel Radiant,257
+2022-10,Money Orders Radiant,269
+2022-10,Money Transfers,334
+2022-10,No Scan Merch Radiant,399
+2022-10,Novelty,331
+2022-10,Phone Card Fee,104
+2022-10,Supplies-retail,296
+2022-11,Cigarettes,435
+2022-11,Other Tobacco,273
+2022-11,Beer,394
+2022-11,Wine,380
+2022-11,Packaged Beverages-nonalcoh,107
+2022-11,Candy,295
+2022-11,Fluid Milk Products,103
+2022-11,Other Dairy Deli,237
+2022-11,Pkg Sand Other Products,164
+2022-11,Packaged Ice Cream Novelty,248
+2022-11,Frozen Foods,208
+2022-11,Packaged Bread Comm Bakery,84
+2022-11,Salty Snacks,86
+2022-11,Packaged Sweet Snacks,470
+2022-11,Alternative Snacks,172
+2022-11,Fresh Foods - Perish Groc,302
+2022-11,Edible Grocery,363
+2022-11,Non-edible Grocery,60
+2022-11,Health And Beauty Care,148
+2022-11,General Merchandise,115
+2022-11,Publications,444
+2022-11,Automotive Products,463
+2022-11,Store Services Fee Income,65
+2022-11,Store Services Fee Inc Tax,408
+2022-11,Ice Bags,297
+2022-11,Hot Dispensed Beverages,383
+2022-11,Cold Dispensed Beverages,272
+2022-11,Frozen Dispensed Beverages,120
+2022-11,Car Wash Sls,162
+2022-11,Car Wash Vending Sales,280
+2022-11,Chilled Bev Fee,107
+2022-11,Coupons,253
+2022-11,Cravins To Order,106
+2022-11,CTO Ing Shelf Stable,151
+2022-11,Fe Gift Cards Radiant,394
+2022-11,Floral,356
+2022-11,Fresh Bakery,197
+2022-11,Gen Merch Scan Data Sales,367
+2022-11,JW European Cafe,218
+2022-11,Lottery Instant Tickets,387
+2022-11,Lottery ITVM Instant Tickets,82
+2022-11,Lottery Online Sales,182
+2022-11,Manual Fuel Radiant,472
+2022-11,Money Orders Radiant,452
+2022-11,Money Transfers,348
+2022-11,No Scan Merch Radiant,428
+2022-11,Novelty,300
+2022-11,Phone Card Fee,489
+2022-11,Supplies-retail,159
+2022-12,Cigarettes,484
+2022-12,Other Tobacco,419
+2022-12,Beer,254
+2022-12,Wine,493
+2022-12,Packaged Beverages-nonalcoh,309
+2022-12,Candy,223
+2022-12,Fluid Milk Products,252
+2022-12,Other Dairy Deli,401
+2022-12,Pkg Sand Other Products,119
+2022-12,Packaged Ice Cream Novelty,330
+2022-12,Frozen Foods,304
+2022-12,Packaged Bread Comm Bakery,231
+2022-12,Salty Snacks,415
+2022-12,Packaged Sweet Snacks,120
+2022-12,Alternative Snacks,272
+2022-12,Fresh Foods - Perish Groc,487
+2022-12,Edible Grocery,319
+2022-12,Non-edible Grocery,258
+2022-12,Health And Beauty Care,409
+2022-12,General Merchandise,438
+2022-12,Publications,154
+2022-12,Automotive Products,365
+2022-12,Store Services Fee Income,351
+2022-12,Store Services Fee Inc Tax,222
+2022-12,Ice Bags,492
+2022-12,Hot Dispensed Beverages,176
+2022-12,Cold Dispensed Beverages,202
+2022-12,Frozen Dispensed Beverages,222
+2022-12,Car Wash Sls,95
+2022-12,Car Wash Vending Sales,242
+2022-12,Chilled Bev Fee,262
+2022-12,Coupons,472
+2022-12,Cravins To Order,155
+2022-12,CTO Ing Shelf Stable,350
+2022-12,Fe Gift Cards Radiant,195
+2022-12,Floral,383
+2022-12,Fresh Bakery,211
+2022-12,Gen Merch Scan Data Sales,86
+2022-12,JW European Cafe,188
+2022-12,Lottery Instant Tickets,349
+2022-12,Lottery ITVM Instant Tickets,262
+2022-12,Lottery Online Sales,147
+2022-12,Manual Fuel Radiant,115
+2022-12,Money Orders Radiant,170
+2022-12,Money Transfers,464
+2022-12,No Scan Merch Radiant,215
+2022-12,Novelty,237
+2022-12,Phone Card Fee,205
+2022-12,Supplies-retail,482
+2023-01,Cigarettes,317
+2023-01,Other Tobacco,137
+2023-01,Beer,412
+2023-01,Wine,231
+2023-01,Packaged Beverages-nonalcoh,318
+2023-01,Candy,250
+2023-01,Fluid Milk Products,372
+2023-01,Other Dairy Deli,332
+2023-01,Pkg Sand Other Products,460
+2023-01,Packaged Ice Cream Novelty,109
+2023-01,Frozen Foods,439
+2023-01,Packaged Bread Comm Bakery,162
+2023-01,Salty Snacks,473
+2023-01,Packaged Sweet Snacks,434
+2023-01,Alternative Snacks,419
+2023-01,Fresh Foods - Perish Groc,443
+2023-01,Edible Grocery,148
+2023-01,Non-edible Grocery,293
+2023-01,Health And Beauty Care,328
+2023-01,General Merchandise,166
+2023-01,Publications,362
+2023-01,Automotive Products,471
+2023-01,Store Services Fee Income,353
+2023-01,Store Services Fee Inc Tax,275
+2023-01,Ice Bags,326
+2023-01,Hot Dispensed Beverages,355
+2023-01,Cold Dispensed Beverages,384
+2023-01,Frozen Dispensed Beverages,464
+2023-01,Car Wash Sls,451
+2023-01,Car Wash Vending Sales,262
+2023-01,Chilled Bev Fee,413
+2023-01,Coupons,477
+2023-01,Cravins To Order,180
+2023-01,CTO Ing Shelf Stable,412
+2023-01,Fe Gift Cards Radiant,143
+2023-01,Floral,322
+2023-01,Fresh Bakery,462
+2023-01,Gen Merch Scan Data Sales,159
+2023-01,JW European Cafe,107
+2023-01,Lottery Instant Tickets,144
+2023-01,Lottery ITVM Instant Tickets,210
+2023-01,Lottery Online Sales,430
+2023-01,Manual Fuel Radiant,225
+2023-01,Money Orders Radiant,105
+2023-01,Money Transfers,272
+2023-01,No Scan Merch Radiant,128
+2023-01,Novelty,483
+2023-01,Phone Card Fee,288
+2023-01,Supplies-retail,148
+2023-02,Cigarettes,257
+2023-02,Other Tobacco,498
+2023-02,Beer,294
+2023-02,Wine,485
+2023-02,Packaged Beverages-nonalcoh,461
+2023-02,Candy,488
+2023-02,Fluid Milk Products,66
+2023-02,Other Dairy Deli,145
+2023-02,Pkg Sand Other Products,68
+2023-02,Packaged Ice Cream Novelty,57
+2023-02,Frozen Foods,315
+2023-02,Packaged Bread Comm Bakery,118
+2023-02,Salty Snacks,441
+2023-02,Packaged Sweet Snacks,315
+2023-02,Alternative Snacks,203
+2023-02,Fresh Foods - Perish Groc,423
+2023-02,Edible Grocery,431
+2023-02,Non-edible Grocery,382
+2023-02,Health And Beauty Care,420
+2023-02,General Merchandise,104
+2023-02,Publications,243
+2023-02,Automotive Products,432
+2023-02,Store Services Fee Income,419
+2023-02,Store Services Fee Inc Tax,273
+2023-02,Ice Bags,250
+2023-02,Hot Dispensed Beverages,257
+2023-02,Cold Dispensed Beverages,219
+2023-02,Frozen Dispensed Beverages,90
+2023-02,Car Wash Sls,440
+2023-02,Car Wash Vending Sales,350
+2023-02,Chilled Bev Fee,116
+2023-02,Coupons,492
+2023-02,Cravins To Order,334
+2023-02,CTO Ing Shelf Stable,359
+2023-02,Fe Gift Cards Radiant,76
+2023-02,Floral,437
+2023-02,Fresh Bakery,428
+2023-02,Gen Merch Scan Data Sales,498
+2023-02,JW European Cafe,345
+2023-02,Lottery Instant Tickets,101
+2023-02,Lottery ITVM Instant Tickets,320
+2023-02,Lottery Online Sales,499
+2023-02,Manual Fuel Radiant,423
+2023-02,Money Orders Radiant,298
+2023-02,Money Transfers,130
+2023-02,No Scan Merch Radiant,199
+2023-02,Novelty,194
+2023-02,Phone Card Fee,358
+2023-02,Supplies-retail,156
+2023-03,Cigarettes,234
+2023-03,Other Tobacco,255
+2023-03,Beer,245
+2023-03,Wine,459
+2023-03,Packaged Beverages-nonalcoh,268
+2023-03,Candy,125
+2023-03,Fluid Milk Products,325
+2023-03,Other Dairy Deli,207
+2023-03,Pkg Sand Other Products,137
+2023-03,Packaged Ice Cream Novelty,391
+2023-03,Frozen Foods,273
+2023-03,Packaged Bread Comm Bakery,462
+2023-03,Salty Snacks,488
+2023-03,Packaged Sweet Snacks,232
+2023-03,Alternative Snacks,330
+2023-03,Fresh Foods - Perish Groc,65
+2023-03,Edible Grocery,415
+2023-03,Non-edible Grocery,462
+2023-03,Health And Beauty Care,76
+2023-03,General Merchandise,212
+2023-03,Publications,314
+2023-03,Automotive Products,292
+2023-03,Store Services Fee Income,124
+2023-03,Store Services Fee Inc Tax,460
+2023-03,Ice Bags,421
+2023-03,Hot Dispensed Beverages,287
+2023-03,Cold Dispensed Beverages,231
+2023-03,Frozen Dispensed Beverages,383
+2023-03,Car Wash Sls,479
+2023-03,Car Wash Vending Sales,448
+2023-03,Chilled Bev Fee,317
+2023-03,Coupons,223
+2023-03,Cravins To Order,231
+2023-03,CTO Ing Shelf Stable,402
+2023-03,Fe Gift Cards Radiant,324
+2023-03,Floral,194
+2023-03,Fresh Bakery,202
+2023-03,Gen Merch Scan Data Sales,243
+2023-03,JW European Cafe,293
+2023-03,Lottery Instant Tickets,487
+2023-03,Lottery ITVM Instant Tickets,298
+2023-03,Lottery Online Sales,243
+2023-03,Manual Fuel Radiant,254
+2023-03,Money Orders Radiant,273
+2023-03,Money Transfers,63
+2023-03,No Scan Merch Radiant,371
+2023-03,Novelty,170
+2023-03,Phone Card Fee,445
+2023-03,Supplies-retail,236
+2023-04,Cigarettes,309
+2023-04,Other Tobacco,328
+2023-04,Beer,59
+2023-04,Wine,261
+2023-04,Packaged Beverages-nonalcoh,458
+2023-04,Candy,344
+2023-04,Fluid Milk Products,315
+2023-04,Other Dairy Deli,278
+2023-04,Pkg Sand Other Products,286
+2023-04,Packaged Ice Cream Novelty,338
+2023-04,Frozen Foods,454
+2023-04,Packaged Bread Comm Bakery,407
+2023-04,Salty Snacks,186
+2023-04,Packaged Sweet Snacks,166
+2023-04,Alternative Snacks,53
+2023-04,Fresh Foods - Perish Groc,123
+2023-04,Edible Grocery,286
+2023-04,Non-edible Grocery,230
+2023-04,Health And Beauty Care,178
+2023-04,General Merchandise,286
+2023-04,Publications,158
+2023-04,Automotive Products,66
+2023-04,Store Services Fee Income,378
+2023-04,Store Services Fee Inc Tax,128
+2023-04,Ice Bags,452
+2023-04,Hot Dispensed Beverages,338
+2023-04,Cold Dispensed Beverages,198
+2023-04,Frozen Dispensed Beverages,123
+2023-04,Car Wash Sls,234
+2023-04,Car Wash Vending Sales,333
+2023-04,Chilled Bev Fee,272
+2023-04,Coupons,439
+2023-04,Cravins To Order,440
+2023-04,CTO Ing Shelf Stable,473
+2023-04,Fe Gift Cards Radiant,214
+2023-04,Floral,82
+2023-04,Fresh Bakery,133
+2023-04,Gen Merch Scan Data Sales,78
+2023-04,JW European Cafe,240
+2023-04,Lottery Instant Tickets,91
+2023-04,Lottery ITVM Instant Tickets,128
+2023-04,Lottery Online Sales,131
+2023-04,Manual Fuel Radiant,487
+2023-04,Money Orders Radiant,219
+2023-04,Money Transfers,289
+2023-04,No Scan Merch Radiant,228
+2023-04,Novelty,196
+2023-04,Phone Card Fee,401
+2023-04,Supplies-retail,309
+2023-05,Cigarettes,341
+2023-05,Other Tobacco,191
+2023-05,Beer,307
+2023-05,Wine,494
+2023-05,Packaged Beverages-nonalcoh,267
+2023-05,Candy,114
+2023-05,Fluid Milk Products,457
+2023-05,Other Dairy Deli,92
+2023-05,Pkg Sand Other Products,218
+2023-05,Packaged Ice Cream Novelty,282
+2023-05,Frozen Foods,179
+2023-05,Packaged Bread Comm Bakery,257
+2023-05,Salty Snacks,338
+2023-05,Packaged Sweet Snacks,170
+2023-05,Alternative Snacks,146
+2023-05,Fresh Foods - Perish Groc,390
+2023-05,Edible Grocery,495
+2023-05,Non-edible Grocery,466
+2023-05,Health And Beauty Care,498
+2023-05,General Merchandise,242
+2023-05,Publications,373
+2023-05,Automotive Products,252
+2023-05,Store Services Fee Income,74
+2023-05,Store Services Fee Inc Tax,346
+2023-05,Ice Bags,489
+2023-05,Hot Dispensed Beverages,317
+2023-05,Cold Dispensed Beverages,261
+2023-05,Frozen Dispensed Beverages,418
+2023-05,Car Wash Sls,287
+2023-05,Car Wash Vending Sales,226
+2023-05,Chilled Bev Fee,159
+2023-05,Coupons,300
+2023-05,Cravins To Order,241
+2023-05,CTO Ing Shelf Stable,223
+2023-05,Fe Gift Cards Radiant,369
+2023-05,Floral,194
+2023-05,Fresh Bakery,450
+2023-05,Gen Merch Scan Data Sales,374
+2023-05,JW European Cafe,417
+2023-05,Lottery Instant Tickets,490
+2023-05,Lottery ITVM Instant Tickets,227
+2023-05,Lottery Online Sales,246
+2023-05,Manual Fuel Radiant,171
+2023-05,Money Orders Radiant,59
+2023-05,Money Transfers,300
+2023-05,No Scan Merch Radiant,411
+2023-05,Novelty,303
+2023-05,Phone Card Fee,467
+2023-05,Supplies-retail,186
+2023-06,Cigarettes,492
+2023-06,Other Tobacco,51
+2023-06,Beer,243
+2023-06,Wine,487
+2023-06,Packaged Beverages-nonalcoh,79
+2023-06,Candy,96
+2023-06,Fluid Milk Products,201
+2023-06,Other Dairy Deli,149
+2023-06,Pkg Sand Other Products,453
+2023-06,Packaged Ice Cream Novelty,380
+2023-06,Frozen Foods,328
+2023-06,Packaged Bread Comm Bakery,444
+2023-06,Salty Snacks,306
+2023-06,Packaged Sweet Snacks,115
+2023-06,Alternative Snacks,442
+2023-06,Fresh Foods - Perish Groc,284
+2023-06,Edible Grocery,159
+2023-06,Non-edible Grocery,382
+2023-06,Health And Beauty Care,120
+2023-06,General Merchandise,170
+2023-06,Publications,283
+2023-06,Automotive Products,287
+2023-06,Store Services Fee Income,327
+2023-06,Store Services Fee Inc Tax,118
+2023-06,Ice Bags,329
+2023-06,Hot Dispensed Beverages,171
+2023-06,Cold Dispensed Beverages,464
+2023-06,Frozen Dispensed Beverages,87
+2023-06,Car Wash Sls,394
+2023-06,Car Wash Vending Sales,373
+2023-06,Chilled Bev Fee,343
+2023-06,Coupons,190
+2023-06,Cravins To Order,348
+2023-06,CTO Ing Shelf Stable,305
+2023-06,Fe Gift Cards Radiant,88
+2023-06,Floral,157
+2023-06,Fresh Bakery,108
+2023-06,Gen Merch Scan Data Sales,116
+2023-06,JW European Cafe,273
+2023-06,Lottery Instant Tickets,387
+2023-06,Lottery ITVM Instant Tickets,315
+2023-06,Lottery Online Sales,477
+2023-06,Manual Fuel Radiant,113
+2023-06,Money Orders Radiant,335
+2023-06,Money Transfers,273
+2023-06,No Scan Merch Radiant,158
+2023-06,Novelty,386
+2023-06,Phone Card Fee,133
+2023-06,Supplies-retail,372
+2023-07,Cigarettes,444
+2023-07,Other Tobacco,495
+2023-07,Beer,181
+2023-07,Wine,51
+2023-07,Packaged Beverages-nonalcoh,370
+2023-07,Candy,493
+2023-07,Fluid Milk Products,471
+2023-07,Other Dairy Deli,436
+2023-07,Pkg Sand Other Products,225
+2023-07,Packaged Ice Cream Novelty,165
+2023-07,Frozen Foods,246
+2023-07,Packaged Bread Comm Bakery,491
+2023-07,Salty Snacks,478
+2023-07,Packaged Sweet Snacks,264
+2023-07,Alternative Snacks,170
+2023-07,Fresh Foods - Perish Groc,92
+2023-07,Edible Grocery,153
+2023-07,Non-edible Grocery,382
+2023-07,Health And Beauty Care,219
+2023-07,General Merchandise,271
+2023-07,Publications,353
+2023-07,Automotive Products,218
+2023-07,Store Services Fee Income,148
+2023-07,Store Services Fee Inc Tax,304
+2023-07,Ice Bags,118
+2023-07,Hot Dispensed Beverages,269
+2023-07,Cold Dispensed Beverages,471
+2023-07,Frozen Dispensed Beverages,339
+2023-07,Car Wash Sls,205
+2023-07,Car Wash Vending Sales,118
+2023-07,Chilled Bev Fee,194
+2023-07,Coupons,99
+2023-07,Cravins To Order,132
+2023-07,CTO Ing Shelf Stable,386
+2023-07,Fe Gift Cards Radiant,349
+2023-07,Floral,102
+2023-07,Fresh Bakery,305
+2023-07,Gen Merch Scan Data Sales,191
+2023-07,JW European Cafe,239
+2023-07,Lottery Instant Tickets,335
+2023-07,Lottery ITVM Instant Tickets,293
+2023-07,Lottery Online Sales,129
+2023-07,Manual Fuel Radiant,139
+2023-07,Money Orders Radiant,62
+2023-07,Money Transfers,348
+2023-07,No Scan Merch Radiant,382
+2023-07,Novelty,434
+2023-07,Phone Card Fee,406
+2023-07,Supplies-retail,107
+2023-08,Cigarettes,233
+2023-08,Other Tobacco,51
+2023-08,Beer,201
+2023-08,Wine,390
+2023-08,Packaged Beverages-nonalcoh,431
+2023-08,Candy,111
+2023-08,Fluid Milk Products,88
+2023-08,Other Dairy Deli,450
+2023-08,Pkg Sand Other Products,123
+2023-08,Packaged Ice Cream Novelty,135
+2023-08,Frozen Foods,166
+2023-08,Packaged Bread Comm Bakery,248
+2023-08,Salty Snacks,158
+2023-08,Packaged Sweet Snacks,316
+2023-08,Alternative Snacks,131
+2023-08,Fresh Foods - Perish Groc,424
+2023-08,Edible Grocery,73
+2023-08,Non-edible Grocery,336
+2023-08,Health And Beauty Care,111
+2023-08,General Merchandise,334
+2023-08,Publications,255
+2023-08,Automotive Products,106
+2023-08,Store Services Fee Income,294
+2023-08,Store Services Fee Inc Tax,257
+2023-08,Ice Bags,113
+2023-08,Hot Dispensed Beverages,86
+2023-08,Cold Dispensed Beverages,278
+2023-08,Frozen Dispensed Beverages,183
+2023-08,Car Wash Sls,265
+2023-08,Car Wash Vending Sales,300
+2023-08,Chilled Bev Fee,211
+2023-08,Coupons,467
+2023-08,Cravins To Order,492
+2023-08,CTO Ing Shelf Stable,312
+2023-08,Fe Gift Cards Radiant,484
+2023-08,Floral,393
+2023-08,Fresh Bakery,421
+2023-08,Gen Merch Scan Data Sales,430
+2023-08,JW European Cafe,94
+2023-08,Lottery Instant Tickets,417
+2023-08,Lottery ITVM Instant Tickets,137
+2023-08,Lottery Online Sales,361
+2023-08,Manual Fuel Radiant,360
+2023-08,Money Orders Radiant,236
+2023-08,Money Transfers,351
+2023-08,No Scan Merch Radiant,304
+2023-08,Novelty,406
+2023-08,Phone Card Fee,158
+2023-08,Supplies-retail,98
+2023-09,Cigarettes,393
+2023-09,Other Tobacco,313
+2023-09,Beer,131
+2023-09,Wine,264
+2023-09,Packaged Beverages-nonalcoh,415
+2023-09,Candy,135
+2023-09,Fluid Milk Products,478
+2023-09,Other Dairy Deli,216
+2023-09,Pkg Sand Other Products,464
+2023-09,Packaged Ice Cream Novelty,342
+2023-09,Frozen Foods,56
+2023-09,Packaged Bread Comm Bakery,211
+2023-09,Salty Snacks,141
+2023-09,Packaged Sweet Snacks,251
+2023-09,Alternative Snacks,78
+2023-09,Fresh Foods - Perish Groc,429
+2023-09,Edible Grocery,286
+2023-09,Non-edible Grocery,496
+2023-09,Health And Beauty Care,467
+2023-09,General Merchandise,306
+2023-09,Publications,310
+2023-09,Automotive Products,310
+2023-09,Store Services Fee Income,176
+2023-09,Store Services Fee Inc Tax,186
+2023-09,Ice Bags,187
+2023-09,Hot Dispensed Beverages,442
+2023-09,Cold Dispensed Beverages,61
+2023-09,Frozen Dispensed Beverages,348
+2023-09,Car Wash Sls,144
+2023-09,Car Wash Vending Sales,469
+2023-09,Chilled Bev Fee,50
+2023-09,Coupons,221
+2023-09,Cravins To Order,127
+2023-09,CTO Ing Shelf Stable,150
+2023-09,Fe Gift Cards Radiant,244
+2023-09,Floral,449
+2023-09,Fresh Bakery,210
+2023-09,Gen Merch Scan Data Sales,365
+2023-09,JW European Cafe,495
+2023-09,Lottery Instant Tickets,268
+2023-09,Lottery ITVM Instant Tickets,263
+2023-09,Lottery Online Sales,308
+2023-09,Manual Fuel Radiant,466
+2023-09,Money Orders Radiant,367
+2023-09,Money Transfers,336
+2023-09,No Scan Merch Radiant,158
+2023-09,Novelty,113
+2023-09,Phone Card Fee,78
+2023-09,Supplies-retail,162
+2023-10,Cigarettes,365
+2023-10,Other Tobacco,215
+2023-10,Beer,405
+2023-10,Wine,187
+2023-10,Packaged Beverages-nonalcoh,211
+2023-10,Candy,266
+2023-10,Fluid Milk Products,483
+2023-10,Other Dairy Deli,102
+2023-10,Pkg Sand Other Products,480
+2023-10,Packaged Ice Cream Novelty,307
+2023-10,Frozen Foods,142
+2023-10,Packaged Bread Comm Bakery,69
+2023-10,Salty Snacks,115
+2023-10,Packaged Sweet Snacks,182
+2023-10,Alternative Snacks,154
+2023-10,Fresh Foods - Perish Groc,436
+2023-10,Edible Grocery,293
+2023-10,Non-edible Grocery,359
+2023-10,Health And Beauty Care,302
+2023-10,General Merchandise,313
+2023-10,Publications,321
+2023-10,Automotive Products,425
+2023-10,Store Services Fee Income,295
+2023-10,Store Services Fee Inc Tax,243
+2023-10,Ice Bags,301
+2023-10,Hot Dispensed Beverages,498
+2023-10,Cold Dispensed Beverages,383
+2023-10,Frozen Dispensed Beverages,334
+2023-10,Car Wash Sls,180
+2023-10,Car Wash Vending Sales,185
+2023-10,Chilled Bev Fee,129
+2023-10,Coupons,135
+2023-10,Cravins To Order,432
+2023-10,CTO Ing Shelf Stable,323
+2023-10,Fe Gift Cards Radiant,386
+2023-10,Floral,104
+2023-10,Fresh Bakery,144
+2023-10,Gen Merch Scan Data Sales,391
+2023-10,JW European Cafe,260
+2023-10,Lottery Instant Tickets,459
+2023-10,Lottery ITVM Instant Tickets,221
+2023-10,Lottery Online Sales,362
+2023-10,Manual Fuel Radiant,273
+2023-10,Money Orders Radiant,154
+2023-10,Money Transfers,338
+2023-10,No Scan Merch Radiant,136
+2023-10,Novelty,484
+2023-10,Phone Card Fee,289
+2023-10,Supplies-retail,229
+2023-11,Cigarettes,149
+2023-11,Other Tobacco,320
+2023-11,Beer,233
+2023-11,Wine,323
+2023-11,Packaged Beverages-nonalcoh,172
+2023-11,Candy,326
+2023-11,Fluid Milk Products,168
+2023-11,Other Dairy Deli,93
+2023-11,Pkg Sand Other Products,382
+2023-11,Packaged Ice Cream Novelty,80
+2023-11,Frozen Foods,450
+2023-11,Packaged Bread Comm Bakery,448
+2023-11,Salty Snacks,441
+2023-11,Packaged Sweet Snacks,325
+2023-11,Alternative Snacks,480
+2023-11,Fresh Foods - Perish Groc,353
+2023-11,Edible Grocery,483
+2023-11,Non-edible Grocery,71
+2023-11,Health And Beauty Care,173
+2023-11,General Merchandise,363
+2023-11,Publications,315
+2023-11,Automotive Products,283
+2023-11,Store Services Fee Income,117
+2023-11,Store Services Fee Inc Tax,495
+2023-11,Ice Bags,197
+2023-11,Hot Dispensed Beverages,83
+2023-11,Cold Dispensed Beverages,203
+2023-11,Frozen Dispensed Beverages,322
+2023-11,Car Wash Sls,454
+2023-11,Car Wash Vending Sales,132
+2023-11,Chilled Bev Fee,160
+2023-11,Coupons,424
+2023-11,Cravins To Order,474
+2023-11,CTO Ing Shelf Stable,314
+2023-11,Fe Gift Cards Radiant,366
+2023-11,Floral,486
+2023-11,Fresh Bakery,115
+2023-11,Gen Merch Scan Data Sales,440
+2023-11,JW European Cafe,214
+2023-11,Lottery Instant Tickets,158
+2023-11,Lottery ITVM Instant Tickets,59
+2023-11,Lottery Online Sales,309
+2023-11,Manual Fuel Radiant,492
+2023-11,Money Orders Radiant,115
+2023-11,Money Transfers,468
+2023-11,No Scan Merch Radiant,197
+2023-11,Novelty,277
+2023-11,Phone Card Fee,312
+2023-11,Supplies-retail,328
+2023-12,Cigarettes,206
+2023-12,Other Tobacco,175
+2023-12,Beer,83
+2023-12,Wine,247
+2023-12,Packaged Beverages-nonalcoh,267
+2023-12,Candy,218
+2023-12,Fluid Milk Products,417
+2023-12,Other Dairy Deli,361
+2023-12,Pkg Sand Other Products,179
+2023-12,Packaged Ice Cream Novelty,372
+2023-12,Frozen Foods,355
+2023-12,Packaged Bread Comm Bakery,177
+2023-12,Salty Snacks,212
+2023-12,Packaged Sweet Snacks,402
+2023-12,Alternative Snacks,362
+2023-12,Fresh Foods - Perish Groc,344
+2023-12,Edible Grocery,151
+2023-12,Non-edible Grocery,234
+2023-12,Health And Beauty Care,491
+2023-12,General Merchandise,338
+2023-12,Publications,344
+2023-12,Automotive Products,64
+2023-12,Store Services Fee Income,313
+2023-12,Store Services Fee Inc Tax,58
+2023-12,Ice Bags,330
+2023-12,Hot Dispensed Beverages,151
+2023-12,Cold Dispensed Beverages,100
+2023-12,Frozen Dispensed Beverages,474
+2023-12,Car Wash Sls,342
+2023-12,Car Wash Vending Sales,313
+2023-12,Chilled Bev Fee,236
+2023-12,Coupons,167
+2023-12,Cravins To Order,331
+2023-12,CTO Ing Shelf Stable,410
+2023-12,Fe Gift Cards Radiant,416
+2023-12,Floral,424
+2023-12,Fresh Bakery,302
+2023-12,Gen Merch Scan Data Sales,342
+2023-12,JW European Cafe,318
+2023-12,Lottery Instant Tickets,298
+2023-12,Lottery ITVM Instant Tickets,475
+2023-12,Lottery Online Sales,335
+2023-12,Manual Fuel Radiant,111
+2023-12,Money Orders Radiant,479
+2023-12,Money Transfers,311
+2023-12,No Scan Merch Radiant,356
+2023-12,Novelty,414
+2023-12,Phone Card Fee,393
+2023-12,Supplies-retail,114
