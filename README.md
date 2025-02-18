@@ -24,11 +24,11 @@ This project analyzes historical sales data to extract actionable business insig
 
 ## 📂 Project Structure  
 SalesDataAnalysis/ <br>
-├── FrontEnd/   <t>    # React.js app with D3.js for visualization <br>
-├── BackEnd/    <t>    # FastAPI for RESTful services <br>
-├── DataScience/<t>    # Data preprocessing, Machine Learning <br>
-├── Testing/    <t>    # Automated test scripts <br>
-└── README.md   <t>    # Project documentation <br>
+├── FrontEnd/   <r>    # React.js app with D3.js for visualization <br>
+├── BackEnd/    <r>    # FastAPI for RESTful services <br>
+├── DataScience/<r>    # Data preprocessing, Machine Learning <br>
+├── Testing/    <r>    # Automated test scripts <br>
+└── README.md   <r>    # Project documentation <br>
 
 ## Project Architecture Flow
 
