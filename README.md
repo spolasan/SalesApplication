@@ -32,11 +32,12 @@ SalesDataAnalysis/
 
 ## Project Architecture Flow
 
-User -> Frontend (React with D3.js) <-> Backend (FastAPI)
-        |                              |
-        |---> Login & Authentication   |
-        |---> ML Predictions           |
-        |---> Data Analysis & Insights |
-        --------------------------------
+👤 User → 🖥️ Frontend (React + D3.js) ↔ ⚙️ Backend (FastAPI)
+                |                              |
+                |-- 🔑 Login & Authentication   |
+                |-- 🤖 ML Predictions           |
+                |-- 📊 Data Analysis & Insights |
+                --------------------------------
+
 
 This architecture ensures modularity, scalability, and ease of maintenance.
