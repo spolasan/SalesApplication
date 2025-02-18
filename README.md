@@ -31,9 +31,7 @@ SalesDataAnalysis/ <br>
 └── README.md   &emsp;&emsp;    # Project documentation <br>
 
 ## Project Architecture Flow
-
-![image](https://github.com/user-attachments/assets/0d0e994e-bf54-4f4e-8933-64942943de86)
-
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/5ab2d52f-e5cc-43a7-b5de-d7d00dc01770" />
 
 
 This architecture ensures modularity, scalability, and ease of maintenance.
