@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis and Business Insights  
+aa# 📊 Sales Data Analysis and Business Insights  
 
 ## 🚀 Project Overview  
 This project analyzes historical sales data to extract actionable business insights. By leveraging data-driven approaches, it helps businesses optimize their strategies, improve sales performance, and enhance customer experiences.  
@@ -24,11 +24,11 @@ This project analyzes historical sales data to extract actionable business insig
 
 ## 📂 Project Structure  
 SalesDataAnalysis/ <br>
-├── FrontEnd/       # React.js app with D3.js for visualization <br>
-├── BackEnd/        # FastAPI for RESTful services <br>
-├── DataScience/    # Data preprocessing, Machine Learning <br>
-├── Testing/        # Automated test scripts <br>
-└── README.md       # Project documentation <br>
+├── FrontEnd/   <t>    # React.js app with D3.js for visualization <br>
+├── BackEnd/    <t>    # FastAPI for RESTful services <br>
+├── DataScience/<t>    # Data preprocessing, Machine Learning <br>
+├── Testing/    <t>    # Automated test scripts <br>
+└── README.md   <t>    # Project documentation <br>
 
 ## Project Architecture Flow
 
