@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
+from fastapi.middleware.cors import CORSMiddleware
 from jose import JWTError, jwt
 from passlib.context import CryptContext
 from datetime import datetime, timedelta
@@ -18,6 +19,16 @@ ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 app = FastAPI()
+
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can restrict this to specific origins for better security
+    allow_credentials=True,
+    allow_methods=["*", "OPTIONS"],
+    allow_headers=["*"],
+)
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
@@ -84,18 +95,69 @@ async def register(user: UserCreate, db: Session = Depends(get_db)):
 
 @app.post("/token", response_model=Token)
 async def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):
-    user = get_user(db, username=form_data.username)
-    if not user or not verify_password(form_data.password, user.hashed_password):
+    try:
+        # Add logging to debug
+        print(f"Login attempt for username: {form_data.username}")
+        
+        user = get_user(db, username=form_data.username)
+        if not user:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="User not found",
+                headers={"WWW-Authenticate": "Bearer"},
+            )
+            
+        if not verify_password(form_data.password, user.hashed_password):
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Incorrect password",
+                headers={"WWW-Authenticate": "Bearer"},
+            )
+            
+        access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+        access_token = create_access_token(
+            data={"sub": user.username}, expires_delta=access_token_expires
+        )
+        
+        # Add logging for successful login
+        print(f"Successful login for user: {user.username}")
+        
+        return {"access_token": access_token, "token_type": "bearer"}
+        
+    except Exception as e:
+        print(f"Login error: {str(e)}")
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Incorrect username or password",
+            detail="Login failed",
             headers={"WWW-Authenticate": "Bearer"},
         )
-    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-    access_token = create_access_token(
-        data={"sub": user.username}, expires_delta=access_token_expires
-    )
-    return {"access_token": access_token, "token_type": "bearer"}
+
+# Add a test user creation endpoint for development
+@app.post("/create-test-user")
+async def create_test_user(db: Session = Depends(get_db)):
+    try:
+        # Check if test user already exists
+        test_user = get_user(db, username="demo")
+        if test_user:
+            return {"message": "Test user already exists"}
+            
+        # Create test user
+        hashed_password = get_password_hash("demo123")
+        test_user = UserModel(
+            username="demo",
+            email="demo@example.com",
+            full_name="Demo User",
+            hashed_password=hashed_password
+        )
+        db.add(test_user)
+        db.commit()
+        db.refresh(test_user)
+        return {"message": "Test user created successfully"}
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Could not create test user: {str(e)}"
+        )
 
 @app.get("/users/me", response_model=User)
 async def read_users_me(current_user: UserModel = Depends(get_current_user)):

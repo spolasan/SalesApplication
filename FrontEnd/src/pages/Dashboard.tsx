@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import {
   LineChart,
@@ -17,6 +16,7 @@ import {
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 
 const generateData = () => {
   const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'];
@@ -33,13 +33,20 @@ const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042'];
 const Dashboard = () => {
   const [data] = useState(generateData());
   const [activeTimeframe, setActiveTimeframe] = useState("6M");
+  const navigate = useNavigate();
 
   const timeframes = [
     { label: "1M", value: "1M" },
     { label: "3M", value: "3M" },
     { label: "6M", value: "6M" },
     { label: "1Y", value: "1Y" },
+    { label: "2Y", value: "2Y" },
   ];
+
+  const handleLogout = () => {
+    localStorage.removeItem('token');
+    navigate('/');
+  };
 
   return (
     <div className="min-h-screen bg-gray-50 p-8">
@@ -62,6 +69,9 @@ const Dashboard = () => {
                 {tf.label}
               </Button>
             ))}
+            <Button onClick={handleLogout} className="bg-red-500 text-white hover:bg-red-700">
+              Logout
+            </Button>
           </div>
         </div>
 
