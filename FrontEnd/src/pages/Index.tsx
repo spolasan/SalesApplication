@@ -41,10 +41,10 @@ const Index = () => {
             className="text-center"
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600">
-              Transform Your Sales Data
+            Cloud GEN - Transform Your Sales Data
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              Turn complex sales data into actionable insights with our powerful analytics platform
+            Cloud GEN is a leading provider of cloud solutions, dedicated to helping businesses harness the power of cloud technology for growth and success. With our expertise and commitment to excellence, we strive to deliver exceptional services and support to our clients.
             </p>
             <Button
               onClick={() => navigate("/login")}
