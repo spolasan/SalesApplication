@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   LineChart,
   Line,
@@ -12,11 +12,15 @@ import {
   PieChart,
   Pie,
   Cell,
+  ScatterChart,
+  Scatter,
+  Legend,
 } from "recharts";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
+import axios from "axios";
 
 const generateData = () => {
   const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'];
@@ -30,9 +34,16 @@ const generateData = () => {
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042'];
 
+interface CorrelationData {
+  'Inside Sales': number;
+  'Gas Sales': number;
+}
+
 const Dashboard = () => {
   const [data] = useState(generateData());
   const [activeTimeframe, setActiveTimeframe] = useState("6M");
+  const [correlationData, setCorrelationData] = useState<CorrelationData[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
   const navigate = useNavigate();
 
   const timeframes = [
@@ -42,6 +53,29 @@ const Dashboard = () => {
     { label: "1Y", value: "1Y" },
     { label: "2Y", value: "2Y" },
   ];
+
+  useEffect(() => {
+    const fetchCorrelationData = async () => {
+      try {
+        const token = localStorage.getItem('token');
+        const response = await axios.get(
+          `http://localhost:5050/correlation_analysis/${activeTimeframe}`,
+          {
+            headers: {
+              Authorization: `Bearer ${token}`
+            }
+          }
+        );
+        setCorrelationData(response.data);
+      } catch (error) {
+        console.error("Error fetching correlation data:", error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchCorrelationData();
+  }, [activeTimeframe]);
 
   const handleLogout = () => {
     localStorage.removeItem('token');
@@ -154,38 +188,94 @@ const Dashboard = () => {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.6 }}
+          transition={{ duration: 0.6, delay: 0.8 }}
         >
           <Card className="p-6">
-            <h3 className="text-lg font-semibold mb-4">Detailed Analytics</h3>
-            <ResponsiveContainer width="100%" height={300}>
-              <LineChart data={data}>
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="month" />
-                <YAxis yAxisId="left" />
-                <YAxis yAxisId="right" orientation="right" />
-                <Tooltip />
-                <Line
-                  yAxisId="left"
-                  type="monotone"
-                  dataKey="sales"
-                  stroke="#8884d8"
-                  strokeWidth={2}
-                />
-                <Line
-                  yAxisId="right"
-                  type="monotone"
-                  dataKey="revenue"
-                  stroke="#82ca9d"
-                  strokeWidth={2}
-                />
-              </LineChart>
-            </ResponsiveContainer>
+            <h3 className="text-lg font-semibold mb-4">Sales Correlation Analysis</h3>
+            {isLoading ? (
+              <div className="flex justify-center items-center h-[300px]">
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900"></div>
+              </div>
+            ) : (
+              <ResponsiveContainer width="100%" height={400}>
+                <ScatterChart
+                  margin={{
+                    top: 20,
+                    right: 20,
+                    bottom: 20,
+                    left: 20,
+                  }}
+                >
+                  <CartesianGrid />
+                  <XAxis 
+                    type="number" 
+                    dataKey="Inside Sales" 
+                    name="Inside Sales" 
+                    unit="$"
+                    domain={['auto', 'auto']}
+                  />
+                  <YAxis 
+                    type="number" 
+                    dataKey="Gas Sales" 
+                    name="Gas Sales" 
+                    unit="$"
+                    domain={['auto', 'auto']}
+                  />
+                  <Tooltip cursor={{ strokeDasharray: '3 3' }} />
+                  <Legend />
+                  <Scatter
+                    name="Sales Correlation"
+                    data={correlationData}
+                    fill="#8884d8"
+                  >
+                    {correlationData.map((entry, index) => (
+                      <Cell
+                        key={`cell-${index}`}
+                        fill={COLORS[index % COLORS.length]}
+                      />
+                    ))}
+                  </Scatter>
+                </ScatterChart>
+              </ResponsiveContainer>
+            )}
+            <div className="mt-4 text-sm text-gray-600">
+              <p>Timeframe: {activeTimeframe}</p>
+              <p>
+                Correlation Strength: {
+                  correlationData.length > 0
+                    ? (calculateCorrelation(correlationData) * 100).toFixed(2) + '%'
+                    : 'N/A'
+                }
+              </p>
+            </div>
           </Card>
         </motion.div>
       </motion.div>
     </div>
   );
+};
+
+const calculateCorrelation = (data: CorrelationData[]) => {
+  if (data.length < 2) return 0;
+
+  const xValues = data.map(d => d['Inside Sales']);
+  const yValues = data.map(d => d['Gas Sales']);
+
+  const xMean = xValues.reduce((a, b) => a + b, 0) / xValues.length;
+  const yMean = yValues.reduce((a, b) => a + b, 0) / yValues.length;
+
+  const numerator = xValues.reduce((sum, x, i) => 
+    sum + (x - xMean) * (yValues[i] - yMean), 0
+  );
+
+  const xVariance = xValues.reduce((sum, x) => 
+    sum + Math.pow(x - xMean, 2), 0
+  );
+  const yVariance = yValues.reduce((sum, y) => 
+    sum + Math.pow(y - yMean, 2), 0
+  );
+
+  return numerator / Math.sqrt(xVariance * yVariance);
 };
 
 export default Dashboard;

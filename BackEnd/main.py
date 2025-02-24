@@ -9,7 +9,8 @@ from sqlalchemy.orm import Session
 from schemas import UserCreate, User, Token, TokenData
 from models import User as UserModel
 from database import get_db, engine, Base
-
+import pandas as pd
+import os
 # Create tables
 Base.metadata.create_all(bind=engine)
 
@@ -162,6 +163,60 @@ async def create_test_user(db: Session = Depends(get_db)):
 @app.get("/users/me", response_model=User)
 async def read_users_me(current_user: UserModel = Depends(get_current_user)):
     return current_user
+
+@app.get("/correlation_analysis/{timeframe}")
+async def get_correlation(timeframe: str, db: Session = Depends(get_db)):
+    try:
+        print(f"Fetching correlation data for timeframe: {timeframe}")
+        
+        # Print current working directory to debug file paths
+        print(f"Current working directory: {os.getcwd()}")
+        
+        ameriplex = pd.read_csv(r"..\DataScience\CleanedData\without_imputed_values\ameriplex.csv")
+        print(f"Ameriplex data shape: {ameriplex.shape}")
+        
+        ameriplex_fuel = pd.read_csv(r"..\DataScience\CleanedData\without_imputed_values\ameriplex_fuel.csv")
+        print(f"Ameriplex fuel data shape: {ameriplex_fuel.shape}")
+
+        data = pd.DataFrame()
+        data["Inside Sales"] = ameriplex.iloc[-1]
+        data["Gas Sales"] = ameriplex_fuel.iloc[-1]
+        data.dropna(inplace=True)
+        data = data.to_dict(orient='records')[1:]
+        print(data)
+
+
+        # Filter based on timeframe
+        if timeframe == "1M":
+            data = data[-1:]
+        elif timeframe == "3M":
+            data = data[-3:]
+        elif timeframe == "6M":
+            data = data[-6:]
+        elif timeframe == "1Y":
+            data = data[-12:]
+        elif timeframe == "2Y":
+            data = data
+
+        print(f"Returning {len(data)} data points for timeframe {timeframe}")
+        
+        # Ensure all values are JSON serializable
+        cleaned_data = []
+        for point in data:
+            if all(not pd.isna(v) for v in point.values()):
+                cleaned_data.append({
+                    "Inside Sales": float(point["Inside Sales"]),
+                    "Gas Sales": float(point["Gas Sales"])
+                })
+
+        return cleaned_data
+
+    except Exception as e:
+        print(f"Error in correlation analysis: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error processing correlation data: {str(e)}"
+        )
 
 if __name__ == "__main__":
     import uvicorn
