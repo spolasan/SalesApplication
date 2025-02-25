@@ -14,17 +14,17 @@ pip install pytest pytest-cov fastapi httpx sqlalchemy
 
 Run all tests:
 ```bash
-pytest Testing/tests/
+python -m pytest Testing/tests/
 ```
 
 Run with coverage report:
 ```bash
-pytest --cov=BackEnd Testing/tests/
+python -m pytest --cov=BackEnd Testing/tests/
 ```
 
 Run specific test file:
 ```bash
-pytest Testing/tests/test_auth.py -v
+python -m pytest Testing/tests/test_auth.py -v
 ```
 
 ## Test Structure
@@ -37,7 +37,7 @@ pytest Testing/tests/test_auth.py -v
 
 Generate a detailed coverage report:
 ```bash
-pytest --cov=BackEnd --cov-report=html Testing/tests/
+python -m pytest --cov=BackEnd --cov-report=html Testing/tests/
 ```
 
 This will create a `htmlcov` directory with a detailed HTML report.
@@ -45,4 +45,4 @@ This will create a `htmlcov` directory with a detailed HTML report.
 ## Test Coverage
 
 ```bash
-   pytest --cov=tests
+   python -m pytest --cov=tests

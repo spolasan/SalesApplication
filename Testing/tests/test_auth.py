@@ -5,13 +5,16 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from database import get_db, Base
-from models import User as UserModel
-from passlib.context import CryptContext
 
 # Add backend directory to path
 backend_path = str(Path(__file__).parent.parent.parent / "BackEnd")
 sys.path.append(backend_path)
+
+# Import app and other backend modules after adding backend path
+from main import app  # Add this import
+from database import get_db, Base
+from models import User as UserModel
+from passlib.context import CryptContext
 
 # Setup test database
 SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
@@ -20,8 +23,8 @@ TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engin
 
 # Override the dependency
 def override_get_db():
-    db = TestingSessionLocal()
     try:
+        db = TestingSessionLocal()
         yield db
     finally:
         db.close()
@@ -30,6 +33,9 @@ app.dependency_overrides[get_db] = override_get_db
 
 # Create test database tables
 Base.metadata.create_all(bind=engine)
+
+# Test client
+client = TestClient(app)
 
 # Create a test user
 def create_test_user(db):
@@ -44,9 +50,6 @@ def create_test_user(db):
     db.add(test_user)
     db.commit()
     db.refresh(test_user)
-
-# Test client
-client = TestClient(app)
 
 @pytest.fixture(scope="module")
 def setup_database():
