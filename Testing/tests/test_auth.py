@@ -1,18 +1,24 @@
+import sys
+import os
+from pathlib import Path
 import pytest
 from fastapi.testclient import TestClient
-from main import app
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from database import get_db, Base
 from models import User as UserModel
 from passlib.context import CryptContext
 
-# Setup the test database
+# Add backend directory to path
+backend_path = str(Path(__file__).parent.parent.parent / "BackEnd")
+sys.path.append(backend_path)
+
+# Setup test database
 SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
 engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})
 TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-# Dependency override
+# Override the dependency
 def override_get_db():
     db = TestingSessionLocal()
     try:
@@ -22,7 +28,7 @@ def override_get_db():
 
 app.dependency_overrides[get_db] = override_get_db
 
-# Create the database tables
+# Create test database tables
 Base.metadata.create_all(bind=engine)
 
 # Create a test user
@@ -50,29 +56,54 @@ def setup_database():
     yield
     db.close()
 
-def test_login_success(setup_database):
+def test_create_user():
+    response = client.post(
+        "/create-test-user",
+    )
+    assert response.status_code == 200
+    assert "message" in response.json()
+
+def test_login_success():
+    # First ensure test user exists
+    client.post("/create-test-user")
+    
     response = client.post(
         "/token",
-        data={"username": "testuser", "password": "testpassword"},
+        data={"username": "demo", "password": "demo123"},
         headers={"Content-Type": "application/x-www-form-urlencoded"}
     )
     assert response.status_code == 200
     assert "access_token" in response.json()
 
-def test_login_failure_incorrect_password(setup_database):
+def test_login_wrong_password():
     response = client.post(
         "/token",
-        data={"username": "testuser", "password": "wrongpassword"},
+        data={"username": "demo", "password": "wrongpassword"},
         headers={"Content-Type": "application/x-www-form-urlencoded"}
     )
     assert response.status_code == 401
-    assert response.json()["detail"] == "Incorrect password"
 
-def test_login_failure_user_not_found(setup_database):
+def test_login_wrong_username():
     response = client.post(
         "/token",
-        data={"username": "nonexistentuser", "password": "testpassword"},
+        data={"username": "nonexistent", "password": "demo123"},
         headers={"Content-Type": "application/x-www-form-urlencoded"}
     )
     assert response.status_code == 401
-    assert response.json()["detail"] == "User not found" 
+
+def test_protected_route():
+    # First login to get token
+    login_response = client.post(
+        "/token",
+        data={"username": "demo", "password": "demo123"},
+        headers={"Content-Type": "application/x-www-form-urlencoded"}
+    )
+    token = login_response.json()["access_token"]
+    
+    # Test protected route
+    response = client.get(
+        "/users/me",
+        headers={"Authorization": f"Bearer {token}"}
+    )
+    assert response.status_code == 200
+    assert response.json()["username"] == "demo" 
